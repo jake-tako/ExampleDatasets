@@ -1,392 +1,392 @@
 month,department,line_type,product_line,category,subcategory,counterparty,invoice_id,amount,budget,variance,is_over_budget,spend_to_budget_ratio,headcount,role,notes,days_past_due,aging_bucket,state,dept_total_opex,company_ebitda
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-029,75.7,74.45,1.25,True,1.017,0,N/A,Operations other line,23.0,0-30,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-020,74.04,67.93,6.11,True,1.09,0,N/A,Operations other line,,,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-006,72.41,66.96,5.45,True,1.081,0,N/A,Operations other line,45.0,31-60,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-039,68.97,65.72,3.25,True,1.049,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-036,68.93,67.48,1.45,True,1.022,0,N/A,Operations other line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-055,56.61,52.83,3.78,True,1.072,0,N/A,Operations other line,32.0,31-60,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-085,54.91,51.86,3.05,True,1.059,0,N/A,Operations other line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-022,52.18,50.41,1.77,True,1.035,0,N/A,Operations other line,11.0,0-30,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-071,49.33,46.06,3.27,True,1.071,0,N/A,Operations other line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-038,48.63,47.32,1.31,True,1.028,0,N/A,Operations other line,32.0,31-60,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-046,48.5,45.09,3.41,True,1.076,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-105,46.84,45.35,1.49,True,1.033,0,N/A,Operations other line,30.0,0-30,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-065,46.1,44.24,1.86,True,1.042,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-047,40.63,37.53,3.1,True,1.083,0,N/A,Operations other line,11.0,0-30,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-044,38.0,35.16,2.84,True,1.081,0,N/A,Operations other line,,,Wyoming,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-067,37.6,35.47,2.13,True,1.06,0,N/A,Operations other line,,,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-095,37.2,34.48,2.72,True,1.079,0,N/A,Operations other line,,,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-019,33.33,31.09,2.24,True,1.072,0,N/A,Operations other line,31.0,31-60,New Mexico,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-027,30.08,29.78,0.3,True,1.01,0,N/A,Operations other line,50.0,31-60,Colorado,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-049,29.98,28.43,1.55,True,1.054,0,N/A,Operations other line,0.0,0-30,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-084,29.28,28.48,0.8,True,1.028,0,N/A,Operations other line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-054,28.86,28.57,0.29,True,1.01,0,N/A,Operations other line,32.0,31-60,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-098,28.77,26.48,2.29,True,1.086,0,N/A,Operations other line,,,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-040,27.37,26.18,1.19,True,1.045,0,N/A,Operations other line,38.0,31-60,Arizona,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-012,27.36,25.42,1.94,True,1.076,0,N/A,Operations other line,26.0,0-30,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-016,26.73,26.0,0.73,True,1.028,0,N/A,Operations other line,18.0,0-30,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-100,26.09,25.59,0.5,True,1.019,0,N/A,Operations other line,16.0,0-30,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-066,25.78,24.93,0.85,True,1.034,0,N/A,Operations other line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-069,25.15,24.88,0.27,True,1.011,0,N/A,Operations other line,,,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-014,24.74,23.16,1.58,True,1.068,0,N/A,Operations other line,20.0,0-30,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-081,24.41,23.1,1.31,True,1.057,0,N/A,Operations other line,,,Alabama,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-076,24.4,23.13,1.27,True,1.055,0,N/A,Operations other line,22.0,0-30,Colorado,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-031,23.67,23.07,0.6,True,1.026,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-106,23.64,22.27,1.37,True,1.062,0,N/A,Operations other line,0.0,0-30,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-102,21.17,20.22,0.95,True,1.047,0,N/A,Operations other line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-107,20.91,20.7,0.21,True,1.01,0,N/A,Operations other line,10.0,0-30,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-101,20.09,18.9,1.19,True,1.063,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-109,19.87,19.67,0.2,True,1.01,0,N/A,Operations other line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-060,19.19,19.0,0.19,True,1.01,0,N/A,Operations other line,4.0,0-30,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-045,18.5,18.13,0.37,True,1.02,0,N/A,Operations other line,,,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-052,17.95,17.58,0.37,True,1.021,0,N/A,Operations other line,16.0,0-30,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-077,17.81,16.75,1.06,True,1.063,0,N/A,Operations other line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-003,17.75,17.57,0.18,True,1.01,0,N/A,Operations other line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-062,17.72,16.59,1.13,True,1.068,0,N/A,Operations other line,24.0,0-30,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-037,17.58,17.23,0.35,True,1.02,0,N/A,Operations other line,6.0,0-30,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-082,17.57,17.3,0.27,True,1.016,0,N/A,Operations other line,,,Rhode Island,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-063,17.18,17.01,0.17,True,1.01,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-018,17.08,16.91,0.17,True,1.01,0,N/A,Operations other line,,,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-073,16.54,15.56,0.98,True,1.063,0,N/A,Operations other line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-032,15.14,14.27,0.87,True,1.061,0,N/A,Operations other line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-024,14.9,14.15,0.75,True,1.053,0,N/A,Operations other line,18.0,0-30,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-057,14.87,14.67,0.2,True,1.014,0,N/A,Operations other line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-104,14.73,13.57,1.16,True,1.085,0,N/A,Operations other line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-011,14.6,13.4,1.2,True,1.089,0,N/A,Operations other line,,,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-026,14.02,13.14,0.88,True,1.067,0,N/A,Operations other line,33.0,31-60,New Mexico,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-007,13.52,13.32,0.2,True,1.015,0,N/A,Operations other line,25.0,0-30,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-013,13.48,12.94,0.54,True,1.042,0,N/A,Operations other line,26.0,0-30,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-030,13.39,12.61,0.78,True,1.062,0,N/A,Operations other line,,,Wyoming,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-033,13.24,12.0,1.24,True,1.104,0,N/A,Operations other line,,,Kansas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-015,11.99,11.66,0.33,True,1.028,0,N/A,Operations other line,21.0,0-30,Maine,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-075,11.97,11.42,0.55,True,1.048,0,N/A,Operations other line,,,South Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-017,11.79,11.45,0.34,True,1.03,0,N/A,Operations other line,,,Kansas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-087,11.46,10.97,0.49,True,1.045,0,N/A,Operations other line,41.0,31-60,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-042,10.82,10.52,0.3,True,1.029,0,N/A,Operations other line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-025,10.6,9.6,1.0,True,1.104,0,N/A,Operations other line,,,Rhode Island,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-080,10.3,9.33,0.97,True,1.104,0,N/A,Operations other line,,,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-072,10.29,9.72,0.57,True,1.059,0,N/A,Operations other line,,,Wyoming,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-088,10.28,9.78,0.5,True,1.051,0,N/A,Operations other line,20.0,0-30,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-004,9.97,9.02,0.95,True,1.106,0,N/A,Operations other line,,,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-053,9.91,9.18,0.73,True,1.079,0,N/A,Operations other line,29.0,0-30,Tennessee,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-056,9.75,9.24,0.51,True,1.055,0,N/A,Operations other line,,,Indiana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-108,9.66,9.32,0.34,True,1.037,0,N/A,Operations other line,,,Montana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-021,9.62,8.92,0.7,True,1.078,0,N/A,Operations other line,,,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-099,9.59,9.08,0.51,True,1.056,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-034,9.34,8.61,0.73,True,1.085,0,N/A,Operations other line,,,Nevada,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-009,8.84,8.27,0.57,True,1.07,0,N/A,Operations other line,,,Colorado,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-028,8.34,7.83,0.51,True,1.066,0,N/A,Operations other line,46.0,31-60,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-041,7.76,7.39,0.37,True,1.049,0,N/A,Operations other line,11.0,0-30,New Mexico,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-070,7.6,7.35,0.25,True,1.033,0,N/A,Operations other line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-090,7.49,7.01,0.48,True,1.068,0,N/A,Operations other line,9.0,0-30,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-086,7.3,6.97,0.33,True,1.047,0,N/A,Operations other line,46.0,31-60,Wisconsin,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-002,6.98,6.91,0.07,True,1.01,0,N/A,Operations other line,,,Wisconsin,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-096,6.45,6.09,0.36,True,1.059,0,N/A,Operations other line,0.0,0-30,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-091,6.33,6.27,0.06,True,1.01,0,N/A,Operations other line,5.0,0-30,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-089,6.3,5.88,0.42,True,1.072,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-103,6.22,5.74,0.48,True,1.084,0,N/A,Operations other line,,,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-074,5.82,5.43,0.39,True,1.072,0,N/A,Operations other line,,,Missouri,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-094,5.24,4.91,0.33,True,1.067,0,N/A,Operations other line,,,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-008,4.94,4.41,0.53,True,1.119,0,N/A,Operations other line,0.0,0-30,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-097,4.31,4.07,0.24,True,1.059,0,N/A,Operations other line,,,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-059,4.03,3.9,0.13,True,1.033,0,N/A,Operations other line,,,Pennsylvania,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-083,3.73,3.59,0.14,True,1.039,0,N/A,Operations other line,6.0,0-30,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-092,3.57,3.29,0.28,True,1.084,0,N/A,Operations other line,,,Idaho,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-001,2.63,2.47,0.16,True,1.064,0,N/A,Operations other line,9.0,0-30,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-050,2.63,2.55,0.08,True,1.03,0,N/A,Operations other line,36.0,31-60,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-068,2.52,2.36,0.16,True,1.066,0,N/A,Operations other line,21.0,0-30,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-023,1.83,1.67,0.16,True,1.094,0,N/A,Operations other line,,,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-043,1.68,1.62,0.06,True,1.037,0,N/A,Operations other line,36.0,31-60,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-064,1.67,1.54,0.13,True,1.083,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-051,1.16,1.08,0.08,True,1.077,0,N/A,Operations other line,,,Indiana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-093,1.04,0.97,0.07,True,1.067,0,N/A,Operations other line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-005,1.02,0.94,0.08,True,1.08,0,N/A,Operations other line,,,Alaska,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-048,0.66,0.62,0.04,True,1.063,0,N/A,Operations other line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-079,0.61,0.59,0.02,True,1.028,0,N/A,Operations other line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-010,0.52,0.51,0.01,True,1.01,0,N/A,Operations other line,23.0,0-30,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-035,0.4,0.37,0.03,True,1.069,0,N/A,Operations other line,14.0,0-30,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-078,0.23,0.21,0.02,True,1.071,0,N/A,Operations other line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-061,0.22,0.2,0.02,True,1.094,0,N/A,Operations other line,22.0,0-30,Missouri,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-058,0.05,0.05,0.0,True,1.03,0,N/A,Operations other line,,,Alabama,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-058,383.09,363.24,19.85,True,1.055,0,Ops,Operations payroll line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-049,331.05,327.77,3.28,True,1.01,0,Facilities,Operations payroll line,,,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-002,226.07,212.72,13.35,True,1.063,0,Facilities,Operations payroll line,,,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-059,156.43,152.8,3.63,True,1.024,0,Facilities,Operations payroll line,29.0,0-30,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-017,137.68,133.6,4.08,True,1.031,0,Logistics,Operations payroll line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-007,129.97,115.99,13.98,True,1.121,0,Facilities,Operations payroll line,30.0,0-30,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-057,124.12,122.89,1.23,True,1.01,0,Facilities,Operations payroll line,2.0,0-30,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-060,120.33,111.01,9.32,True,1.084,0,Facilities,Operations payroll line,15.0,0-30,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-066,109.8,99.83,9.97,True,1.1,0,Facilities,Operations payroll line,,,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-056,107.42,98.11,9.31,True,1.095,0,Logistics,Operations payroll line,11.0,0-30,Connecticut,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-036,105.59,99.71,5.88,True,1.059,0,Ops,Operations payroll line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-001,101.25,99.68,1.57,True,1.016,0,Facilities,Operations payroll line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-048,100.98,93.85,7.13,True,1.076,0,Facilities,Operations payroll line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-035,97.53,92.03,5.5,True,1.06,0,Facilities,Operations payroll line,,,North Dakota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-009,97.43,91.48,5.95,True,1.065,0,Facilities,Operations payroll line,,,Kansas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-040,94.91,92.32,2.59,True,1.028,0,Logistics,Operations payroll line,28.0,0-30,Wisconsin,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-018,94.18,86.81,7.37,True,1.085,0,Ops,Operations payroll line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-039,90.65,84.5,6.15,True,1.073,0,Facilities,Operations payroll line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-015,89.96,86.46,3.5,True,1.04,0,Facilities,Operations payroll line,,,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-026,89.96,84.73,5.23,True,1.062,0,Logistics,Operations payroll line,,,Alabama,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-041,87.94,83.78,4.16,True,1.05,0,Facilities,Operations payroll line,35.0,31-60,Missouri,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-055,86.57,80.91,5.66,True,1.07,0,Facilities,Operations payroll line,,,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-006,86.42,78.85,7.57,True,1.096,0,Facilities,Operations payroll line,,,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-004,82.27,76.34,5.93,True,1.078,0,Facilities,Operations payroll line,,,Arizona,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-037,79.21,73.49,5.72,True,1.078,0,Ops,Operations payroll line,,,Wyoming,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-061,78.48,73.72,4.76,True,1.065,0,Facilities,Operations payroll line,,,Kentucky,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-064,72.56,67.35,5.21,True,1.077,0,Logistics,Operations payroll line,,,Colorado,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-013,67.87,66.2,1.67,True,1.025,0,Facilities,Operations payroll line,4.0,0-30,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-033,66.22,60.59,5.63,True,1.093,0,Facilities,Operations payroll line,20.0,0-30,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-024,52.36,50.84,1.52,True,1.03,0,Ops,Operations payroll line,,,South Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-019,51.51,48.81,2.7,True,1.055,0,Ops,Operations payroll line,,,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-027,50.75,49.64,1.11,True,1.022,0,Ops,Operations payroll line,18.0,0-30,South Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-030,46.98,42.61,4.37,True,1.103,0,Facilities,Operations payroll line,41.0,31-60,Nevada,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-065,44.16,41.63,2.53,True,1.061,0,Ops,Operations payroll line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-050,42.71,39.47,3.24,True,1.082,0,Ops,Operations payroll line,,,Kentucky,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-062,42.32,40.47,1.85,True,1.046,0,Ops,Operations payroll line,59.0,31-60,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-029,36.08,35.41,0.67,True,1.019,0,Logistics,Operations payroll line,,,Vermont,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-021,35.93,33.01,2.92,True,1.088,0,Facilities,Operations payroll line,43.0,31-60,Tennessee,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-020,32.71,30.3,2.41,True,1.079,0,Logistics,Operations payroll line,26.0,0-30,Indiana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-014,31.07,28.58,2.49,True,1.087,0,Facilities,Operations payroll line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-052,30.78,28.69,2.09,True,1.073,0,Logistics,Operations payroll line,,,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-008,29.91,29.54,0.37,True,1.013,0,Logistics,Operations payroll line,,,Delaware,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-053,28.02,27.28,0.74,True,1.027,0,Ops,Operations payroll line,,,Arizona,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-025,27.3,26.28,1.02,True,1.039,0,Ops,Operations payroll line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-045,27.28,25.72,1.56,True,1.061,0,Facilities,Operations payroll line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-032,26.3,25.85,0.45,True,1.018,0,Logistics,Operations payroll line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-031,25.88,23.94,1.94,True,1.081,0,Ops,Operations payroll line,,,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-043,23.89,23.04,0.85,True,1.037,0,Ops,Operations payroll line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-034,23.62,21.98,1.64,True,1.075,0,Logistics,Operations payroll line,,,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-012,23.38,22.02,1.36,True,1.062,0,Facilities,Operations payroll line,,,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-042,21.74,20.64,1.1,True,1.053,0,Logistics,Operations payroll line,38.0,31-60,Tennessee,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-051,20.67,18.73,1.94,True,1.104,0,Facilities,Operations payroll line,,,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-016,17.57,16.1,1.47,True,1.091,0,Facilities,Operations payroll line,16.0,0-30,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-028,17.34,16.11,1.23,True,1.076,0,Facilities,Operations payroll line,,,Rhode Island,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-023,13.49,12.88,0.61,True,1.047,0,Logistics,Operations payroll line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-047,12.99,11.75,1.24,True,1.105,0,Ops,Operations payroll line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-044,11.79,10.94,0.85,True,1.077,0,Ops,Operations payroll line,48.0,31-60,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-010,11.61,11.02,0.59,True,1.054,0,Ops,Operations payroll line,,,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-054,10.62,10.03,0.59,True,1.059,0,Ops,Operations payroll line,,,New Mexico,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-011,7.18,6.84,0.34,True,1.05,0,Ops,Operations payroll line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-022,5.88,5.82,0.06,True,1.01,0,Facilities,Operations payroll line,32.0,31-60,Tennessee,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-003,5.8,5.53,0.27,True,1.049,0,Logistics,Operations payroll line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-038,5.51,5.15,0.36,True,1.069,0,Logistics,Operations payroll line,42.0,31-60,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-005,5.44,5.39,0.05,True,1.01,0,Facilities,Operations payroll line,,,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-063,3.52,3.34,0.18,True,1.052,0,Facilities,Operations payroll line,0.0,0-30,Idaho,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-046,1.58,1.52,0.06,True,1.036,0,Ops,Operations payroll line,38.0,31-60,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-098,40.33,38.25,2.08,True,1.054,0,N/A,Operations software line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-058,31.99,29.64,2.35,True,1.079,0,N/A,Operations software line,,,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-016,31.14,28.7,2.44,True,1.085,0,N/A,Operations software line,15.0,0-30,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-125,27.95,25.91,2.04,True,1.079,0,N/A,Operations software line,44.0,31-60,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-096,27.87,26.77,1.1,True,1.041,0,N/A,Operations software line,,,West Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-018,27.7,26.39,1.31,True,1.05,0,N/A,Operations software line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-072,25.76,25.2,0.56,True,1.022,0,N/A,Operations software line,,,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-113,24.29,22.48,1.81,True,1.08,0,N/A,Operations software line,,,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-046,23.48,22.31,1.17,True,1.053,0,N/A,Operations software line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-014,22.6,20.45,2.15,True,1.105,0,N/A,Operations software line,,,Idaho,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-105,22.12,20.84,1.28,True,1.061,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-045,22.06,21.39,0.67,True,1.031,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-051,21.61,19.95,1.66,True,1.083,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-021,21.11,19.51,1.6,True,1.082,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-107,19.92,19.26,0.66,True,1.034,0,N/A,Operations software line,30.0,0-30,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-068,19.32,18.5,0.82,True,1.044,0,N/A,Operations software line,42.0,31-60,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-034,19.11,18.38,0.73,True,1.04,0,N/A,Operations software line,0.0,0-30,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-112,18.49,17.54,0.95,True,1.054,0,N/A,Operations software line,31.0,31-60,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-062,17.97,16.96,1.01,True,1.06,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-104,17.51,15.93,1.58,True,1.099,0,N/A,Operations software line,0.0,0-30,Wisconsin,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-101,16.92,15.72,1.2,True,1.077,0,N/A,Operations software line,,,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-093,16.8,15.59,1.21,True,1.078,0,N/A,Operations software line,,,North Dakota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-029,16.16,15.77,0.39,True,1.025,0,N/A,Operations software line,,,Oklahoma,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-076,16.08,15.49,0.59,True,1.038,0,N/A,Operations software line,21.0,0-30,Pennsylvania,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-117,16.08,14.98,1.1,True,1.073,0,N/A,Operations software line,,,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-074,15.23,14.88,0.35,True,1.023,0,N/A,Operations software line,,,Arizona,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-005,14.36,13.58,0.78,True,1.058,0,N/A,Operations software line,14.0,0-30,Colorado,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-013,14.33,13.07,1.26,True,1.097,0,N/A,Operations software line,28.0,0-30,Connecticut,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-088,13.83,13.01,0.82,True,1.063,0,N/A,Operations software line,21.0,0-30,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-095,13.15,12.85,0.3,True,1.023,0,N/A,Operations software line,13.0,0-30,New Mexico,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-040,12.88,12.07,0.81,True,1.067,0,N/A,Operations software line,,,Arizona,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-001,12.86,11.83,1.03,True,1.087,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-086,12.79,12.41,0.38,True,1.031,0,N/A,Operations software line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-089,12.66,11.86,0.8,True,1.068,0,N/A,Operations software line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-049,12.6,11.92,0.68,True,1.057,0,N/A,Operations software line,5.0,0-30,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-024,12.25,12.08,0.17,True,1.014,0,N/A,Operations software line,33.0,31-60,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-083,12.22,11.82,0.4,True,1.034,0,N/A,Operations software line,,,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-036,12.15,11.56,0.59,True,1.051,0,N/A,Operations software line,,,Kansas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-111,11.94,10.84,1.1,True,1.102,0,N/A,Operations software line,24.0,0-30,Nevada,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-084,10.71,10.6,0.11,True,1.01,0,N/A,Operations software line,43.0,31-60,Missouri,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-042,10.49,9.32,1.17,True,1.125,0,N/A,Operations software line,25.0,0-30,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-063,10.29,9.85,0.44,True,1.045,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-054,10.27,9.62,0.65,True,1.068,0,N/A,Operations software line,,,Alabama,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-039,10.17,9.52,0.65,True,1.068,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-052,10.02,9.24,0.78,True,1.084,0,N/A,Operations software line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-044,9.99,9.61,0.38,True,1.04,0,N/A,Operations software line,,,Delaware,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-115,9.24,9.03,0.21,True,1.024,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-025,9.06,8.32,0.74,True,1.089,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-080,8.83,8.74,0.09,True,1.01,0,N/A,Operations software line,49.0,31-60,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-003,8.8,8.38,0.42,True,1.05,0,N/A,Operations software line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-041,8.69,8.0,0.69,True,1.087,0,N/A,Operations software line,,,Montana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-108,8.62,8.53,0.09,True,1.01,0,N/A,Operations software line,,,Louisiana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-071,8.44,8.36,0.08,True,1.01,0,N/A,Operations software line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-043,8.37,7.7,0.67,True,1.087,0,N/A,Operations software line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-085,8.34,7.55,0.79,True,1.105,0,N/A,Operations software line,,,Connecticut,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-082,7.92,7.66,0.26,True,1.033,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-106,7.57,7.11,0.46,True,1.064,0,N/A,Operations software line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-075,7.4,7.09,0.31,True,1.043,0,N/A,Operations software line,,,Alabama,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-050,7.22,6.68,0.54,True,1.081,0,N/A,Operations software line,,,South Dakota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-007,7.1,6.84,0.26,True,1.039,0,N/A,Operations software line,13.0,0-30,Nevada,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-031,6.98,6.81,0.17,True,1.025,0,N/A,Operations software line,22.0,0-30,Connecticut,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-009,6.95,6.49,0.46,True,1.071,0,N/A,Operations software line,,,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-028,6.91,6.84,0.07,True,1.01,0,N/A,Operations software line,30.0,0-30,Colorado,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-092,6.59,5.74,0.85,True,1.148,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-070,6.39,5.79,0.6,True,1.103,0,N/A,Operations software line,32.0,31-60,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-047,6.22,5.88,0.34,True,1.058,0,N/A,Operations software line,,,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-020,6.14,6.07,0.07,True,1.011,0,N/A,Operations software line,17.0,0-30,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-102,5.89,5.83,0.06,True,1.01,0,N/A,Operations software line,,,Montana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-081,5.65,5.36,0.29,True,1.054,0,N/A,Operations software line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-011,5.56,5.5,0.06,True,1.01,0,N/A,Operations software line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-055,5.46,5.29,0.17,True,1.031,0,N/A,Operations software line,,,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-103,5.22,4.75,0.47,True,1.098,0,N/A,Operations software line,42.0,31-60,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-015,5.04,4.99,0.05,True,1.01,0,N/A,Operations software line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-035,4.95,4.68,0.27,True,1.058,0,N/A,Operations software line,,,Wisconsin,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-116,4.93,4.55,0.38,True,1.084,0,N/A,Operations software line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-123,4.75,4.7,0.05,True,1.01,0,N/A,Operations software line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-008,4.62,4.22,0.4,True,1.094,0,N/A,Operations software line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-109,4.49,4.1,0.39,True,1.096,0,N/A,Operations software line,31.0,31-60,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-010,4.47,4.32,0.15,True,1.034,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-027,4.18,3.88,0.3,True,1.078,0,N/A,Operations software line,,,Rhode Island,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-006,4.11,3.85,0.26,True,1.069,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-061,4.01,3.68,0.33,True,1.089,0,N/A,Operations software line,,,Tennessee,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-066,3.91,3.74,0.17,True,1.046,0,N/A,Operations software line,5.0,0-30,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-122,3.82,3.77,0.05,True,1.012,0,N/A,Operations software line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-059,3.78,3.66,0.12,True,1.032,0,N/A,Operations software line,37.0,31-60,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-120,3.63,3.52,0.11,True,1.031,0,N/A,Operations software line,28.0,0-30,Colorado,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-019,3.54,3.31,0.23,True,1.069,0,N/A,Operations software line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-090,3.54,3.38,0.16,True,1.046,0,N/A,Operations software line,36.0,31-60,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-097,3.49,3.35,0.14,True,1.042,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-032,3.2,2.99,0.21,True,1.069,0,N/A,Operations software line,21.0,0-30,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-030,3.15,3.12,0.03,True,1.01,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-094,3.15,2.92,0.23,True,1.077,0,N/A,Operations software line,12.0,0-30,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-077,3.11,2.99,0.12,True,1.039,0,N/A,Operations software line,,,Pennsylvania,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-037,2.93,2.81,0.12,True,1.044,0,N/A,Operations software line,,,South Dakota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-078,2.84,2.76,0.08,True,1.031,0,N/A,Operations software line,2.0,0-30,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-114,2.83,2.62,0.21,True,1.081,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-033,2.7,2.64,0.06,True,1.022,0,N/A,Operations software line,,,Nebraska,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-057,2.68,2.65,0.03,True,1.01,0,N/A,Operations software line,26.0,0-30,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-073,2.46,2.3,0.16,True,1.071,0,N/A,Operations software line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-004,2.4,2.3,0.1,True,1.043,0,N/A,Operations software line,17.0,0-30,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-026,2.37,2.35,0.02,True,1.01,0,N/A,Operations software line,12.0,0-30,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-110,2.35,2.2,0.15,True,1.068,0,N/A,Operations software line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-060,2.29,2.11,0.18,True,1.085,0,N/A,Operations software line,,,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-079,2.28,2.18,0.1,True,1.045,0,N/A,Operations software line,36.0,31-60,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-002,2.15,2.08,0.07,True,1.032,0,N/A,Operations software line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-091,2.1,2.02,0.08,True,1.04,0,N/A,Operations software line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-118,2.07,2.05,0.02,True,1.01,0,N/A,Operations software line,,,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-023,1.82,1.68,0.14,True,1.084,0,N/A,Operations software line,15.0,0-30,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-064,1.68,1.61,0.07,True,1.044,0,N/A,Operations software line,25.0,0-30,Pennsylvania,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-017,1.51,1.43,0.08,True,1.054,0,N/A,Operations software line,,,Massachusetts,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-038,1.46,1.42,0.04,True,1.027,0,N/A,Operations software line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-067,1.44,1.39,0.05,True,1.039,0,N/A,Operations software line,,,Mississippi,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-053,1.3,1.18,0.12,True,1.105,0,N/A,Operations software line,53.0,31-60,Arizona,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-022,1.08,1.02,0.06,True,1.063,0,N/A,Operations software line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-056,1.06,1.05,0.01,True,1.01,0,N/A,Operations software line,,,Louisiana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-069,1.05,0.98,0.07,True,1.077,0,N/A,Operations software line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-124,1.0,0.95,0.05,True,1.057,0,N/A,Operations software line,26.0,0-30,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-048,0.8,0.78,0.02,True,1.024,0,N/A,Operations software line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-121,0.63,0.62,0.01,True,1.013,0,N/A,Operations software line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-099,0.57,0.56,0.01,True,1.017,0,N/A,Operations software line,,,Oklahoma,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-119,0.55,0.54,0.01,True,1.01,0,N/A,Operations software line,,,New Hampshire,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-100,0.34,0.31,0.03,True,1.114,0,N/A,Operations software line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-087,0.31,0.29,0.02,True,1.063,0,N/A,Operations software line,29.0,0-30,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-012,0.26,0.25,0.01,True,1.05,0,N/A,Operations software line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-065,0.08,0.08,0.0,True,1.061,0,N/A,Operations software line,,,New Hampshire,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-027,26.94,25.77,1.17,True,1.045,0,N/A,Operations travel line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-053,18.79,17.77,1.02,True,1.057,0,N/A,Operations travel line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-021,17.57,16.34,1.23,True,1.075,0,N/A,Operations travel line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-066,14.69,13.71,0.98,True,1.071,0,N/A,Operations travel line,12.0,0-30,Pennsylvania,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-061,14.34,13.24,1.1,True,1.083,0,N/A,Operations travel line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-064,13.25,12.44,0.81,True,1.065,0,N/A,Operations travel line,,,Rhode Island,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-004,12.9,12.53,0.37,True,1.03,0,N/A,Operations travel line,,,Oregon,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-071,11.21,10.01,1.2,True,1.12,0,N/A,Operations travel line,25.0,0-30,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-080,10.37,9.87,0.5,True,1.051,0,N/A,Operations travel line,,,Rhode Island,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-003,10.19,9.97,0.22,True,1.022,0,N/A,Operations travel line,,,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-019,9.98,9.41,0.57,True,1.061,0,N/A,Operations travel line,,,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-022,9.53,8.98,0.55,True,1.061,0,N/A,Operations travel line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-041,9.43,9.34,0.09,True,1.01,0,N/A,Operations travel line,,,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-040,9.15,8.62,0.53,True,1.062,0,N/A,Operations travel line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-033,9.11,8.56,0.55,True,1.065,0,N/A,Operations travel line,,,Oklahoma,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-032,8.51,8.3,0.21,True,1.025,0,N/A,Operations travel line,,,Indiana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-034,8.51,7.83,0.68,True,1.087,0,N/A,Operations travel line,62.0,61-90,New Hampshire,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-059,8.51,8.22,0.29,True,1.035,0,N/A,Operations travel line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-013,8.12,7.76,0.36,True,1.047,0,N/A,Operations travel line,,,Maine,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-031,7.24,6.86,0.38,True,1.055,0,N/A,Operations travel line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-035,7.11,6.46,0.65,True,1.101,0,N/A,Operations travel line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-046,6.81,6.23,0.58,True,1.093,0,N/A,Operations travel line,,,Maine,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-011,6.75,6.48,0.27,True,1.042,0,N/A,Operations travel line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-062,6.74,6.6,0.14,True,1.021,0,N/A,Operations travel line,43.0,31-60,Wisconsin,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-058,6.26,6.14,0.12,True,1.019,0,N/A,Operations travel line,0.0,0-30,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-002,5.9,5.67,0.23,True,1.04,0,N/A,Operations travel line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-051,5.86,5.8,0.06,True,1.01,0,N/A,Operations travel line,,,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-029,5.74,5.28,0.46,True,1.087,0,N/A,Operations travel line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-048,5.49,5.0,0.49,True,1.097,0,N/A,Operations travel line,0.0,0-30,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-081,5.35,4.93,0.42,True,1.085,0,N/A,Operations travel line,23.0,0-30,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-042,5.22,5.01,0.21,True,1.041,0,N/A,Operations travel line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-044,5.09,4.95,0.14,True,1.028,0,N/A,Operations travel line,,,South Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-082,4.91,4.86,0.05,True,1.01,0,N/A,Operations travel line,,,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-069,4.89,4.56,0.33,True,1.071,0,N/A,Operations travel line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-079,4.68,4.39,0.29,True,1.065,0,N/A,Operations travel line,,,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-084,4.28,4.0,0.28,True,1.071,0,N/A,Operations travel line,,,Florida,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-015,4.22,4.02,0.2,True,1.049,0,N/A,Operations travel line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-026,3.93,3.72,0.21,True,1.058,0,N/A,Operations travel line,,,South Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-060,3.83,3.72,0.11,True,1.03,0,N/A,Operations travel line,5.0,0-30,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-037,3.74,3.49,0.25,True,1.071,0,N/A,Operations travel line,37.0,31-60,Texas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-008,3.59,3.51,0.08,True,1.023,0,N/A,Operations travel line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-085,3.5,3.16,0.34,True,1.109,0,N/A,Operations travel line,,,South Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-057,3.26,2.96,0.3,True,1.101,0,N/A,Operations travel line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-054,3.13,2.97,0.16,True,1.053,0,N/A,Operations travel line,14.0,0-30,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-083,2.71,2.68,0.03,True,1.01,0,N/A,Operations travel line,,,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-018,2.48,2.33,0.15,True,1.062,0,N/A,Operations travel line,,,New York,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-001,2.39,2.28,0.11,True,1.049,0,N/A,Operations travel line,45.0,31-60,Arkansas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-049,2.28,2.16,0.12,True,1.057,0,N/A,Operations travel line,4.0,0-30,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-039,2.13,1.97,0.16,True,1.083,0,N/A,Operations travel line,,,Wyoming,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-068,2.06,1.95,0.11,True,1.056,0,N/A,Operations travel line,,,Georgia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-072,2.02,1.95,0.07,True,1.035,0,N/A,Operations travel line,,,Kentucky,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-090,2.02,1.91,0.11,True,1.059,0,N/A,Operations travel line,30.0,0-30,Alabama,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-010,1.93,1.9,0.03,True,1.015,0,N/A,Operations travel line,,,Pennsylvania,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-038,1.88,1.76,0.12,True,1.068,0,N/A,Operations travel line,42.0,31-60,Alabama,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-065,1.85,1.77,0.08,True,1.043,0,N/A,Operations travel line,,,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-078,1.68,1.57,0.11,True,1.07,0,N/A,Operations travel line,,,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-077,1.61,1.47,0.14,True,1.098,0,N/A,Operations travel line,,,Louisiana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-055,1.54,1.5,0.04,True,1.03,0,N/A,Operations travel line,,,Connecticut,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-005,1.46,1.41,0.05,True,1.034,0,N/A,Operations travel line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-067,1.46,1.44,0.02,True,1.015,0,N/A,Operations travel line,,,Arizona,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-017,1.45,1.41,0.04,True,1.031,0,N/A,Operations travel line,,,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-007,1.43,1.37,0.06,True,1.042,0,N/A,Operations travel line,,,Kansas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-028,1.42,1.32,0.1,True,1.074,0,N/A,Operations travel line,,,North Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-009,1.33,1.25,0.08,True,1.065,0,N/A,Operations travel line,15.0,0-30,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-045,1.3,1.23,0.07,True,1.06,0,N/A,Operations travel line,,,South Carolina,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-073,1.14,1.05,0.09,True,1.084,0,N/A,Operations travel line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-087,1.13,1.1,0.03,True,1.029,0,N/A,Operations travel line,,,Idaho,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-043,1.11,1.02,0.09,True,1.085,0,N/A,Operations travel line,,,New Jersey,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-088,1.08,1.03,0.05,True,1.052,0,N/A,Operations travel line,,,Maryland,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-020,1.01,0.93,0.08,True,1.084,0,N/A,Operations travel line,27.0,0-30,Tennessee,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-056,0.95,0.9,0.05,True,1.056,0,N/A,Operations travel line,9.0,0-30,Alabama,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-047,0.83,0.8,0.03,True,1.032,0,N/A,Operations travel line,16.0,0-30,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-063,0.81,0.8,0.01,True,1.014,0,N/A,Operations travel line,30.0,0-30,Minnesota,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-025,0.79,0.76,0.03,True,1.044,0,N/A,Operations travel line,,,Utah,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-052,0.6,0.57,0.03,True,1.059,0,N/A,Operations travel line,,,Rhode Island,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-036,0.42,0.41,0.01,True,1.029,0,N/A,Operations travel line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-030,0.4,0.37,0.03,True,1.091,0,N/A,Operations travel line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-050,0.4,0.38,0.02,True,1.055,0,N/A,Operations travel line,,,Rhode Island,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-023,0.36,0.35,0.01,True,1.033,0,N/A,Operations travel line,,,Idaho,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-006,0.33,0.31,0.02,True,1.073,0,N/A,Operations travel line,,,California,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-089,0.33,0.31,0.02,True,1.052,0,N/A,Operations travel line,10.0,0-30,New Mexico,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-070,0.3,0.28,0.02,True,1.055,0,N/A,Operations travel line,,,Tennessee,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-074,0.27,0.27,0.0,True,1.01,0,N/A,Operations travel line,,,Washington,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-091,0.27,0.25,0.02,True,1.076,0,N/A,Operations travel line,28.0,0-30,Illinois,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-016,0.25,0.23,0.02,True,1.096,0,N/A,Operations travel line,40.0,31-60,Connecticut,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-086,0.23,0.21,0.02,True,1.074,0,N/A,Operations travel line,,,Indiana,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-076,0.13,0.12,0.01,True,1.061,0,N/A,Operations travel line,,,Michigan,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-075,0.11,0.11,0.0,True,1.01,0,N/A,Operations travel line,,,Kansas,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-014,0.09,0.09,0.0,True,1.041,0,N/A,Operations travel line,,,Ohio,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-012,0.08,0.08,0.0,True,1.01,0,N/A,Operations travel line,33.0,31-60,Virginia,8000.0,-2087425.9476
-2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-024,0.04,0.04,0.0,True,1.027,0,N/A,Operations travel line,32.0,31-60,Delaware,8000.0,-2087425.9476
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-029,756.33,748.84,7.49,True,1.01,6,N/A,Operations other line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-020,739.75,723.5,16.25,True,1.022,6,N/A,Operations other line,31.0,31-60,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-006,723.47,679.11,44.36,True,1.065,6,N/A,Operations other line,0.0,0-30,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-039,689.13,662.23,26.9,True,1.041,6,N/A,Operations other line,12.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-036,688.7,654.23,34.47,True,1.053,6,N/A,Operations other line,9.0,0-30,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-055,565.64,526.83,38.81,True,1.074,6,N/A,Operations other line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-085,548.66,533.27,15.39,True,1.029,6,N/A,Operations other line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-022,521.36,480.86,40.5,True,1.084,6,N/A,Operations other line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-071,492.83,476.5,16.33,True,1.034,6,N/A,Operations other line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-038,485.89,472.5,13.39,True,1.028,6,N/A,Operations other line,,,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-046,484.61,459.49,25.12,True,1.055,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-105,468.03,438.61,29.42,True,1.067,6,N/A,Operations other line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-065,460.64,446.89,13.75,True,1.031,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-047,405.95,384.02,21.93,True,1.057,6,N/A,Operations other line,26.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-044,379.63,353.39,26.24,True,1.074,6,N/A,Operations other line,13.0,0-30,Wyoming,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-067,375.63,371.35,4.28,True,1.012,6,N/A,Operations other line,,,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-095,371.7,347.78,23.92,True,1.069,6,N/A,Operations other line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-019,332.99,313.16,19.83,True,1.063,6,N/A,Operations other line,,,New Mexico,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-027,300.55,290.57,9.98,True,1.034,6,N/A,Operations other line,31.0,31-60,Colorado,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-049,299.51,288.65,10.86,True,1.038,6,N/A,Operations other line,17.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-084,292.54,281.23,11.31,True,1.04,6,N/A,Operations other line,2.0,0-30,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-054,288.31,279.05,9.26,True,1.033,6,N/A,Operations other line,18.0,0-30,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-098,287.41,270.49,16.92,True,1.063,6,N/A,Operations other line,,,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-040,273.45,261.34,12.11,True,1.046,6,N/A,Operations other line,,,Arizona,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-012,273.35,254.32,19.03,True,1.075,6,N/A,Operations other line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-016,267.04,250.42,16.62,True,1.066,6,N/A,Operations other line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-100,260.68,251.51,9.17,True,1.036,6,N/A,Operations other line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-066,257.53,244.44,13.09,True,1.054,6,N/A,Operations other line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-069,251.27,233.04,18.23,True,1.078,6,N/A,Operations other line,4.0,0-30,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-014,247.16,234.8,12.36,True,1.053,6,N/A,Operations other line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-081,243.89,231.45,12.44,True,1.054,6,N/A,Operations other line,,,Alabama,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-076,243.81,226.94,16.87,True,1.074,6,N/A,Operations other line,42.0,31-60,Colorado,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-031,236.45,227.49,8.96,True,1.039,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-106,236.19,231.13,5.06,True,1.022,6,N/A,Operations other line,22.0,0-30,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-102,211.55,193.2,18.35,True,1.095,6,N/A,Operations other line,0.0,0-30,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-107,208.92,201.79,7.13,True,1.035,6,N/A,Operations other line,,,Georgia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-101,200.7,195.12,5.58,True,1.029,6,N/A,Operations other line,0.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-109,198.47,196.5,1.97,True,1.01,6,N/A,Operations other line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-060,191.77,187.67,4.1,True,1.022,6,N/A,Operations other line,34.0,31-60,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-045,184.79,178.16,6.63,True,1.037,6,N/A,Operations other line,,,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-052,179.3,166.97,12.33,True,1.074,6,N/A,Operations other line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-077,177.9,164.53,13.37,True,1.081,6,N/A,Operations other line,31.0,31-60,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-003,177.33,162.98,14.35,True,1.088,6,N/A,Operations other line,17.0,0-30,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-062,177.03,162.32,14.71,True,1.091,6,N/A,Operations other line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-037,175.68,168.12,7.56,True,1.045,6,N/A,Operations other line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-082,175.58,162.46,13.12,True,1.081,6,N/A,Operations other line,,,Rhode Island,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-063,171.63,161.63,10.0,True,1.062,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-018,170.65,164.49,6.16,True,1.037,6,N/A,Operations other line,15.0,0-30,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-073,165.21,155.46,9.75,True,1.063,6,N/A,Operations other line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-032,151.24,143.67,7.57,True,1.053,6,N/A,Operations other line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-024,148.87,136.09,12.78,True,1.094,6,N/A,Operations other line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-057,148.55,140.18,8.37,True,1.06,6,N/A,Operations other line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-104,147.15,142.05,5.1,True,1.036,6,N/A,Operations other line,0.0,0-30,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-011,145.88,136.32,9.56,True,1.07,6,N/A,Operations other line,,,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-026,140.06,127.94,12.12,True,1.095,6,N/A,Operations other line,,,New Mexico,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-007,135.08,129.97,5.11,True,1.039,6,N/A,Operations other line,37.0,31-60,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-013,134.63,125.93,8.7,True,1.069,6,N/A,Operations other line,,,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-030,133.75,124.69,9.06,True,1.073,6,N/A,Operations other line,20.0,0-30,Wyoming,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-033,132.29,123.03,9.26,True,1.075,6,N/A,Operations other line,,,Kansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-015,119.75,114.8,4.95,True,1.043,6,N/A,Operations other line,,,Maine,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-075,119.58,113.63,5.95,True,1.052,6,N/A,Operations other line,2.0,0-30,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-017,117.8,114.77,3.03,True,1.026,6,N/A,Operations other line,17.0,0-30,Kansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-087,114.46,106.34,8.12,True,1.076,6,N/A,Operations other line,49.0,31-60,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-042,108.08,97.62,10.46,True,1.107,6,N/A,Operations other line,18.0,0-30,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-025,105.9,94.83,11.07,True,1.117,6,N/A,Operations other line,,,Rhode Island,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-080,102.86,98.2,4.66,True,1.047,6,N/A,Operations other line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-072,102.78,96.58,6.2,True,1.064,6,N/A,Operations other line,32.0,31-60,Wyoming,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-088,102.72,96.58,6.14,True,1.064,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-004,99.65,95.48,4.17,True,1.044,6,N/A,Operations other line,,,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-053,99.0,96.16,2.84,True,1.03,6,N/A,Operations other line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-056,97.42,92.61,4.81,True,1.052,6,N/A,Operations other line,,,Indiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-108,96.5,86.86,9.64,True,1.111,6,N/A,Operations other line,0.0,0-30,Montana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-021,96.12,91.89,4.23,True,1.046,6,N/A,Operations other line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-099,95.86,93.03,2.83,True,1.03,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-034,93.32,87.2,6.12,True,1.07,6,N/A,Operations other line,,,Nevada,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-009,88.35,83.97,4.38,True,1.052,6,N/A,Operations other line,,,Colorado,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-028,83.37,79.73,3.64,True,1.046,6,N/A,Operations other line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-041,77.48,74.27,3.21,True,1.043,6,N/A,Operations other line,25.0,0-30,New Mexico,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-070,75.93,69.4,6.53,True,1.094,6,N/A,Operations other line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-090,74.85,70.81,4.04,True,1.057,6,N/A,Operations other line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-086,72.98,66.86,6.12,True,1.092,6,N/A,Operations other line,,,Wisconsin,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-002,69.78,60.68,9.1,True,1.15,6,N/A,Operations other line,,,Wisconsin,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-096,64.42,63.78,0.64,True,1.01,6,N/A,Operations other line,24.0,0-30,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-091,63.23,61.3,1.93,True,1.032,6,N/A,Operations other line,19.0,0-30,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-089,62.93,60.77,2.16,True,1.036,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-103,62.1,58.67,3.43,True,1.058,6,N/A,Operations other line,44.0,31-60,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-074,58.15,56.12,2.03,True,1.036,6,N/A,Operations other line,,,Missouri,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-094,52.39,51.34,1.05,True,1.02,6,N/A,Operations other line,11.0,0-30,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-008,49.4,46.3,3.1,True,1.067,6,N/A,Operations other line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-097,43.09,41.28,1.81,True,1.044,6,N/A,Operations other line,,,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-059,40.3,38.79,1.51,True,1.039,6,N/A,Operations other line,24.0,0-30,Pennsylvania,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-083,37.25,36.3,0.95,True,1.026,6,N/A,Operations other line,13.0,0-30,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-092,35.66,33.48,2.18,True,1.065,6,N/A,Operations other line,0.0,0-30,Idaho,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-001,26.31,25.12,1.19,True,1.047,6,N/A,Operations other line,,,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-050,26.3,24.41,1.89,True,1.077,6,N/A,Operations other line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,WeWork,E-202501-OT-068,25.16,24.58,0.58,True,1.023,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-023,18.32,16.86,1.46,True,1.086,6,N/A,Operations other line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-043,16.82,15.58,1.24,True,1.08,6,N/A,Operations other line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-064,16.73,15.18,1.55,True,1.102,6,N/A,Operations other line,31.0,31-60,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-051,11.55,10.94,0.61,True,1.055,6,N/A,Operations other line,0.0,0-30,Indiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,UPS,E-202501-OT-093,10.38,9.68,0.7,True,1.072,6,N/A,Operations other line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-005,10.23,9.63,0.6,True,1.062,6,N/A,Operations other line,18.0,0-30,Alaska,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-048,6.64,6.44,0.2,True,1.031,6,N/A,Operations other line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-079,6.12,5.89,0.23,True,1.04,6,N/A,Operations other line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-010,5.18,4.82,0.36,True,1.074,6,N/A,Operations other line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,OfficeDepot,E-202501-OT-035,3.97,3.91,0.06,True,1.015,6,N/A,Operations other line,11.0,0-30,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,FedEx,E-202501-OT-078,2.28,2.1,0.18,True,1.087,6,N/A,Operations other line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,Staples,E-202501-OT-061,2.19,2.07,0.12,True,1.058,6,N/A,Operations other line,5.0,0-30,Missouri,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,other,Other,LegalCo,E-202501-OT-058,0.5,0.47,0.03,True,1.061,6,N/A,Operations other line,9.0,0-30,Alabama,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-058,3827.53,3780.9,46.63,True,1.012,6,Ops,Operations payroll line,5.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-049,3307.53,3069.83,237.7,True,1.077,6,Facilities,Operations payroll line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-002,2258.73,2161.45,97.28,True,1.045,6,Facilities,Operations payroll line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-059,1562.86,1500.57,62.29,True,1.042,6,Facilities,Operations payroll line,28.0,0-30,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-017,1375.53,1308.06,67.47,True,1.052,6,Logistics,Operations payroll line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-007,1298.51,1275.42,23.09,True,1.018,6,Facilities,Operations payroll line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-057,1240.11,1173.64,66.47,True,1.057,6,Facilities,Operations payroll line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-060,1202.19,1188.19,14.0,True,1.012,6,Facilities,Operations payroll line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-066,1096.99,1086.13,10.86,True,1.01,6,Facilities,Operations payroll line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-056,1073.24,1012.01,61.23,True,1.061,6,Logistics,Operations payroll line,,,Connecticut,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-036,1054.99,993.72,61.27,True,1.062,6,Ops,Operations payroll line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-001,1011.65,963.82,47.83,True,1.05,6,Facilities,Operations payroll line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-048,1008.94,930.11,78.83,True,1.085,6,Facilities,Operations payroll line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-035,974.41,930.68,43.73,True,1.047,6,Facilities,Operations payroll line,,,North Dakota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-009,973.39,963.75,9.64,True,1.01,6,Facilities,Operations payroll line,5.0,0-30,Kansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-040,948.3,905.21,43.09,True,1.048,6,Logistics,Operations payroll line,41.0,31-60,Wisconsin,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-018,941.0,912.47,28.53,True,1.031,6,Ops,Operations payroll line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-039,905.65,896.68,8.97,True,1.01,6,Facilities,Operations payroll line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-015,898.82,819.88,78.94,True,1.096,6,Facilities,Operations payroll line,,,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-026,898.76,880.07,18.69,True,1.021,6,Logistics,Operations payroll line,16.0,0-30,Alabama,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-041,878.59,814.64,63.95,True,1.079,6,Facilities,Operations payroll line,,,Missouri,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-055,864.91,843.05,21.86,True,1.026,6,Facilities,Operations payroll line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-006,863.42,788.95,74.47,True,1.094,6,Facilities,Operations payroll line,46.0,31-60,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-004,822.0,758.38,63.62,True,1.084,6,Facilities,Operations payroll line,,,Arizona,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-037,791.36,762.95,28.41,True,1.037,6,Ops,Operations payroll line,,,Wyoming,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-061,784.13,740.36,43.77,True,1.059,6,Facilities,Operations payroll line,,,Kentucky,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-064,724.98,683.92,41.06,True,1.06,6,Logistics,Operations payroll line,,,Colorado,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-013,678.13,639.97,38.16,True,1.06,6,Facilities,Operations payroll line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-033,661.59,647.28,14.31,True,1.022,6,Facilities,Operations payroll line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-024,523.12,517.94,5.18,True,1.01,6,Ops,Operations payroll line,21.0,0-30,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-019,514.67,491.21,23.46,True,1.048,6,Ops,Operations payroll line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-027,507.07,477.73,29.34,True,1.061,6,Ops,Operations payroll line,0.0,0-30,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-030,469.42,437.67,31.75,True,1.073,6,Facilities,Operations payroll line,,,Nevada,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-065,441.2,416.36,24.84,True,1.06,6,Ops,Operations payroll line,24.0,0-30,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-050,426.72,415.85,10.87,True,1.026,6,Ops,Operations payroll line,,,Kentucky,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-062,422.84,404.42,18.42,True,1.046,6,Ops,Operations payroll line,,,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-029,360.43,331.87,28.56,True,1.086,6,Logistics,Operations payroll line,,,Vermont,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-021,358.97,342.49,16.48,True,1.048,6,Facilities,Operations payroll line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-020,326.78,298.09,28.69,True,1.096,6,Logistics,Operations payroll line,25.0,0-30,Indiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-014,310.46,300.5,9.96,True,1.033,6,Facilities,Operations payroll line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-052,307.57,289.34,18.23,True,1.063,6,Logistics,Operations payroll line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-008,298.86,279.98,18.88,True,1.067,6,Logistics,Operations payroll line,,,Delaware,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-053,279.97,272.61,7.36,True,1.027,6,Ops,Operations payroll line,,,Arizona,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-025,272.75,254.47,18.28,True,1.072,6,Ops,Operations payroll line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-045,272.56,248.57,23.99,True,1.096,6,Facilities,Operations payroll line,21.0,0-30,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-032,262.73,260.13,2.6,True,1.01,6,Logistics,Operations payroll line,19.0,0-30,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-031,258.53,246.67,11.86,True,1.048,6,Ops,Operations payroll line,,,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-043,238.65,225.75,12.9,True,1.057,6,Ops,Operations payroll line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-034,235.97,226.29,9.68,True,1.043,6,Logistics,Operations payroll line,,,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-012,233.55,215.23,18.32,True,1.085,6,Facilities,Operations payroll line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-042,217.18,210.31,6.87,True,1.033,6,Logistics,Operations payroll line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-051,206.54,195.92,10.62,True,1.054,6,Facilities,Operations payroll line,,,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-016,175.52,173.78,1.74,True,1.01,6,Facilities,Operations payroll line,27.0,0-30,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-028,173.25,170.99,2.26,True,1.013,6,Facilities,Operations payroll line,,,Rhode Island,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-023,134.75,126.36,8.39,True,1.066,6,Logistics,Operations payroll line,20.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-047,129.75,128.47,1.28,True,1.01,6,Ops,Operations payroll line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-044,117.83,109.26,8.57,True,1.078,6,Ops,Operations payroll line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-010,116.03,113.59,2.44,True,1.021,6,Ops,Operations payroll line,,,Georgia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-054,106.1,101.61,4.49,True,1.044,6,Ops,Operations payroll line,23.0,0-30,New Mexico,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-011,71.79,67.67,4.12,True,1.061,6,Ops,Operations payroll line,41.0,31-60,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-022,58.78,56.66,2.12,True,1.038,6,Facilities,Operations payroll line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-003,57.98,53.9,4.08,True,1.076,6,Logistics,Operations payroll line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-038,55.02,54.48,0.54,True,1.01,6,Logistics,Operations payroll line,,,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Rippling,E-202501-PA-005,54.37,51.79,2.58,True,1.05,6,Facilities,Operations payroll line,,,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Workday,E-202501-PA-063,35.15,34.08,1.07,True,1.031,6,Facilities,Operations payroll line,28.0,0-30,Idaho,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,payroll,Payroll,Gusto,E-202501-PA-046,15.77,15.47,0.3,True,1.019,6,Ops,Operations payroll line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-098,402.9,371.86,31.04,True,1.083,6,N/A,Operations software line,,,Arizona,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-058,319.62,299.99,19.63,True,1.065,6,N/A,Operations software line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-016,311.13,294.84,16.29,True,1.055,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-125,279.27,264.66,14.61,True,1.055,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-096,278.45,271.87,6.58,True,1.024,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-018,276.77,274.03,2.74,True,1.01,6,N/A,Operations software line,29.0,0-30,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-072,257.37,243.91,13.46,True,1.055,6,N/A,Operations software line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-113,242.65,227.18,15.47,True,1.068,6,N/A,Operations software line,,,Indiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-046,234.56,222.73,11.83,True,1.053,6,N/A,Operations software line,13.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-014,225.81,203.69,22.12,True,1.109,6,N/A,Operations software line,,,Kentucky,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-105,220.99,210.86,10.13,True,1.048,6,N/A,Operations software line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-045,220.39,206.33,14.06,True,1.068,6,N/A,Operations software line,,,Maine,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-051,215.91,208.43,7.48,True,1.036,6,N/A,Operations software line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-021,210.9,200.04,10.86,True,1.054,6,N/A,Operations software line,7.0,0-30,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-107,199.01,188.78,10.23,True,1.054,6,N/A,Operations software line,,,Missouri,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-068,193.0,182.94,10.06,True,1.055,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-034,190.97,179.31,11.66,True,1.065,6,N/A,Operations software line,33.0,31-60,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-112,184.71,177.69,7.02,True,1.04,6,N/A,Operations software line,,,Georgia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-062,179.52,169.55,9.97,True,1.059,6,N/A,Operations software line,,,Rhode Island,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-104,174.98,170.4,4.58,True,1.027,6,N/A,Operations software line,44.0,31-60,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-101,169.07,160.34,8.73,True,1.054,6,N/A,Operations software line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-093,167.85,162.02,5.83,True,1.036,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-029,161.44,154.02,7.42,True,1.048,6,N/A,Operations software line,,,Alaska,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-117,160.63,146.0,14.63,True,1.1,6,N/A,Operations software line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-076,160.62,147.47,13.15,True,1.089,6,N/A,Operations software line,,,New Mexico,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-074,152.13,144.54,7.59,True,1.052,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-005,143.49,133.33,10.16,True,1.076,6,N/A,Operations software line,,,Pennsylvania,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-013,143.22,138.92,4.3,True,1.031,6,N/A,Operations software line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-088,138.21,134.25,3.96,True,1.029,6,N/A,Operations software line,20.0,0-30,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-095,131.34,123.5,7.84,True,1.063,6,N/A,Operations software line,36.0,31-60,Colorado,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-040,128.66,127.39,1.27,True,1.01,6,N/A,Operations software line,36.0,31-60,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-001,128.5,122.61,5.89,True,1.048,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-086,127.77,123.43,4.34,True,1.035,6,N/A,Operations software line,32.0,31-60,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-089,126.46,125.21,1.25,True,1.01,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-049,125.91,122.96,2.95,True,1.024,6,N/A,Operations software line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-024,122.38,113.03,9.35,True,1.083,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-083,122.09,114.86,7.23,True,1.063,6,N/A,Operations software line,9.0,0-30,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-036,121.43,115.31,6.12,True,1.053,6,N/A,Operations software line,48.0,31-60,Montana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-111,119.27,112.27,7.0,True,1.062,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-084,107.0,99.8,7.2,True,1.072,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-042,104.85,101.12,3.73,True,1.037,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-063,102.82,97.43,5.39,True,1.055,6,N/A,Operations software line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-054,102.58,97.55,5.03,True,1.052,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-039,101.57,100.56,1.01,True,1.01,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-052,100.09,99.1,0.99,True,1.01,6,N/A,Operations software line,19.0,0-30,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-044,99.86,92.59,7.27,True,1.079,6,N/A,Operations software line,,,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-115,92.35,88.4,3.95,True,1.045,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-025,90.51,86.79,3.72,True,1.043,6,N/A,Operations software line,27.0,0-30,Pennsylvania,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-080,88.21,83.78,4.43,True,1.053,6,N/A,Operations software line,0.0,0-30,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-003,87.93,82.37,5.56,True,1.067,6,N/A,Operations software line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-041,86.82,83.44,3.38,True,1.041,6,N/A,Operations software line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-108,86.11,80.14,5.97,True,1.075,6,N/A,Operations software line,15.0,0-30,Nebraska,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-071,84.36,82.0,2.36,True,1.029,6,N/A,Operations software line,10.0,0-30,Kentucky,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-043,83.62,76.82,6.8,True,1.089,6,N/A,Operations software line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-085,83.28,79.94,3.34,True,1.042,6,N/A,Operations software line,17.0,0-30,Pennsylvania,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-082,79.14,78.36,0.78,True,1.01,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-106,75.59,70.03,5.56,True,1.079,6,N/A,Operations software line,,,Arizona,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-075,73.9,72.66,1.24,True,1.017,6,N/A,Operations software line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-050,72.13,65.92,6.21,True,1.094,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-007,70.91,67.56,3.35,True,1.05,6,N/A,Operations software line,41.0,31-60,Pennsylvania,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-031,69.74,62.38,7.36,True,1.118,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-009,69.4,66.58,2.82,True,1.042,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-028,69.0,67.17,1.83,True,1.027,6,N/A,Operations software line,18.0,0-30,Georgia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-092,65.83,61.7,4.13,True,1.067,6,N/A,Operations software line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-070,63.81,59.61,4.2,True,1.07,6,N/A,Operations software line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-047,62.17,58.2,3.97,True,1.068,6,N/A,Operations software line,31.0,31-60,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-020,61.32,55.83,5.49,True,1.098,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-102,58.85,58.27,0.58,True,1.01,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-081,56.49,54.76,1.73,True,1.032,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-011,55.58,51.78,3.8,True,1.073,6,N/A,Operations software line,0.0,0-30,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-055,54.54,51.22,3.32,True,1.065,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-103,52.18,49.82,2.36,True,1.047,6,N/A,Operations software line,40.0,31-60,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-015,50.39,45.26,5.13,True,1.113,6,N/A,Operations software line,17.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-035,49.45,45.92,3.53,True,1.077,6,N/A,Operations software line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-116,49.25,47.32,1.93,True,1.041,6,N/A,Operations software line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-123,47.42,43.7,3.72,True,1.085,6,N/A,Operations software line,11.0,0-30,Arkansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-008,46.19,43.08,3.11,True,1.072,6,N/A,Operations software line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-109,44.84,43.96,0.88,True,1.02,6,N/A,Operations software line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-010,44.65,43.13,1.52,True,1.035,6,N/A,Operations software line,,,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-027,41.74,41.33,0.41,True,1.01,6,N/A,Operations software line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-006,41.11,40.7,0.41,True,1.01,6,N/A,Operations software line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-061,40.09,36.61,3.48,True,1.095,6,N/A,Operations software line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-066,39.04,36.56,2.48,True,1.068,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-122,38.14,36.62,1.52,True,1.041,6,N/A,Operations software line,23.0,0-30,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-059,37.75,36.02,1.73,True,1.048,6,N/A,Operations software line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-120,36.25,34.16,2.09,True,1.061,6,N/A,Operations software line,,,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-090,35.4,33.14,2.26,True,1.068,6,N/A,Operations software line,36.0,31-60,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-019,35.36,33.86,1.5,True,1.044,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-097,34.86,32.63,2.23,True,1.068,6,N/A,Operations software line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-032,31.95,30.57,1.38,True,1.045,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-094,31.49,31.15,0.34,True,1.011,6,N/A,Operations software line,17.0,0-30,Indiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-030,31.48,31.09,0.39,True,1.012,6,N/A,Operations software line,39.0,31-60,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-077,31.1,29.19,1.91,True,1.065,6,N/A,Operations software line,42.0,31-60,Colorado,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-037,29.24,28.42,0.82,True,1.029,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-078,28.42,27.23,1.19,True,1.044,6,N/A,Operations software line,,,Wisconsin,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-114,28.32,27.06,1.26,True,1.047,6,N/A,Operations software line,,,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-033,26.98,25.41,1.57,True,1.062,6,N/A,Operations software line,,,Kentucky,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-057,26.79,25.44,1.35,True,1.053,6,N/A,Operations software line,52.0,31-60,Kansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-073,24.6,22.87,1.73,True,1.076,6,N/A,Operations software line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-004,23.98,22.12,1.86,True,1.084,6,N/A,Operations software line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-026,23.65,23.42,0.23,True,1.01,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-110,23.51,23.28,0.23,True,1.01,6,N/A,Operations software line,,,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-060,22.88,22.58,0.3,True,1.013,6,N/A,Operations software line,,,Kansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-079,22.78,20.88,1.9,True,1.091,6,N/A,Operations software line,11.0,0-30,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-002,21.51,19.68,1.83,True,1.093,6,N/A,Operations software line,,,Colorado,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-091,20.93,19.82,1.11,True,1.056,6,N/A,Operations software line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-118,20.69,20.04,0.65,True,1.032,6,N/A,Operations software line,,,Massachusetts,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Datadog,E-202501-SO-023,18.21,16.94,1.27,True,1.075,6,N/A,Operations software line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-064,16.74,16.57,0.17,True,1.01,6,N/A,Operations software line,,,Arizona,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-017,15.05,14.45,0.6,True,1.041,6,N/A,Operations software line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-038,14.59,13.97,0.62,True,1.044,6,N/A,Operations software line,,,Georgia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-067,14.35,13.36,0.99,True,1.074,6,N/A,Operations software line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GCP,E-202501-SO-053,12.99,11.64,1.35,True,1.116,6,N/A,Operations software line,,,Alabama,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-022,10.78,10.28,0.5,True,1.049,6,N/A,Operations software line,,,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-056,10.59,10.48,0.11,True,1.011,6,N/A,Operations software line,,,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-069,10.46,10.07,0.39,True,1.039,6,N/A,Operations software line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,GitHub,E-202501-SO-124,9.97,9.7,0.27,True,1.028,6,N/A,Operations software line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-048,8.03,7.87,0.16,True,1.02,6,N/A,Operations software line,,,Alabama,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Figma,E-202501-SO-121,6.29,6.01,0.28,True,1.047,6,N/A,Operations software line,,,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Azure,E-202501-SO-099,5.72,5.23,0.49,True,1.094,6,N/A,Operations software line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-119,5.45,5.33,0.12,True,1.022,6,N/A,Operations software line,19.0,0-30,Mississippi,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,AWS,E-202501-SO-100,3.38,3.17,0.21,True,1.067,6,N/A,Operations software line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Salesforce,E-202501-SO-087,3.11,2.83,0.28,True,1.099,6,N/A,Operations software line,4.0,0-30,Indiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Atlassian,E-202501-SO-012,2.63,2.51,0.12,True,1.046,6,N/A,Operations software line,30.0,0-30,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,software,Software,Snowflake,E-202501-SO-065,0.76,0.71,0.05,True,1.075,6,N/A,Operations software line,17.0,0-30,West Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-027,269.13,266.47,2.66,True,1.01,6,N/A,Operations travel line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-053,187.78,175.85,11.93,True,1.068,6,N/A,Operations travel line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-021,175.58,166.24,9.34,True,1.056,6,N/A,Operations travel line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-066,146.79,137.6,9.19,True,1.067,6,N/A,Operations travel line,,,Pennsylvania,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-061,143.24,133.78,9.46,True,1.071,6,N/A,Operations travel line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-064,132.35,122.0,10.35,True,1.085,6,N/A,Operations travel line,,,Rhode Island,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-004,128.88,118.49,10.39,True,1.088,6,N/A,Operations travel line,,,Oregon,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-071,112.04,102.58,9.46,True,1.092,6,N/A,Operations travel line,29.0,0-30,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-080,103.56,96.47,7.09,True,1.073,6,N/A,Operations travel line,,,Rhode Island,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-003,101.81,94.93,6.88,True,1.072,6,N/A,Operations travel line,,,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-019,99.73,94.0,5.73,True,1.061,6,N/A,Operations travel line,,,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-022,95.26,90.71,4.55,True,1.05,6,N/A,Operations travel line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-041,94.2,89.05,5.15,True,1.058,6,N/A,Operations travel line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-040,91.37,85.12,6.25,True,1.073,6,N/A,Operations travel line,,,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-033,90.98,88.34,2.64,True,1.03,6,N/A,Operations travel line,24.0,0-30,Oklahoma,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-034,85.06,79.43,5.63,True,1.071,6,N/A,Operations travel line,36.0,31-60,New Hampshire,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-032,85.04,79.36,5.68,True,1.072,6,N/A,Operations travel line,,,Indiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-059,84.98,79.29,5.69,True,1.072,6,N/A,Operations travel line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-013,81.11,75.86,5.25,True,1.069,6,N/A,Operations travel line,,,Maine,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-031,72.38,66.73,5.65,True,1.085,6,N/A,Operations travel line,,,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-035,71.03,69.67,1.36,True,1.02,6,N/A,Operations travel line,14.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-046,68.07,65.03,3.04,True,1.047,6,N/A,Operations travel line,51.0,31-60,Maine,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-011,67.47,64.06,3.41,True,1.053,6,N/A,Operations travel line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-062,67.3,66.37,0.93,True,1.014,6,N/A,Operations travel line,29.0,0-30,Wisconsin,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-058,62.52,60.59,1.93,True,1.032,6,N/A,Operations travel line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-002,58.96,54.63,4.33,True,1.079,6,N/A,Operations travel line,21.0,0-30,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-051,58.52,54.86,3.66,True,1.067,6,N/A,Operations travel line,37.0,31-60,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-029,57.38,56.81,0.57,True,1.01,6,N/A,Operations travel line,7.0,0-30,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-048,54.88,50.41,4.47,True,1.089,6,N/A,Operations travel line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-081,53.47,50.33,3.14,True,1.062,6,N/A,Operations travel line,,,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-042,52.14,49.44,2.7,True,1.055,6,N/A,Operations travel line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-044,50.85,50.35,0.5,True,1.01,6,N/A,Operations travel line,32.0,31-60,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-082,49.1,46.53,2.57,True,1.055,6,N/A,Operations travel line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-069,48.86,45.05,3.81,True,1.085,6,N/A,Operations travel line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-079,46.78,44.73,2.05,True,1.046,6,N/A,Operations travel line,,,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-084,42.76,40.84,1.92,True,1.047,6,N/A,Operations travel line,,,Florida,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-015,42.12,41.55,0.57,True,1.014,6,N/A,Operations travel line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-026,39.28,37.04,2.24,True,1.06,6,N/A,Operations travel line,46.0,31-60,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-060,38.3,37.92,0.38,True,1.01,6,N/A,Operations travel line,34.0,31-60,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-037,37.36,36.43,0.93,True,1.025,6,N/A,Operations travel line,,,Texas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-008,35.9,34.67,1.23,True,1.035,6,N/A,Operations travel line,12.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-085,34.98,34.58,0.4,True,1.012,6,N/A,Operations travel line,,,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-057,32.58,31.77,0.81,True,1.026,6,N/A,Operations travel line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-054,31.29,30.56,0.73,True,1.024,6,N/A,Operations travel line,16.0,0-30,Georgia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-083,27.07,26.8,0.27,True,1.01,6,N/A,Operations travel line,21.0,0-30,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-018,24.81,24.38,0.43,True,1.018,6,N/A,Operations travel line,25.0,0-30,New York,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-001,23.85,22.3,1.55,True,1.07,6,N/A,Operations travel line,,,Arkansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-049,22.81,21.92,0.89,True,1.041,6,N/A,Operations travel line,0.0,0-30,Georgia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-039,21.27,19.41,1.86,True,1.096,6,N/A,Operations travel line,,,Wyoming,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-068,20.54,20.34,0.2,True,1.01,6,N/A,Operations travel line,,,Georgia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-090,20.22,20.02,0.2,True,1.01,6,N/A,Operations travel line,,,Alabama,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-072,20.15,18.22,1.93,True,1.106,6,N/A,Operations travel line,,,Kentucky,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-010,19.27,18.09,1.18,True,1.065,6,N/A,Operations travel line,,,Pennsylvania,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-038,18.82,17.69,1.13,True,1.064,6,N/A,Operations travel line,,,Alabama,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-065,18.49,17.19,1.3,True,1.076,6,N/A,Operations travel line,12.0,0-30,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-078,16.77,14.96,1.81,True,1.121,6,N/A,Operations travel line,25.0,0-30,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-077,16.07,15.82,0.25,True,1.016,6,N/A,Operations travel line,,,Louisiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-055,15.41,14.73,0.68,True,1.046,6,N/A,Operations travel line,,,Connecticut,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-005,14.57,14.04,0.53,True,1.038,6,N/A,Operations travel line,46.0,31-60,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-067,14.55,13.26,1.29,True,1.098,6,N/A,Operations travel line,,,Arizona,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-017,14.51,13.91,0.6,True,1.043,6,N/A,Operations travel line,27.0,0-30,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-007,14.28,13.45,0.83,True,1.062,6,N/A,Operations travel line,,,Kansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-028,14.19,13.3,0.89,True,1.067,6,N/A,Operations travel line,55.0,31-60,North Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-009,13.27,13.14,0.13,True,1.01,6,N/A,Operations travel line,,,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Hilton,E-202501-TR-045,12.97,12.6,0.37,True,1.03,6,N/A,Operations travel line,,,South Carolina,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-073,11.4,11.03,0.37,True,1.033,6,N/A,Operations travel line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-087,11.31,11.2,0.11,True,1.01,6,N/A,Operations travel line,,,Idaho,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-043,11.11,10.89,0.22,True,1.02,6,N/A,Operations travel line,34.0,31-60,New Jersey,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-088,10.79,9.87,0.92,True,1.093,6,N/A,Operations travel line,27.0,0-30,Maryland,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-020,10.1,9.89,0.21,True,1.022,6,N/A,Operations travel line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-056,9.49,9.4,0.09,True,1.01,6,N/A,Operations travel line,,,Alabama,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-047,8.29,8.0,0.29,True,1.036,6,N/A,Operations travel line,17.0,0-30,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-063,8.1,7.76,0.34,True,1.043,6,N/A,Operations travel line,,,Minnesota,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-025,7.89,7.69,0.2,True,1.026,6,N/A,Operations travel line,,,Utah,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-052,6.01,5.9,0.11,True,1.018,6,N/A,Operations travel line,,,Rhode Island,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-036,4.22,4.02,0.2,True,1.05,6,N/A,Operations travel line,2.0,0-30,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-050,3.99,3.81,0.18,True,1.048,6,N/A,Operations travel line,,,Rhode Island,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-030,3.98,3.74,0.24,True,1.065,6,N/A,Operations travel line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Uber,E-202501-TR-023,3.59,3.47,0.12,True,1.035,6,N/A,Operations travel line,,,Idaho,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-006,3.3,3.16,0.14,True,1.044,6,N/A,Operations travel line,,,California,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Delta,E-202501-TR-089,3.26,3.05,0.21,True,1.068,6,N/A,Operations travel line,9.0,0-30,New Mexico,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-070,2.99,2.8,0.19,True,1.069,6,N/A,Operations travel line,,,Tennessee,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-091,2.68,2.53,0.15,True,1.061,6,N/A,Operations travel line,,,Illinois,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,United,E-202501-TR-074,2.66,2.58,0.08,True,1.033,6,N/A,Operations travel line,35.0,31-60,Washington,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-016,2.52,2.34,0.18,True,1.078,6,N/A,Operations travel line,,,Connecticut,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-086,2.29,2.27,0.02,True,1.01,6,N/A,Operations travel line,0.0,0-30,Indiana,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-076,1.31,1.29,0.02,True,1.013,6,N/A,Operations travel line,,,Michigan,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Southwest,E-202501-TR-075,1.12,1.09,0.03,True,1.029,6,N/A,Operations travel line,,,Kansas,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Lyft,E-202501-TR-014,0.94,0.88,0.06,True,1.068,6,N/A,Operations travel line,,,Ohio,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Marriott,E-202501-TR-012,0.78,0.75,0.03,True,1.042,6,N/A,Operations travel line,,,Virginia,79928.97,-1832943.2564000003
+2025-01-01,Operations,expense,N/A,travel,Travel,Amex,E-202501-TR-024,0.39,0.38,0.01,True,1.035,6,N/A,Operations travel line,9.0,0-30,Delaware,79928.97,-1832943.2564000003
