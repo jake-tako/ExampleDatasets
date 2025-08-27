@@ -1,392 +1,392 @@
 month,department,line_type,product_line,category,subcategory,counterparty,invoice_id,amount,budget,variance,is_over_budget,spend_to_budget_ratio,headcount,role,notes,days_past_due,aging_bucket,state,dept_total_opex,company_ebitda
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-029,16.88,16.7,0.18,True,1.011,0,N/A,HR other line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-020,16.51,16.27,0.24,True,1.015,0,N/A,HR other line,19.0,0-30,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-006,16.15,15.23,0.92,True,1.061,0,N/A,HR other line,,,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-039,15.38,14.92,0.46,True,1.031,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-036,15.37,14.21,1.16,True,1.082,0,N/A,HR other line,62.0,61-90,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-055,12.62,12.13,0.49,True,1.04,0,N/A,HR other line,10.0,0-30,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-085,12.24,11.32,0.92,True,1.081,0,N/A,HR other line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-022,11.64,11.26,0.38,True,1.034,0,N/A,HR other line,,,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-071,11.0,10.39,0.61,True,1.059,0,N/A,HR other line,7.0,0-30,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-038,10.84,10.53,0.31,True,1.03,0,N/A,HR other line,30.0,0-30,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-046,10.82,9.98,0.84,True,1.084,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-105,10.45,10.05,0.4,True,1.039,0,N/A,HR other line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-065,10.28,10.18,0.1,True,1.01,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-047,9.06,8.46,0.6,True,1.071,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-044,8.47,8.17,0.3,True,1.037,0,N/A,HR other line,,,Wyoming,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-067,8.38,8.15,0.23,True,1.028,0,N/A,HR other line,,,Oregon,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-095,8.3,8.22,0.08,True,1.01,0,N/A,HR other line,52.0,31-60,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-019,7.43,7.13,0.3,True,1.042,0,N/A,HR other line,,,New Mexico,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-027,6.71,6.12,0.59,True,1.096,0,N/A,HR other line,,,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-049,6.68,6.35,0.33,True,1.052,0,N/A,HR other line,41.0,31-60,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-084,6.53,6.18,0.35,True,1.056,0,N/A,HR other line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-054,6.43,5.7,0.73,True,1.128,0,N/A,HR other line,,,Oregon,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-098,6.41,6.29,0.12,True,1.019,0,N/A,HR other line,15.0,0-30,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-012,6.1,6.03,0.07,True,1.012,0,N/A,HR other line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-040,6.1,5.9,0.2,True,1.033,0,N/A,HR other line,,,Arizona,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-016,5.96,5.47,0.49,True,1.09,0,N/A,HR other line,18.0,0-30,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-100,5.82,5.49,0.33,True,1.06,0,N/A,HR other line,31.0,31-60,North Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-066,5.75,5.62,0.13,True,1.022,0,N/A,HR other line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-069,5.61,5.36,0.25,True,1.046,0,N/A,HR other line,,,Virginia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-014,5.52,5.37,0.15,True,1.028,0,N/A,HR other line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-076,5.44,5.1,0.34,True,1.066,0,N/A,HR other line,15.0,0-30,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-081,5.44,5.31,0.13,True,1.025,0,N/A,HR other line,,,Alabama,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-031,5.28,5.12,0.16,True,1.032,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-106,5.27,4.93,0.34,True,1.068,0,N/A,HR other line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-102,4.72,4.53,0.19,True,1.041,0,N/A,HR other line,,,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-107,4.66,4.39,0.27,True,1.062,0,N/A,HR other line,,,Georgia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-101,4.48,4.17,0.31,True,1.075,0,N/A,HR other line,38.0,31-60,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-109,4.43,4.11,0.32,True,1.078,0,N/A,HR other line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-060,4.28,3.95,0.33,True,1.084,0,N/A,HR other line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-045,4.12,4.08,0.04,True,1.01,0,N/A,HR other line,,,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-052,4.0,3.78,0.22,True,1.058,0,N/A,HR other line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-077,3.97,3.81,0.16,True,1.043,0,N/A,HR other line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-003,3.96,3.69,0.27,True,1.072,0,N/A,HR other line,,,North Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-062,3.95,3.76,0.19,True,1.05,0,N/A,HR other line,5.0,0-30,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-037,3.92,3.6,0.32,True,1.09,0,N/A,HR other line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-082,3.92,3.74,0.18,True,1.048,0,N/A,HR other line,,,Rhode Island,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-063,3.83,3.52,0.31,True,1.09,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-018,3.81,3.77,0.04,True,1.01,0,N/A,HR other line,17.0,0-30,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-073,3.69,3.63,0.06,True,1.016,0,N/A,HR other line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-032,3.38,3.15,0.23,True,1.073,0,N/A,HR other line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-024,3.32,2.97,0.35,True,1.119,0,N/A,HR other line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-057,3.32,3.08,0.24,True,1.077,0,N/A,HR other line,30.0,0-30,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-104,3.28,3.15,0.13,True,1.042,0,N/A,HR other line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-011,3.26,2.98,0.28,True,1.094,0,N/A,HR other line,,,Oregon,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-026,3.13,2.93,0.2,True,1.067,0,N/A,HR other line,,,New Mexico,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-007,3.01,2.97,0.04,True,1.013,0,N/A,HR other line,17.0,0-30,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-013,3.0,2.95,0.05,True,1.016,0,N/A,HR other line,49.0,31-60,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-030,2.98,2.78,0.2,True,1.07,0,N/A,HR other line,,,Wyoming,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-033,2.95,2.92,0.03,True,1.01,0,N/A,HR other line,25.0,0-30,Kansas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-015,2.67,2.55,0.12,True,1.046,0,N/A,HR other line,,,Maine,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-075,2.67,2.48,0.19,True,1.076,0,N/A,HR other line,38.0,31-60,South Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-017,2.63,2.48,0.15,True,1.062,0,N/A,HR other line,,,Kansas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-087,2.55,2.27,0.28,True,1.124,0,N/A,HR other line,,,Virginia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-042,2.41,2.17,0.24,True,1.11,0,N/A,HR other line,19.0,0-30,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-025,2.36,2.34,0.02,True,1.01,0,N/A,HR other line,,,Rhode Island,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-080,2.3,2.24,0.06,True,1.027,0,N/A,HR other line,,,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-072,2.29,2.23,0.06,True,1.027,0,N/A,HR other line,,,Wyoming,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-088,2.29,2.16,0.13,True,1.06,0,N/A,HR other line,30.0,0-30,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-004,2.22,2.2,0.02,True,1.01,0,N/A,HR other line,,,Oregon,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-053,2.21,2.19,0.02,True,1.01,0,N/A,HR other line,9.0,0-30,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-056,2.17,2.07,0.1,True,1.047,0,N/A,HR other line,37.0,31-60,Indiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-021,2.15,2.09,0.06,True,1.031,0,N/A,HR other line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-108,2.15,2.13,0.02,True,1.01,0,N/A,HR other line,5.0,0-30,Montana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-099,2.14,2.07,0.07,True,1.036,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-034,2.08,1.98,0.1,True,1.048,0,N/A,HR other line,,,Nevada,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-009,1.97,1.81,0.16,True,1.09,0,N/A,HR other line,,,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-028,1.86,1.84,0.02,True,1.01,0,N/A,HR other line,,,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-041,1.73,1.68,0.05,True,1.032,0,N/A,HR other line,,,New Mexico,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-070,1.69,1.67,0.02,True,1.01,0,N/A,HR other line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-090,1.67,1.52,0.15,True,1.101,0,N/A,HR other line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-086,1.63,1.61,0.02,True,1.01,0,N/A,HR other line,,,Wisconsin,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-002,1.56,1.54,0.02,True,1.013,0,N/A,HR other line,,,Wisconsin,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-096,1.44,1.34,0.1,True,1.071,0,N/A,HR other line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-091,1.41,1.39,0.02,True,1.015,0,N/A,HR other line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-089,1.4,1.37,0.03,True,1.022,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-103,1.39,1.23,0.16,True,1.129,0,N/A,HR other line,,,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-074,1.3,1.22,0.08,True,1.066,0,N/A,HR other line,,,Missouri,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-094,1.17,1.16,0.01,True,1.01,0,N/A,HR other line,2.0,0-30,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-008,1.1,1.04,0.06,True,1.062,0,N/A,HR other line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-097,0.96,0.89,0.07,True,1.074,0,N/A,HR other line,,,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-059,0.9,0.83,0.07,True,1.085,0,N/A,HR other line,,,Pennsylvania,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-083,0.83,0.79,0.04,True,1.051,0,N/A,HR other line,18.0,0-30,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-092,0.8,0.79,0.01,True,1.01,0,N/A,HR other line,,,Idaho,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-001,0.59,0.53,0.06,True,1.106,0,N/A,HR other line,,,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-050,0.59,0.56,0.03,True,1.048,0,N/A,HR other line,,,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-068,0.56,0.52,0.04,True,1.084,0,N/A,HR other line,18.0,0-30,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-023,0.41,0.38,0.03,True,1.087,0,N/A,HR other line,,,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-043,0.38,0.37,0.01,True,1.032,0,N/A,HR other line,21.0,0-30,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-064,0.37,0.35,0.02,True,1.061,0,N/A,HR other line,32.0,31-60,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-051,0.26,0.25,0.01,True,1.055,0,N/A,HR other line,,,Indiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-005,0.23,0.22,0.01,True,1.025,0,N/A,HR other line,4.0,0-30,Alaska,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-093,0.23,0.21,0.02,True,1.071,0,N/A,HR other line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-048,0.15,0.14,0.01,True,1.064,0,N/A,HR other line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-079,0.14,0.14,0.0,True,1.022,0,N/A,HR other line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-010,0.12,0.11,0.01,True,1.105,0,N/A,HR other line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-035,0.09,0.08,0.01,True,1.072,0,N/A,HR other line,32.0,31-60,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-061,0.05,0.05,0.0,True,1.076,0,N/A,HR other line,,,Missouri,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-078,0.05,0.05,0.0,True,1.078,0,N/A,HR other line,,,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-058,0.01,0.01,0.0,True,1.015,0,N/A,HR other line,,,Alabama,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-058,169.27,157.46,11.81,True,1.075,0,Recruiter,HR payroll line,27.0,0-30,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-049,146.27,140.79,5.48,True,1.039,0,HRBP,HR payroll line,16.0,0-30,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-002,99.89,94.16,5.73,True,1.061,0,HRBP,HR payroll line,,,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-059,69.12,65.44,3.68,True,1.056,0,HRBP,HR payroll line,,,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-017,60.83,55.56,5.27,True,1.095,0,People Ops,HR payroll line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-007,57.43,52.81,4.62,True,1.087,0,HRBP,HR payroll line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-057,54.84,52.45,2.39,True,1.046,0,HRBP,HR payroll line,,,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-060,53.17,52.06,1.11,True,1.021,0,HRBP,HR payroll line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-066,48.51,44.31,4.2,True,1.095,0,HRBP,HR payroll line,0.0,0-30,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-056,47.46,45.85,1.61,True,1.035,0,People Ops,HR payroll line,,,Connecticut,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-036,46.66,44.04,2.62,True,1.059,0,Recruiter,HR payroll line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-001,44.74,43.07,1.67,True,1.039,0,HRBP,HR payroll line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-048,44.62,43.33,1.29,True,1.03,0,HRBP,HR payroll line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-035,43.09,40.82,2.27,True,1.056,0,HRBP,HR payroll line,12.0,0-30,North Dakota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-009,43.05,41.71,1.34,True,1.032,0,HRBP,HR payroll line,27.0,0-30,Kansas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-040,41.94,39.68,2.26,True,1.057,0,People Ops,HR payroll line,,,Wisconsin,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-018,41.62,37.95,3.67,True,1.097,0,Recruiter,HR payroll line,31.0,31-60,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-039,40.05,38.22,1.83,True,1.048,0,HRBP,HR payroll line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-015,39.75,37.34,2.41,True,1.065,0,HRBP,HR payroll line,,,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-026,39.75,37.44,2.31,True,1.062,0,People Ops,HR payroll line,,,Alabama,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-041,38.86,37.21,1.65,True,1.044,0,HRBP,HR payroll line,,,Missouri,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-055,38.25,37.87,0.38,True,1.01,0,HRBP,HR payroll line,,,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-006,38.18,35.56,2.62,True,1.074,0,HRBP,HR payroll line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-004,36.35,35.99,0.36,True,1.01,0,HRBP,HR payroll line,,,Arizona,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-037,35.0,34.6,0.4,True,1.012,0,Recruiter,HR payroll line,,,Wyoming,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-061,34.68,32.7,1.98,True,1.06,0,HRBP,HR payroll line,25.0,0-30,Kentucky,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-064,32.06,30.4,1.66,True,1.055,0,People Ops,HR payroll line,40.0,31-60,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-013,29.99,27.67,2.32,True,1.084,0,HRBP,HR payroll line,4.0,0-30,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-033,29.26,28.96,0.3,True,1.01,0,HRBP,HR payroll line,18.0,0-30,North Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-024,23.13,22.6,0.53,True,1.023,0,Recruiter,HR payroll line,27.0,0-30,South Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-019,22.76,21.46,1.3,True,1.06,0,Recruiter,HR payroll line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-027,22.42,21.34,1.08,True,1.05,0,Recruiter,HR payroll line,,,South Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-030,20.76,19.74,1.02,True,1.052,0,HRBP,HR payroll line,,,Nevada,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-065,19.51,18.03,1.48,True,1.082,0,Recruiter,HR payroll line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-050,18.87,17.83,1.04,True,1.059,0,Recruiter,HR payroll line,,,Kentucky,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-062,18.7,18.46,0.24,True,1.013,0,Recruiter,HR payroll line,,,Oregon,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-029,15.94,14.59,1.35,True,1.092,0,People Ops,HR payroll line,,,Vermont,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-021,15.88,15.2,0.68,True,1.045,0,HRBP,HR payroll line,,,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-020,14.45,13.79,0.66,True,1.048,0,People Ops,HR payroll line,17.0,0-30,Indiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-014,13.73,12.84,0.89,True,1.07,0,HRBP,HR payroll line,,,North Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-052,13.6,13.0,0.6,True,1.046,0,People Ops,HR payroll line,9.0,0-30,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-008,13.22,13.08,0.14,True,1.011,0,People Ops,HR payroll line,0.0,0-30,Delaware,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-053,12.38,11.46,0.92,True,1.08,0,Recruiter,HR payroll line,22.0,0-30,Arizona,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-025,12.06,11.18,0.88,True,1.079,0,Recruiter,HR payroll line,43.0,31-60,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-045,12.05,11.89,0.16,True,1.013,0,HRBP,HR payroll line,17.0,0-30,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-032,11.62,10.86,0.76,True,1.07,0,People Ops,HR payroll line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-031,11.43,10.97,0.46,True,1.041,0,Recruiter,HR payroll line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-043,10.55,10.1,0.45,True,1.045,0,Recruiter,HR payroll line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-034,10.44,10.26,0.18,True,1.017,0,People Ops,HR payroll line,,,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-012,10.33,9.73,0.6,True,1.062,0,HRBP,HR payroll line,38.0,31-60,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-042,9.6,8.59,1.01,True,1.117,0,People Ops,HR payroll line,16.0,0-30,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-051,9.13,9.01,0.12,True,1.014,0,HRBP,HR payroll line,,,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-016,7.76,7.27,0.49,True,1.067,0,HRBP,HR payroll line,13.0,0-30,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-028,7.66,7.58,0.08,True,1.01,0,HRBP,HR payroll line,,,Rhode Island,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-023,5.96,5.9,0.06,True,1.01,0,People Ops,HR payroll line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-047,5.74,5.65,0.09,True,1.016,0,Recruiter,HR payroll line,27.0,0-30,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-044,5.21,4.89,0.32,True,1.066,0,Recruiter,HR payroll line,,,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-010,5.13,4.98,0.15,True,1.029,0,Recruiter,HR payroll line,33.0,31-60,Georgia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-054,4.69,4.45,0.24,True,1.053,0,Recruiter,HR payroll line,28.0,0-30,New Mexico,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-011,3.17,3.06,0.11,True,1.036,0,Recruiter,HR payroll line,29.0,0-30,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-022,2.6,2.53,0.07,True,1.028,0,HRBP,HR payroll line,,,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-003,2.56,2.45,0.11,True,1.044,0,People Ops,HR payroll line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-038,2.43,2.35,0.08,True,1.035,0,People Ops,HR payroll line,,,Virginia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-005,2.4,2.3,0.1,True,1.044,0,HRBP,HR payroll line,,,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-063,1.55,1.46,0.09,True,1.06,0,HRBP,HR payroll line,,,Idaho,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-046,0.7,0.64,0.06,True,1.092,0,Recruiter,HR payroll line,24.0,0-30,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-098,10.19,10.04,0.15,True,1.015,0,N/A,HR software line,,,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-058,8.09,7.84,0.25,True,1.032,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-016,7.87,7.58,0.29,True,1.038,0,N/A,HR software line,30.0,0-30,Georgia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-125,7.06,6.8,0.26,True,1.039,0,N/A,HR software line,,,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-096,7.04,6.96,0.08,True,1.012,0,N/A,HR software line,12.0,0-30,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-018,7.0,6.58,0.42,True,1.064,0,N/A,HR software line,,,Delaware,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-072,6.51,6.04,0.47,True,1.079,0,N/A,HR software line,17.0,0-30,Oklahoma,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-113,6.14,5.76,0.38,True,1.066,0,N/A,HR software line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-046,5.93,5.86,0.07,True,1.011,0,N/A,HR software line,,,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-014,5.71,5.36,0.35,True,1.064,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-105,5.59,5.19,0.4,True,1.077,0,N/A,HR software line,20.0,0-30,New Hampshire,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-045,5.58,5.29,0.29,True,1.054,0,N/A,HR software line,0.0,0-30,Wisconsin,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-051,5.46,5.06,0.4,True,1.079,0,N/A,HR software line,,,Louisiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-021,5.34,5.28,0.06,True,1.011,0,N/A,HR software line,,,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-107,5.03,4.68,0.35,True,1.075,0,N/A,HR software line,,,Kentucky,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-068,4.88,4.74,0.14,True,1.029,0,N/A,HR software line,,,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-034,4.83,4.55,0.28,True,1.062,0,N/A,HR software line,29.0,0-30,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-112,4.67,4.21,0.46,True,1.109,0,N/A,HR software line,30.0,0-30,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-062,4.54,4.13,0.41,True,1.099,0,N/A,HR software line,0.0,0-30,Pennsylvania,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-104,4.43,4.22,0.21,True,1.05,0,N/A,HR software line,19.0,0-30,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-101,4.28,3.86,0.42,True,1.107,0,N/A,HR software line,,,Indiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-093,4.25,3.99,0.26,True,1.065,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-029,4.08,3.8,0.28,True,1.072,0,N/A,HR software line,0.0,0-30,Wisconsin,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-076,4.06,3.99,0.07,True,1.017,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-117,4.06,3.9,0.16,True,1.042,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-074,3.85,3.59,0.26,True,1.071,0,N/A,HR software line,,,Oklahoma,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-005,3.63,3.41,0.22,True,1.065,0,N/A,HR software line,,,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-013,3.62,3.49,0.13,True,1.038,0,N/A,HR software line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-088,3.5,3.34,0.16,True,1.049,0,N/A,HR software line,8.0,0-30,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-095,3.32,3.13,0.19,True,1.059,0,N/A,HR software line,,,Hawaii,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-001,3.25,3.2,0.05,True,1.015,0,N/A,HR software line,0.0,0-30,Kentucky,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-040,3.25,3.09,0.16,True,1.051,0,N/A,HR software line,,,Connecticut,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-086,3.23,3.12,0.11,True,1.035,0,N/A,HR software line,,,Connecticut,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-089,3.2,3.11,0.09,True,1.029,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-049,3.19,2.99,0.2,True,1.066,0,N/A,HR software line,5.0,0-30,Louisiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-024,3.1,3.01,0.09,True,1.029,0,N/A,HR software line,,,Mississippi,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-083,3.09,2.86,0.23,True,1.081,0,N/A,HR software line,,,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-036,3.07,2.9,0.17,True,1.058,0,N/A,HR software line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-111,3.02,2.73,0.29,True,1.108,0,N/A,HR software line,18.0,0-30,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-084,2.71,2.68,0.03,True,1.01,0,N/A,HR software line,21.0,0-30,Wyoming,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-042,2.65,2.62,0.03,True,1.01,0,N/A,HR software line,,,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-063,2.6,2.46,0.14,True,1.056,0,N/A,HR software line,,,Indiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-054,2.59,2.56,0.03,True,1.01,0,N/A,HR software line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-039,2.57,2.41,0.16,True,1.067,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-044,2.53,2.41,0.12,True,1.05,0,N/A,HR software line,,,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-052,2.53,2.47,0.06,True,1.026,0,N/A,HR software line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-115,2.34,2.32,0.02,True,1.01,0,N/A,HR software line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-025,2.29,2.2,0.09,True,1.04,0,N/A,HR software line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-080,2.23,2.05,0.18,True,1.087,0,N/A,HR software line,4.0,0-30,Idaho,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-003,2.22,2.07,0.15,True,1.072,0,N/A,HR software line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-041,2.2,2.1,0.1,True,1.047,0,N/A,HR software line,,,Nebraska,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-108,2.18,2.09,0.09,True,1.043,0,N/A,HR software line,,,Virginia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-071,2.13,1.95,0.18,True,1.09,0,N/A,HR software line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-043,2.12,1.96,0.16,True,1.083,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-085,2.11,2.09,0.02,True,1.011,0,N/A,HR software line,,,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-082,2.0,1.98,0.02,True,1.012,0,N/A,HR software line,18.0,0-30,Wisconsin,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-106,1.91,1.87,0.04,True,1.02,0,N/A,HR software line,34.0,31-60,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-075,1.87,1.73,0.14,True,1.078,0,N/A,HR software line,,,Indiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-050,1.82,1.67,0.15,True,1.087,0,N/A,HR software line,18.0,0-30,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-007,1.79,1.62,0.17,True,1.102,0,N/A,HR software line,,,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-009,1.76,1.69,0.07,True,1.044,0,N/A,HR software line,,,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-031,1.76,1.6,0.16,True,1.098,0,N/A,HR software line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-028,1.75,1.65,0.1,True,1.061,0,N/A,HR software line,32.0,31-60,Connecticut,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-092,1.67,1.52,0.15,True,1.096,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-070,1.61,1.51,0.1,True,1.064,0,N/A,HR software line,,,Oregon,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-047,1.57,1.49,0.08,True,1.052,0,N/A,HR software line,41.0,31-60,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-020,1.55,1.42,0.13,True,1.094,0,N/A,HR software line,,,Hawaii,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-102,1.49,1.42,0.07,True,1.047,0,N/A,HR software line,6.0,0-30,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-081,1.43,1.37,0.06,True,1.041,0,N/A,HR software line,,,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-011,1.41,1.33,0.08,True,1.06,0,N/A,HR software line,40.0,31-60,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-055,1.38,1.25,0.13,True,1.106,0,N/A,HR software line,8.0,0-30,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-103,1.32,1.25,0.07,True,1.054,0,N/A,HR software line,,,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-015,1.27,1.18,0.09,True,1.072,0,N/A,HR software line,24.0,0-30,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-035,1.25,1.17,0.08,True,1.064,0,N/A,HR software line,35.0,31-60,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-116,1.25,1.19,0.06,True,1.054,0,N/A,HR software line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-123,1.2,1.16,0.04,True,1.033,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-008,1.17,1.16,0.01,True,1.01,0,N/A,HR software line,,,Oregon,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-010,1.13,1.05,0.08,True,1.077,0,N/A,HR software line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-109,1.13,1.1,0.03,True,1.024,0,N/A,HR software line,38.0,31-60,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-027,1.06,1.05,0.01,True,1.01,0,N/A,HR software line,33.0,31-60,Kentucky,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-006,1.04,0.93,0.11,True,1.113,0,N/A,HR software line,22.0,0-30,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-061,1.01,0.99,0.02,True,1.021,0,N/A,HR software line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-066,0.99,0.93,0.06,True,1.064,0,N/A,HR software line,2.0,0-30,Arizona,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-059,0.96,0.89,0.07,True,1.074,0,N/A,HR software line,7.0,0-30,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-122,0.96,0.94,0.02,True,1.026,0,N/A,HR software line,,,Nevada,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-120,0.92,0.88,0.04,True,1.04,0,N/A,HR software line,50.0,31-60,Idaho,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-090,0.9,0.87,0.03,True,1.039,0,N/A,HR software line,0.0,0-30,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-019,0.89,0.88,0.01,True,1.015,0,N/A,HR software line,,,Hawaii,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-097,0.88,0.86,0.02,True,1.027,0,N/A,HR software line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-032,0.81,0.76,0.05,True,1.061,0,N/A,HR software line,,,New Mexico,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-030,0.8,0.77,0.03,True,1.044,0,N/A,HR software line,,,Mississippi,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-094,0.8,0.78,0.02,True,1.03,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-077,0.79,0.74,0.05,True,1.069,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-037,0.74,0.68,0.06,True,1.091,0,N/A,HR software line,,,Pennsylvania,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-078,0.72,0.71,0.01,True,1.018,0,N/A,HR software line,45.0,31-60,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-114,0.72,0.66,0.06,True,1.085,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-033,0.68,0.66,0.02,True,1.031,0,N/A,HR software line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-057,0.68,0.66,0.02,True,1.035,0,N/A,HR software line,,,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-073,0.62,0.59,0.03,True,1.054,0,N/A,HR software line,34.0,31-60,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-004,0.61,0.59,0.02,True,1.029,0,N/A,HR software line,53.0,31-60,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-026,0.6,0.57,0.03,True,1.054,0,N/A,HR software line,40.0,31-60,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-110,0.59,0.55,0.04,True,1.07,0,N/A,HR software line,,,Pennsylvania,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-060,0.58,0.54,0.04,True,1.076,0,N/A,HR software line,12.0,0-30,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-079,0.58,0.55,0.03,True,1.045,0,N/A,HR software line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-002,0.54,0.52,0.02,True,1.039,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-091,0.53,0.49,0.04,True,1.078,0,N/A,HR software line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-118,0.52,0.49,0.03,True,1.071,0,N/A,HR software line,,,Colorado,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-023,0.46,0.44,0.02,True,1.053,0,N/A,HR software line,,,Missouri,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-064,0.42,0.39,0.03,True,1.084,0,N/A,HR software line,,,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-017,0.38,0.38,0.0,True,1.01,0,N/A,HR software line,17.0,0-30,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-038,0.37,0.35,0.02,True,1.056,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-067,0.36,0.33,0.03,True,1.076,0,N/A,HR software line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-053,0.33,0.33,0.0,True,1.01,0,N/A,HR software line,,,Virginia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-022,0.27,0.26,0.01,True,1.025,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-056,0.27,0.24,0.03,True,1.107,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-069,0.26,0.25,0.01,True,1.037,0,N/A,HR software line,,,Maine,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-124,0.25,0.23,0.02,True,1.082,0,N/A,HR software line,20.0,0-30,Massachusetts,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-048,0.2,0.19,0.01,True,1.041,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-121,0.16,0.16,0.0,True,1.01,0,N/A,HR software line,,,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-099,0.14,0.13,0.01,True,1.095,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-119,0.14,0.13,0.01,True,1.061,0,N/A,HR software line,23.0,0-30,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-100,0.09,0.09,0.0,True,1.036,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-087,0.08,0.08,0.0,True,1.036,0,N/A,HR software line,15.0,0-30,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-012,0.07,0.07,0.0,True,1.029,0,N/A,HR software line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-065,0.02,0.02,0.0,True,1.04,0,N/A,HR software line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-027,20.06,19.86,0.2,True,1.01,0,N/A,HR travel line,,,North Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-053,13.99,13.07,0.92,True,1.071,0,N/A,HR travel line,16.0,0-30,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-021,13.08,12.0,1.08,True,1.09,0,N/A,HR travel line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-066,10.94,10.21,0.73,True,1.071,0,N/A,HR travel line,7.0,0-30,Pennsylvania,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-061,10.67,10.2,0.47,True,1.046,0,N/A,HR travel line,,,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-064,9.86,9.3,0.56,True,1.06,0,N/A,HR travel line,,,Rhode Island,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-004,9.6,8.94,0.66,True,1.074,0,N/A,HR travel line,11.0,0-30,Oregon,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-071,8.35,8.07,0.28,True,1.035,0,N/A,HR travel line,,,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-080,7.72,7.39,0.33,True,1.045,0,N/A,HR travel line,20.0,0-30,Rhode Island,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-003,7.59,6.98,0.61,True,1.087,0,N/A,HR travel line,,,Virginia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-019,7.43,7.04,0.39,True,1.055,0,N/A,HR travel line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-022,7.1,6.54,0.56,True,1.086,0,N/A,HR travel line,,,North Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-041,7.02,6.48,0.54,True,1.083,0,N/A,HR travel line,,,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-040,6.81,6.57,0.24,True,1.037,0,N/A,HR travel line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-033,6.78,6.57,0.21,True,1.032,0,N/A,HR travel line,30.0,0-30,Oklahoma,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-032,6.34,6.04,0.3,True,1.049,0,N/A,HR travel line,28.0,0-30,Indiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-034,6.34,5.93,0.41,True,1.069,0,N/A,HR travel line,,,New Hampshire,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-059,6.33,6.27,0.06,True,1.01,0,N/A,HR travel line,35.0,31-60,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-013,6.04,5.69,0.35,True,1.062,0,N/A,HR travel line,,,Maine,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-031,5.39,5.21,0.18,True,1.035,0,N/A,HR travel line,,,North Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-035,5.29,5.04,0.25,True,1.05,0,N/A,HR travel line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-046,5.07,5.02,0.05,True,1.01,0,N/A,HR travel line,37.0,31-60,Maine,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-011,5.03,4.8,0.23,True,1.047,0,N/A,HR travel line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-062,5.02,4.97,0.05,True,1.01,0,N/A,HR travel line,34.0,31-60,Wisconsin,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-058,4.66,4.61,0.05,True,1.01,0,N/A,HR travel line,,,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-002,4.39,4.22,0.17,True,1.039,0,N/A,HR travel line,5.0,0-30,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-051,4.36,4.12,0.24,True,1.057,0,N/A,HR travel line,,,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-029,4.28,4.02,0.26,True,1.064,0,N/A,HR travel line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-048,4.09,3.88,0.21,True,1.055,0,N/A,HR travel line,,,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-081,3.99,3.88,0.11,True,1.028,0,N/A,HR travel line,,,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-042,3.89,3.85,0.04,True,1.01,0,N/A,HR travel line,17.0,0-30,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-044,3.79,3.75,0.04,True,1.011,0,N/A,HR travel line,,,South Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-082,3.66,3.41,0.25,True,1.073,0,N/A,HR travel line,,,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-069,3.64,3.55,0.09,True,1.026,0,N/A,HR travel line,25.0,0-30,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-079,3.49,3.42,0.07,True,1.021,0,N/A,HR travel line,,,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-084,3.19,3.04,0.15,True,1.049,0,N/A,HR travel line,,,Florida,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-015,3.14,3.07,0.07,True,1.023,0,N/A,HR travel line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-026,2.93,2.89,0.04,True,1.015,0,N/A,HR travel line,,,South Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-060,2.85,2.64,0.21,True,1.081,0,N/A,HR travel line,27.0,0-30,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-037,2.78,2.71,0.07,True,1.027,0,N/A,HR travel line,11.0,0-30,Texas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-008,2.68,2.5,0.18,True,1.071,0,N/A,HR travel line,13.0,0-30,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-085,2.61,2.53,0.08,True,1.033,0,N/A,HR travel line,31.0,31-60,South Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-057,2.43,2.21,0.22,True,1.1,0,N/A,HR travel line,23.0,0-30,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-054,2.33,2.26,0.07,True,1.03,0,N/A,HR travel line,0.0,0-30,Georgia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-083,2.02,1.94,0.08,True,1.039,0,N/A,HR travel line,6.0,0-30,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-018,1.85,1.74,0.11,True,1.065,0,N/A,HR travel line,,,New York,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-001,1.78,1.67,0.11,True,1.068,0,N/A,HR travel line,,,Arkansas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-049,1.7,1.61,0.09,True,1.053,0,N/A,HR travel line,,,Georgia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-039,1.59,1.51,0.08,True,1.052,0,N/A,HR travel line,19.0,0-30,Wyoming,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-068,1.53,1.4,0.13,True,1.097,0,N/A,HR travel line,2.0,0-30,Georgia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-090,1.51,1.47,0.04,True,1.028,0,N/A,HR travel line,,,Alabama,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-072,1.5,1.39,0.11,True,1.082,0,N/A,HR travel line,7.0,0-30,Kentucky,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-010,1.44,1.36,0.08,True,1.056,0,N/A,HR travel line,,,Pennsylvania,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-038,1.4,1.29,0.11,True,1.084,0,N/A,HR travel line,,,Alabama,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-065,1.38,1.32,0.06,True,1.049,0,N/A,HR travel line,,,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-078,1.25,1.18,0.07,True,1.056,0,N/A,HR travel line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-077,1.2,1.19,0.01,True,1.01,0,N/A,HR travel line,23.0,0-30,Louisiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-055,1.15,1.12,0.03,True,1.022,0,N/A,HR travel line,,,Connecticut,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-005,1.09,1.08,0.01,True,1.01,0,N/A,HR travel line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-017,1.08,1.0,0.08,True,1.082,0,N/A,HR travel line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-067,1.08,1.02,0.06,True,1.054,0,N/A,HR travel line,20.0,0-30,Arizona,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-007,1.06,1.02,0.04,True,1.034,0,N/A,HR travel line,23.0,0-30,Kansas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-028,1.06,0.99,0.07,True,1.069,0,N/A,HR travel line,,,North Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-009,0.99,0.98,0.01,True,1.01,0,N/A,HR travel line,0.0,0-30,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-045,0.97,0.92,0.05,True,1.056,0,N/A,HR travel line,,,South Carolina,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-073,0.85,0.78,0.07,True,1.097,0,N/A,HR travel line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-087,0.84,0.82,0.02,True,1.025,0,N/A,HR travel line,,,Idaho,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-043,0.83,0.78,0.05,True,1.064,0,N/A,HR travel line,32.0,31-60,New Jersey,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-088,0.8,0.74,0.06,True,1.088,0,N/A,HR travel line,27.0,0-30,Maryland,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-020,0.75,0.7,0.05,True,1.073,0,N/A,HR travel line,,,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-056,0.71,0.67,0.04,True,1.056,0,N/A,HR travel line,8.0,0-30,Alabama,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-047,0.62,0.59,0.03,True,1.045,0,N/A,HR travel line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-063,0.6,0.58,0.02,True,1.042,0,N/A,HR travel line,,,Minnesota,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-025,0.59,0.58,0.01,True,1.01,0,N/A,HR travel line,,,Utah,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-052,0.45,0.43,0.02,True,1.058,0,N/A,HR travel line,,,Rhode Island,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-036,0.31,0.3,0.01,True,1.02,0,N/A,HR travel line,27.0,0-30,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-030,0.3,0.28,0.02,True,1.061,0,N/A,HR travel line,16.0,0-30,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-050,0.3,0.3,0.0,True,1.012,0,N/A,HR travel line,26.0,0-30,Rhode Island,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-023,0.27,0.25,0.02,True,1.065,0,N/A,HR travel line,,,Idaho,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-006,0.25,0.24,0.01,True,1.06,0,N/A,HR travel line,,,California,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-089,0.24,0.23,0.01,True,1.045,0,N/A,HR travel line,,,New Mexico,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-070,0.22,0.21,0.01,True,1.067,0,N/A,HR travel line,15.0,0-30,Tennessee,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-074,0.2,0.19,0.01,True,1.073,0,N/A,HR travel line,23.0,0-30,Washington,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-091,0.2,0.19,0.01,True,1.032,0,N/A,HR travel line,,,Illinois,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-016,0.19,0.18,0.01,True,1.048,0,N/A,HR travel line,30.0,0-30,Connecticut,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-086,0.17,0.16,0.01,True,1.057,0,N/A,HR travel line,,,Indiana,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-076,0.1,0.09,0.01,True,1.056,0,N/A,HR travel line,,,Michigan,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-075,0.08,0.08,0.0,True,1.065,0,N/A,HR travel line,,,Kansas,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-014,0.07,0.07,0.0,True,1.067,0,N/A,HR travel line,,,Ohio,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-012,0.06,0.05,0.01,True,1.097,0,N/A,HR travel line,47.0,31-60,Virginia,3000.0,-1660750.1428472167
-2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-024,0.03,0.03,0.0,True,1.01,0,N/A,HR travel line,11.0,0-30,Delaware,3000.0,-1660750.1428472167
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-029,17.03,16.75,0.28,True,1.017,0,N/A,HR other line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-020,16.66,16.2,0.46,True,1.029,0,N/A,HR other line,,,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-006,16.29,15.5,0.79,True,1.051,0,N/A,HR other line,21.0,0-30,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-039,15.52,14.79,0.73,True,1.049,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-036,15.51,15.36,0.15,True,1.01,0,N/A,HR other line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-055,12.74,11.98,0.76,True,1.064,0,N/A,HR other line,21.0,0-30,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-085,12.36,11.7,0.66,True,1.057,0,N/A,HR other line,31.0,31-60,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-022,11.74,11.55,0.19,True,1.016,0,N/A,HR other line,1.0,0-30,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-071,11.1,10.58,0.52,True,1.049,0,N/A,HR other line,35.0,31-60,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-038,10.94,10.42,0.52,True,1.05,0,N/A,HR other line,24.0,0-30,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-046,10.91,10.27,0.64,True,1.062,0,N/A,HR other line,15.0,0-30,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-105,10.54,9.97,0.57,True,1.057,0,N/A,HR other line,,,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-065,10.37,10.01,0.36,True,1.036,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-047,9.14,8.71,0.43,True,1.049,0,N/A,HR other line,15.0,0-30,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-044,8.55,8.16,0.39,True,1.047,0,N/A,HR other line,37.0,31-60,Wyoming,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-067,8.46,7.83,0.63,True,1.08,0,N/A,HR other line,11.0,0-30,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-095,8.37,7.54,0.83,True,1.11,0,N/A,HR other line,11.0,0-30,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-019,7.5,7.1,0.4,True,1.056,0,N/A,HR other line,,,New Mexico,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-027,6.77,6.38,0.39,True,1.062,0,N/A,HR other line,,,Colorado,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-049,6.74,6.67,0.07,True,1.01,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-084,6.59,6.42,0.17,True,1.027,0,N/A,HR other line,15.0,0-30,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-054,6.49,6.18,0.31,True,1.05,0,N/A,HR other line,,,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-098,6.47,6.21,0.26,True,1.042,0,N/A,HR other line,19.0,0-30,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-012,6.16,5.8,0.36,True,1.062,0,N/A,HR other line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-040,6.16,6.07,0.09,True,1.015,0,N/A,HR other line,,,Arizona,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-016,6.01,5.78,0.23,True,1.039,0,N/A,HR other line,,,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-100,5.87,5.57,0.3,True,1.054,0,N/A,HR other line,,,North Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-066,5.8,5.63,0.17,True,1.03,0,N/A,HR other line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-069,5.66,5.44,0.22,True,1.04,0,N/A,HR other line,17.0,0-30,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-014,5.57,5.18,0.39,True,1.075,0,N/A,HR other line,,,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-076,5.49,5.38,0.11,True,1.021,0,N/A,HR other line,1.0,0-30,Colorado,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-081,5.49,5.07,0.42,True,1.082,0,N/A,HR other line,29.0,0-30,Alabama,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-031,5.32,5.26,0.06,True,1.011,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-106,5.32,5.09,0.23,True,1.044,0,N/A,HR other line,0.0,0-30,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-102,4.76,4.53,0.23,True,1.05,0,N/A,HR other line,31.0,31-60,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-107,4.7,4.53,0.17,True,1.038,0,N/A,HR other line,20.0,0-30,Georgia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-101,4.52,4.19,0.33,True,1.08,0,N/A,HR other line,38.0,31-60,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-109,4.47,4.04,0.43,True,1.106,0,N/A,HR other line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-060,4.32,4.04,0.28,True,1.068,0,N/A,HR other line,,,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-045,4.16,3.99,0.17,True,1.043,0,N/A,HR other line,41.0,31-60,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-052,4.04,3.87,0.17,True,1.045,0,N/A,HR other line,12.0,0-30,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-077,4.01,3.76,0.25,True,1.067,0,N/A,HR other line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-003,3.99,3.89,0.1,True,1.025,0,N/A,HR other line,,,North Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-062,3.99,3.8,0.19,True,1.049,0,N/A,HR other line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-037,3.96,3.61,0.35,True,1.097,0,N/A,HR other line,,,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-082,3.95,3.78,0.17,True,1.044,0,N/A,HR other line,,,Rhode Island,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-063,3.87,3.76,0.11,True,1.03,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-018,3.84,3.54,0.3,True,1.084,0,N/A,HR other line,26.0,0-30,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-073,3.72,3.64,0.08,True,1.023,0,N/A,HR other line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-032,3.41,3.19,0.22,True,1.069,0,N/A,HR other line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-024,3.35,3.09,0.26,True,1.083,0,N/A,HR other line,5.0,0-30,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-057,3.35,3.32,0.03,True,1.01,0,N/A,HR other line,36.0,31-60,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-104,3.31,3.25,0.06,True,1.019,0,N/A,HR other line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-011,3.29,3.26,0.03,True,1.01,0,N/A,HR other line,,,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-026,3.15,2.94,0.21,True,1.07,0,N/A,HR other line,,,New Mexico,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-007,3.04,2.92,0.12,True,1.041,0,N/A,HR other line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-013,3.03,2.88,0.15,True,1.051,0,N/A,HR other line,11.0,0-30,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-030,3.01,2.92,0.09,True,1.03,0,N/A,HR other line,,,Wyoming,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-033,2.98,2.86,0.12,True,1.041,0,N/A,HR other line,,,Kansas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-015,2.7,2.61,0.09,True,1.033,0,N/A,HR other line,37.0,31-60,Maine,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-075,2.69,2.44,0.25,True,1.104,0,N/A,HR other line,22.0,0-30,South Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-017,2.65,2.6,0.05,True,1.02,0,N/A,HR other line,,,Kansas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-087,2.58,2.46,0.12,True,1.047,0,N/A,HR other line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-042,2.43,2.28,0.15,True,1.064,0,N/A,HR other line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-025,2.38,2.36,0.02,True,1.01,0,N/A,HR other line,,,Rhode Island,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-080,2.32,2.21,0.11,True,1.048,0,N/A,HR other line,,,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-072,2.31,2.19,0.12,True,1.057,0,N/A,HR other line,33.0,31-60,Wyoming,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-088,2.31,2.1,0.21,True,1.098,0,N/A,HR other line,15.0,0-30,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-004,2.24,2.15,0.09,True,1.04,0,N/A,HR other line,,,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-053,2.23,2.13,0.1,True,1.046,0,N/A,HR other line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-056,2.19,2.02,0.17,True,1.085,0,N/A,HR other line,5.0,0-30,Indiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-108,2.17,2.02,0.15,True,1.075,0,N/A,HR other line,,,Montana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-021,2.16,2.14,0.02,True,1.01,0,N/A,HR other line,10.0,0-30,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-099,2.16,2.0,0.16,True,1.08,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-034,2.1,1.98,0.12,True,1.059,0,N/A,HR other line,,,Nevada,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-009,1.99,1.89,0.1,True,1.054,0,N/A,HR other line,2.0,0-30,Colorado,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-028,1.88,1.76,0.12,True,1.068,0,N/A,HR other line,16.0,0-30,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-041,1.74,1.65,0.09,True,1.057,0,N/A,HR other line,20.0,0-30,New Mexico,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-070,1.71,1.59,0.12,True,1.077,0,N/A,HR other line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-090,1.69,1.52,0.17,True,1.109,0,N/A,HR other line,17.0,0-30,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-086,1.64,1.54,0.1,True,1.062,0,N/A,HR other line,,,Wisconsin,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-002,1.57,1.54,0.03,True,1.019,0,N/A,HR other line,73.0,61-90,Wisconsin,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-096,1.45,1.41,0.04,True,1.028,0,N/A,HR other line,,,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-089,1.42,1.36,0.06,True,1.045,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-091,1.42,1.29,0.13,True,1.097,0,N/A,HR other line,14.0,0-30,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-103,1.4,1.32,0.08,True,1.064,0,N/A,HR other line,9.0,0-30,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-074,1.31,1.22,0.09,True,1.072,0,N/A,HR other line,30.0,0-30,Missouri,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-094,1.18,1.16,0.02,True,1.014,0,N/A,HR other line,23.0,0-30,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-008,1.11,1.04,0.07,True,1.072,0,N/A,HR other line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-097,0.97,0.94,0.03,True,1.029,0,N/A,HR other line,,,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-059,0.91,0.88,0.03,True,1.038,0,N/A,HR other line,0.0,0-30,Pennsylvania,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-083,0.84,0.79,0.05,True,1.057,0,N/A,HR other line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-092,0.8,0.78,0.02,True,1.03,0,N/A,HR other line,,,Idaho,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-001,0.59,0.58,0.01,True,1.019,0,N/A,HR other line,,,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-050,0.59,0.58,0.01,True,1.025,0,N/A,HR other line,,,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,WeWork,E-202506-OT-068,0.57,0.56,0.01,True,1.021,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-023,0.41,0.39,0.02,True,1.047,0,N/A,HR other line,,,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-043,0.38,0.34,0.04,True,1.116,0,N/A,HR other line,38.0,31-60,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-064,0.38,0.38,0.0,True,1.013,0,N/A,HR other line,40.0,31-60,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-051,0.26,0.25,0.01,True,1.032,0,N/A,HR other line,29.0,0-30,Indiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-005,0.23,0.22,0.01,True,1.063,0,N/A,HR other line,,,Alaska,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,UPS,E-202506-OT-093,0.23,0.23,0.0,True,1.011,0,N/A,HR other line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-048,0.15,0.14,0.01,True,1.056,0,N/A,HR other line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-079,0.14,0.13,0.01,True,1.037,0,N/A,HR other line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-010,0.12,0.11,0.01,True,1.102,0,N/A,HR other line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,OfficeDepot,E-202506-OT-035,0.09,0.08,0.01,True,1.06,0,N/A,HR other line,4.0,0-30,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,Staples,E-202506-OT-061,0.05,0.05,0.0,True,1.067,0,N/A,HR other line,4.0,0-30,Missouri,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,FedEx,E-202506-OT-078,0.05,0.05,0.0,True,1.029,0,N/A,HR other line,31.0,31-60,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,other,Other,LegalCo,E-202506-OT-058,0.01,0.01,0.0,True,1.076,0,N/A,HR other line,36.0,31-60,Alabama,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-058,169.78,159.93,9.85,True,1.062,0,Recruiter,HR payroll line,23.0,0-30,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-049,146.71,138.04,8.67,True,1.063,0,HRBP,HR payroll line,19.0,0-30,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-002,100.19,98.28,1.91,True,1.019,0,HRBP,HR payroll line,0.0,0-30,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-059,69.32,67.62,1.7,True,1.025,0,HRBP,HR payroll line,0.0,0-30,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-017,61.02,58.48,2.54,True,1.043,0,People Ops,HR payroll line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-007,57.6,55.92,1.68,True,1.03,0,HRBP,HR payroll line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-057,55.01,51.6,3.41,True,1.066,0,HRBP,HR payroll line,,,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-060,53.33,49.28,4.05,True,1.082,0,HRBP,HR payroll line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-066,48.66,46.99,1.67,True,1.035,0,HRBP,HR payroll line,,,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-056,47.61,44.54,3.07,True,1.069,0,People Ops,HR payroll line,28.0,0-30,Connecticut,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-036,46.8,41.68,5.12,True,1.123,0,Recruiter,HR payroll line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-001,44.87,44.21,0.66,True,1.015,0,HRBP,HR payroll line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-048,44.75,41.84,2.91,True,1.069,0,HRBP,HR payroll line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-035,43.22,40.61,2.61,True,1.064,0,HRBP,HR payroll line,1.0,0-30,North Dakota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-009,43.18,40.8,2.38,True,1.058,0,HRBP,HR payroll line,,,Kansas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-040,42.06,41.64,0.42,True,1.01,0,People Ops,HR payroll line,,,Wisconsin,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-018,41.74,39.57,2.17,True,1.055,0,Recruiter,HR payroll line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-039,40.17,37.4,2.77,True,1.074,0,HRBP,HR payroll line,25.0,0-30,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-015,39.87,37.3,2.57,True,1.069,0,HRBP,HR payroll line,35.0,31-60,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-026,39.87,38.53,1.34,True,1.035,0,People Ops,HR payroll line,,,Alabama,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-041,38.97,36.62,2.35,True,1.064,0,HRBP,HR payroll line,,,Missouri,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-055,38.37,35.93,2.44,True,1.068,0,HRBP,HR payroll line,,,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-006,38.3,37.51,0.79,True,1.021,0,HRBP,HR payroll line,31.0,31-60,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-004,36.46,31.98,4.48,True,1.14,0,HRBP,HR payroll line,29.0,0-30,Arizona,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-037,35.1,32.6,2.5,True,1.077,0,Recruiter,HR payroll line,25.0,0-30,Wyoming,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-061,34.78,32.72,2.06,True,1.063,0,HRBP,HR payroll line,21.0,0-30,Kentucky,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-064,32.16,29.73,2.43,True,1.082,0,People Ops,HR payroll line,27.0,0-30,Colorado,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-013,30.08,28.6,1.48,True,1.052,0,HRBP,HR payroll line,0.0,0-30,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-033,29.35,28.59,0.76,True,1.026,0,HRBP,HR payroll line,22.0,0-30,North Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-024,23.2,22.16,1.04,True,1.047,0,Recruiter,HR payroll line,,,South Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-019,22.83,21.34,1.49,True,1.07,0,Recruiter,HR payroll line,43.0,31-60,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-027,22.49,21.87,0.62,True,1.029,0,Recruiter,HR payroll line,,,South Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-030,20.82,19.29,1.53,True,1.079,0,HRBP,HR payroll line,,,Nevada,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-065,19.57,18.93,0.64,True,1.034,0,Recruiter,HR payroll line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-050,18.93,17.5,1.43,True,1.081,0,Recruiter,HR payroll line,,,Kentucky,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-062,18.76,18.13,0.63,True,1.035,0,Recruiter,HR payroll line,,,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-029,15.99,15.04,0.95,True,1.063,0,People Ops,HR payroll line,,,Vermont,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-021,15.92,15.76,0.16,True,1.01,0,HRBP,HR payroll line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-020,14.5,13.39,1.11,True,1.083,0,People Ops,HR payroll line,10.0,0-30,Indiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-014,13.77,13.63,0.14,True,1.01,0,HRBP,HR payroll line,,,North Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-052,13.64,13.03,0.61,True,1.047,0,People Ops,HR payroll line,,,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-008,13.26,12.69,0.57,True,1.045,0,People Ops,HR payroll line,,,Delaware,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-053,12.42,12.3,0.12,True,1.01,0,Recruiter,HR payroll line,33.0,31-60,Arizona,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-025,12.1,11.22,0.88,True,1.079,0,Recruiter,HR payroll line,31.0,31-60,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-045,12.09,11.31,0.78,True,1.069,0,HRBP,HR payroll line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-032,11.65,11.32,0.33,True,1.029,0,People Ops,HR payroll line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-031,11.47,11.35,0.12,True,1.01,0,Recruiter,HR payroll line,,,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-043,10.59,9.85,0.74,True,1.075,0,Recruiter,HR payroll line,40.0,31-60,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-034,10.47,9.74,0.73,True,1.075,0,People Ops,HR payroll line,,,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-012,10.36,9.62,0.74,True,1.077,0,HRBP,HR payroll line,17.0,0-30,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-042,9.63,8.86,0.77,True,1.087,0,People Ops,HR payroll line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-051,9.16,8.51,0.65,True,1.077,0,HRBP,HR payroll line,,,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-016,7.79,7.43,0.36,True,1.048,0,HRBP,HR payroll line,9.0,0-30,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-028,7.69,7.19,0.5,True,1.07,0,HRBP,HR payroll line,,,Rhode Island,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-023,5.98,5.71,0.27,True,1.047,0,People Ops,HR payroll line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-047,5.76,5.7,0.06,True,1.01,0,Recruiter,HR payroll line,,,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-044,5.23,5.13,0.1,True,1.019,0,Recruiter,HR payroll line,,,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-010,5.15,4.73,0.42,True,1.089,0,Recruiter,HR payroll line,,,Georgia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-054,4.71,4.66,0.05,True,1.01,0,Recruiter,HR payroll line,22.0,0-30,New Mexico,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-011,3.18,3.04,0.14,True,1.046,0,Recruiter,HR payroll line,,,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-022,2.61,2.44,0.17,True,1.07,0,HRBP,HR payroll line,16.0,0-30,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-003,2.57,2.54,0.03,True,1.01,0,People Ops,HR payroll line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-038,2.44,2.31,0.13,True,1.055,0,People Ops,HR payroll line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-005,2.41,2.39,0.02,True,1.01,0,HRBP,HR payroll line,,,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Workday,E-202506-PA-063,1.56,1.4,0.16,True,1.112,0,HRBP,HR payroll line,,,Idaho,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-046,0.7,0.65,0.05,True,1.069,0,Recruiter,HR payroll line,8.0,0-30,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-098,10.08,9.9,0.18,True,1.018,0,N/A,HR software line,,,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-058,8.0,7.6,0.4,True,1.053,0,N/A,HR software line,23.0,0-30,Idaho,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-016,7.79,7.35,0.44,True,1.06,0,N/A,HR software line,,,Missouri,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-125,6.99,6.74,0.25,True,1.037,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-096,6.97,6.8,0.17,True,1.026,0,N/A,HR software line,,,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-018,6.93,6.41,0.52,True,1.081,0,N/A,HR software line,10.0,0-30,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-072,6.44,6.25,0.19,True,1.03,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-113,6.07,5.63,0.44,True,1.077,0,N/A,HR software line,,,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-046,5.87,5.69,0.18,True,1.032,0,N/A,HR software line,,,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-014,5.65,5.33,0.32,True,1.059,0,N/A,HR software line,,,Pennsylvania,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-105,5.53,5.45,0.08,True,1.015,0,N/A,HR software line,29.0,0-30,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-045,5.51,5.24,0.27,True,1.051,0,N/A,HR software line,,,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-051,5.4,5.29,0.11,True,1.02,0,N/A,HR software line,14.0,0-30,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-021,5.28,5.04,0.24,True,1.047,0,N/A,HR software line,,,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-107,4.98,4.8,0.18,True,1.037,0,N/A,HR software line,10.0,0-30,Georgia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-068,4.83,4.7,0.13,True,1.027,0,N/A,HR software line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-034,4.78,4.55,0.23,True,1.05,0,N/A,HR software line,,,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-112,4.62,4.38,0.24,True,1.054,0,N/A,HR software line,46.0,31-60,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-062,4.49,4.09,0.4,True,1.098,0,N/A,HR software line,,,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-104,4.38,4.22,0.16,True,1.038,0,N/A,HR software line,,,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-101,4.23,4.19,0.04,True,1.01,0,N/A,HR software line,30.0,0-30,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-093,4.2,4.0,0.2,True,1.05,0,N/A,HR software line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-029,4.04,4.0,0.04,True,1.01,0,N/A,HR software line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-076,4.02,3.78,0.24,True,1.065,0,N/A,HR software line,24.0,0-30,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-117,4.02,3.88,0.14,True,1.036,0,N/A,HR software line,15.0,0-30,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-074,3.81,3.47,0.34,True,1.097,0,N/A,HR software line,,,Kentucky,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-005,3.59,3.4,0.19,True,1.057,0,N/A,HR software line,15.0,0-30,Colorado,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-013,3.58,3.46,0.12,True,1.035,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-088,3.46,3.41,0.05,True,1.015,0,N/A,HR software line,21.0,0-30,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-095,3.29,3.13,0.16,True,1.05,0,N/A,HR software line,,,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-001,3.22,3.0,0.22,True,1.075,0,N/A,HR software line,,,Indiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-040,3.22,2.9,0.32,True,1.11,0,N/A,HR software line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-086,3.2,3.04,0.16,True,1.052,0,N/A,HR software line,,,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-089,3.16,2.99,0.17,True,1.058,0,N/A,HR software line,,,Indiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-049,3.15,2.96,0.19,True,1.066,0,N/A,HR software line,29.0,0-30,Oklahoma,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-024,3.06,2.77,0.29,True,1.104,0,N/A,HR software line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-083,3.05,2.97,0.08,True,1.026,0,N/A,HR software line,,,New Hampshire,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-036,3.04,2.99,0.05,True,1.017,0,N/A,HR software line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-111,2.98,2.88,0.1,True,1.036,0,N/A,HR software line,,,Louisiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-084,2.68,2.48,0.2,True,1.081,0,N/A,HR software line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-042,2.62,2.58,0.04,True,1.014,0,N/A,HR software line,6.0,0-30,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-054,2.57,2.35,0.22,True,1.092,0,N/A,HR software line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-063,2.57,2.48,0.09,True,1.038,0,N/A,HR software line,,,Arizona,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-039,2.54,2.34,0.2,True,1.086,0,N/A,HR software line,53.0,31-60,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-044,2.5,2.36,0.14,True,1.06,0,N/A,HR software line,,,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-052,2.5,2.47,0.03,True,1.013,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-115,2.31,2.18,0.13,True,1.059,0,N/A,HR software line,,,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-025,2.26,2.15,0.11,True,1.053,0,N/A,HR software line,30.0,0-30,Iowa,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-080,2.21,2.02,0.19,True,1.094,0,N/A,HR software line,0.0,0-30,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-003,2.2,2.09,0.11,True,1.053,0,N/A,HR software line,18.0,0-30,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-041,2.17,2.09,0.08,True,1.037,0,N/A,HR software line,19.0,0-30,Nevada,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-108,2.15,1.99,0.16,True,1.08,0,N/A,HR software line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-071,2.11,2.09,0.02,True,1.01,0,N/A,HR software line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-043,2.09,1.97,0.12,True,1.062,0,N/A,HR software line,46.0,31-60,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-085,2.08,2.04,0.04,True,1.018,0,N/A,HR software line,,,New Hampshire,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-082,1.98,1.89,0.09,True,1.049,0,N/A,HR software line,34.0,31-60,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-106,1.89,1.82,0.07,True,1.04,0,N/A,HR software line,10.0,0-30,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-075,1.85,1.7,0.15,True,1.091,0,N/A,HR software line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-050,1.8,1.73,0.07,True,1.041,0,N/A,HR software line,,,Nevada,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-007,1.77,1.66,0.11,True,1.068,0,N/A,HR software line,,,Arizona,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-031,1.75,1.62,0.13,True,1.081,0,N/A,HR software line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-009,1.74,1.64,0.1,True,1.059,0,N/A,HR software line,,,Georgia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-028,1.73,1.6,0.13,True,1.078,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-092,1.65,1.61,0.04,True,1.026,0,N/A,HR software line,,,Pennsylvania,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-070,1.6,1.55,0.05,True,1.036,0,N/A,HR software line,,,Kansas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-047,1.56,1.54,0.02,True,1.01,0,N/A,HR software line,,,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-020,1.53,1.4,0.13,True,1.09,0,N/A,HR software line,,,Idaho,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-102,1.47,1.46,0.01,True,1.01,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-081,1.41,1.33,0.08,True,1.058,0,N/A,HR software line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-011,1.39,1.34,0.05,True,1.036,0,N/A,HR software line,,,Rhode Island,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-055,1.36,1.33,0.03,True,1.021,0,N/A,HR software line,,,North Dakota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-103,1.31,1.3,0.01,True,1.01,0,N/A,HR software line,,,Arizona,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-015,1.26,1.2,0.06,True,1.048,0,N/A,HR software line,22.0,0-30,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-035,1.24,1.23,0.01,True,1.01,0,N/A,HR software line,21.0,0-30,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-116,1.23,1.2,0.03,True,1.028,0,N/A,HR software line,,,Colorado,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-123,1.19,1.14,0.05,True,1.046,0,N/A,HR software line,,,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-008,1.16,1.15,0.01,True,1.01,0,N/A,HR software line,0.0,0-30,Oklahoma,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-010,1.12,1.05,0.07,True,1.064,0,N/A,HR software line,,,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-109,1.12,1.03,0.09,True,1.085,0,N/A,HR software line,22.0,0-30,Nevada,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-027,1.04,0.99,0.05,True,1.05,0,N/A,HR software line,,,Pennsylvania,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-006,1.03,1.02,0.01,True,1.01,0,N/A,HR software line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-061,1.0,0.9,0.1,True,1.107,0,N/A,HR software line,14.0,0-30,Iowa,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-066,0.98,0.92,0.06,True,1.065,0,N/A,HR software line,38.0,31-60,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-122,0.95,0.93,0.02,True,1.02,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-059,0.94,0.91,0.03,True,1.037,0,N/A,HR software line,23.0,0-30,Pennsylvania,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-120,0.91,0.84,0.07,True,1.085,0,N/A,HR software line,27.0,0-30,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-090,0.89,0.84,0.05,True,1.059,0,N/A,HR software line,27.0,0-30,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-019,0.88,0.82,0.06,True,1.073,0,N/A,HR software line,29.0,0-30,Maine,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-097,0.87,0.82,0.05,True,1.065,0,N/A,HR software line,,,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-032,0.8,0.75,0.05,True,1.07,0,N/A,HR software line,26.0,0-30,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-030,0.79,0.75,0.04,True,1.054,0,N/A,HR software line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-094,0.79,0.77,0.02,True,1.029,0,N/A,HR software line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-077,0.78,0.74,0.04,True,1.049,0,N/A,HR software line,22.0,0-30,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-037,0.73,0.72,0.01,True,1.019,0,N/A,HR software line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-078,0.71,0.67,0.04,True,1.057,0,N/A,HR software line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-114,0.71,0.69,0.02,True,1.024,0,N/A,HR software line,17.0,0-30,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-033,0.68,0.66,0.02,True,1.027,0,N/A,HR software line,18.0,0-30,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-057,0.67,0.63,0.04,True,1.064,0,N/A,HR software line,20.0,0-30,Oklahoma,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-073,0.62,0.61,0.01,True,1.02,0,N/A,HR software line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-004,0.6,0.57,0.03,True,1.049,0,N/A,HR software line,,,West Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-026,0.59,0.55,0.04,True,1.064,0,N/A,HR software line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-110,0.59,0.55,0.04,True,1.081,0,N/A,HR software line,,,Indiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-060,0.57,0.53,0.04,True,1.081,0,N/A,HR software line,,,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-079,0.57,0.55,0.02,True,1.04,0,N/A,HR software line,26.0,0-30,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-002,0.54,0.51,0.03,True,1.062,0,N/A,HR software line,,,Nevada,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-091,0.52,0.49,0.03,True,1.061,0,N/A,HR software line,,,Nevada,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-118,0.52,0.48,0.04,True,1.086,0,N/A,HR software line,35.0,31-60,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Datadog,E-202506-SO-023,0.46,0.45,0.01,True,1.023,0,N/A,HR software line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-064,0.42,0.39,0.03,True,1.08,0,N/A,HR software line,,,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-017,0.38,0.35,0.03,True,1.088,0,N/A,HR software line,,,New Hampshire,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-038,0.37,0.34,0.03,True,1.075,0,N/A,HR software line,,,Alabama,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-067,0.36,0.33,0.03,True,1.088,0,N/A,HR software line,17.0,0-30,Alabama,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GCP,E-202506-SO-053,0.33,0.3,0.03,True,1.09,0,N/A,HR software line,41.0,31-60,Kansas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-022,0.27,0.27,0.0,True,1.01,0,N/A,HR software line,14.0,0-30,Massachusetts,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-056,0.26,0.26,0.0,True,1.01,0,N/A,HR software line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-069,0.26,0.25,0.01,True,1.02,0,N/A,HR software line,,,Louisiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,GitHub,E-202506-SO-124,0.25,0.24,0.01,True,1.051,0,N/A,HR software line,,,Pennsylvania,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-048,0.2,0.19,0.01,True,1.057,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Figma,E-202506-SO-121,0.16,0.15,0.01,True,1.06,0,N/A,HR software line,,,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Azure,E-202506-SO-099,0.14,0.14,0.0,True,1.01,0,N/A,HR software line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-119,0.14,0.13,0.01,True,1.057,0,N/A,HR software line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Salesforce,E-202506-SO-087,0.08,0.08,0.0,True,1.032,0,N/A,HR software line,,,Colorado,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,AWS,E-202506-SO-100,0.08,0.08,0.0,True,1.033,0,N/A,HR software line,37.0,31-60,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Atlassian,E-202506-SO-012,0.07,0.07,0.0,True,1.011,0,N/A,HR software line,62.0,61-90,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,software,Software,Snowflake,E-202506-SO-065,0.02,0.02,0.0,True,1.058,0,N/A,HR software line,32.0,31-60,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-027,20.2,19.0,1.2,True,1.063,0,N/A,HR travel line,,,North Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-053,14.1,12.94,1.16,True,1.09,0,N/A,HR travel line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-021,13.18,12.53,0.65,True,1.051,0,N/A,HR travel line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-066,11.02,10.55,0.47,True,1.045,0,N/A,HR travel line,,,Pennsylvania,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-061,10.75,10.13,0.62,True,1.061,0,N/A,HR travel line,21.0,0-30,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-064,9.93,9.53,0.4,True,1.042,0,N/A,HR travel line,,,Rhode Island,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-004,9.67,9.17,0.5,True,1.055,0,N/A,HR travel line,,,Oregon,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-071,8.41,8.33,0.08,True,1.01,0,N/A,HR travel line,,,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-080,7.77,7.45,0.32,True,1.042,0,N/A,HR travel line,,,Rhode Island,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-003,7.64,6.93,0.71,True,1.102,0,N/A,HR travel line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-019,7.49,7.04,0.45,True,1.064,0,N/A,HR travel line,32.0,31-60,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-022,7.15,6.69,0.46,True,1.068,0,N/A,HR travel line,,,North Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-041,7.07,6.89,0.18,True,1.026,0,N/A,HR travel line,,,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-040,6.86,6.23,0.63,True,1.102,0,N/A,HR travel line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-033,6.83,6.76,0.07,True,1.01,0,N/A,HR travel line,32.0,31-60,Oklahoma,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-034,6.39,6.21,0.18,True,1.029,0,N/A,HR travel line,,,New Hampshire,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-032,6.38,5.96,0.42,True,1.071,0,N/A,HR travel line,,,Indiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-059,6.38,6.29,0.09,True,1.015,0,N/A,HR travel line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-013,6.09,5.87,0.22,True,1.038,0,N/A,HR travel line,,,Maine,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-031,5.43,4.92,0.51,True,1.104,0,N/A,HR travel line,14.0,0-30,North Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-035,5.33,5.15,0.18,True,1.035,0,N/A,HR travel line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-046,5.11,4.82,0.29,True,1.06,0,N/A,HR travel line,,,Maine,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-011,5.06,4.69,0.37,True,1.08,0,N/A,HR travel line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-062,5.05,4.73,0.32,True,1.067,0,N/A,HR travel line,6.0,0-30,Wisconsin,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-058,4.69,4.64,0.05,True,1.01,0,N/A,HR travel line,,,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-002,4.43,4.32,0.11,True,1.026,0,N/A,HR travel line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-051,4.39,4.14,0.25,True,1.061,0,N/A,HR travel line,8.0,0-30,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-029,4.31,4.07,0.24,True,1.06,0,N/A,HR travel line,28.0,0-30,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-048,4.12,3.96,0.16,True,1.041,0,N/A,HR travel line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-081,4.01,3.9,0.11,True,1.028,0,N/A,HR travel line,,,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-042,3.91,3.74,0.17,True,1.046,0,N/A,HR travel line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-044,3.82,3.74,0.08,True,1.023,0,N/A,HR travel line,,,South Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-082,3.69,3.5,0.19,True,1.055,0,N/A,HR travel line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-069,3.67,3.48,0.19,True,1.055,0,N/A,HR travel line,6.0,0-30,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-079,3.51,3.48,0.03,True,1.01,0,N/A,HR travel line,,,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-084,3.21,3.0,0.21,True,1.069,0,N/A,HR travel line,19.0,0-30,Florida,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-015,3.16,3.02,0.14,True,1.047,0,N/A,HR travel line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-026,2.95,2.71,0.24,True,1.089,0,N/A,HR travel line,,,South Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-060,2.87,2.58,0.29,True,1.114,0,N/A,HR travel line,,,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-037,2.8,2.68,0.12,True,1.044,0,N/A,HR travel line,,,Texas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-008,2.7,2.59,0.11,True,1.042,0,N/A,HR travel line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-085,2.63,2.59,0.04,True,1.014,0,N/A,HR travel line,,,South Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-057,2.45,2.36,0.09,True,1.039,0,N/A,HR travel line,13.0,0-30,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-054,2.35,2.12,0.23,True,1.109,0,N/A,HR travel line,,,Georgia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-083,2.03,1.88,0.15,True,1.08,0,N/A,HR travel line,,,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-018,1.86,1.79,0.07,True,1.039,0,N/A,HR travel line,,,New York,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-001,1.79,1.74,0.05,True,1.028,0,N/A,HR travel line,35.0,31-60,Arkansas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-049,1.71,1.66,0.05,True,1.029,0,N/A,HR travel line,,,Georgia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-039,1.6,1.57,0.03,True,1.018,0,N/A,HR travel line,7.0,0-30,Wyoming,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-068,1.54,1.43,0.11,True,1.077,0,N/A,HR travel line,15.0,0-30,Georgia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-090,1.52,1.5,0.02,True,1.01,0,N/A,HR travel line,,,Alabama,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-072,1.51,1.44,0.07,True,1.049,0,N/A,HR travel line,37.0,31-60,Kentucky,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-010,1.45,1.38,0.07,True,1.053,0,N/A,HR travel line,,,Pennsylvania,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-038,1.41,1.37,0.04,True,1.031,0,N/A,HR travel line,38.0,31-60,Alabama,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-065,1.39,1.38,0.01,True,1.01,0,N/A,HR travel line,,,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-078,1.26,1.23,0.03,True,1.025,0,N/A,HR travel line,,,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-077,1.21,1.15,0.06,True,1.052,0,N/A,HR travel line,11.0,0-30,Louisiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-055,1.16,1.1,0.06,True,1.054,0,N/A,HR travel line,,,Connecticut,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-005,1.09,1.0,0.09,True,1.086,0,N/A,HR travel line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-017,1.09,1.02,0.07,True,1.069,0,N/A,HR travel line,,,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-067,1.09,1.05,0.04,True,1.035,0,N/A,HR travel line,8.0,0-30,Arizona,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-007,1.07,1.02,0.05,True,1.048,0,N/A,HR travel line,,,Kansas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-028,1.07,0.97,0.1,True,1.099,0,N/A,HR travel line,,,North Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-009,1.0,0.98,0.02,True,1.021,0,N/A,HR travel line,,,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Hilton,E-202506-TR-045,0.97,0.91,0.06,True,1.062,0,N/A,HR travel line,25.0,0-30,South Carolina,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-073,0.86,0.83,0.03,True,1.04,0,N/A,HR travel line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-087,0.85,0.81,0.04,True,1.049,0,N/A,HR travel line,,,Idaho,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-043,0.83,0.82,0.01,True,1.013,0,N/A,HR travel line,,,New Jersey,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-088,0.81,0.8,0.01,True,1.01,0,N/A,HR travel line,,,Maryland,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-020,0.76,0.72,0.04,True,1.048,0,N/A,HR travel line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-056,0.71,0.67,0.04,True,1.065,0,N/A,HR travel line,33.0,31-60,Alabama,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-047,0.62,0.59,0.03,True,1.05,0,N/A,HR travel line,,,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-063,0.61,0.57,0.04,True,1.063,0,N/A,HR travel line,,,Minnesota,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-025,0.59,0.56,0.03,True,1.048,0,N/A,HR travel line,35.0,31-60,Utah,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-052,0.45,0.41,0.04,True,1.101,0,N/A,HR travel line,17.0,0-30,Rhode Island,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-036,0.32,0.32,0.0,True,1.01,0,N/A,HR travel line,44.0,31-60,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-030,0.3,0.3,0.0,True,1.01,0,N/A,HR travel line,,,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-050,0.3,0.28,0.02,True,1.073,0,N/A,HR travel line,,,Rhode Island,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Uber,E-202506-TR-023,0.27,0.26,0.01,True,1.032,0,N/A,HR travel line,,,Idaho,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-006,0.25,0.24,0.01,True,1.039,0,N/A,HR travel line,15.0,0-30,California,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Delta,E-202506-TR-089,0.24,0.23,0.01,True,1.044,0,N/A,HR travel line,33.0,31-60,New Mexico,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-070,0.22,0.21,0.01,True,1.043,0,N/A,HR travel line,,,Tennessee,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,United,E-202506-TR-074,0.2,0.19,0.01,True,1.03,0,N/A,HR travel line,,,Washington,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-091,0.2,0.19,0.01,True,1.036,0,N/A,HR travel line,27.0,0-30,Illinois,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-016,0.19,0.19,0.0,True,1.016,0,N/A,HR travel line,,,Connecticut,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-086,0.17,0.16,0.01,True,1.063,0,N/A,HR travel line,,,Indiana,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-076,0.1,0.1,0.0,True,1.021,0,N/A,HR travel line,,,Michigan,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Southwest,E-202506-TR-075,0.08,0.08,0.0,True,1.043,0,N/A,HR travel line,,,Kansas,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Lyft,E-202506-TR-014,0.07,0.06,0.01,True,1.077,0,N/A,HR travel line,38.0,31-60,Ohio,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Marriott,E-202506-TR-012,0.06,0.06,0.0,True,1.063,0,N/A,HR travel line,,,Virginia,3000.0,-2149278.1744000004
+2025-06-01,HR,expense,N/A,travel,Travel,Amex,E-202506-TR-024,0.03,0.03,0.0,True,1.065,0,N/A,HR travel line,,,Delaware,3000.0,-2149278.1744000004

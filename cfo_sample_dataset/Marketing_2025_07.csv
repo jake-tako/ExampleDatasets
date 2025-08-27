@@ -1,504 +1,504 @@
 month,department,line_type,product_line,category,subcategory,counterparty,invoice_id,amount,budget,variance,is_over_budget,spend_to_budget_ratio,headcount,role,notes,days_past_due,aging_bucket,state,dept_total_opex,company_ebitda
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-071,2375.31,2220.63,154.68,True,1.07,19,N/A,Marketing other line,25.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-062,1865.8,1721.0,144.8,True,1.084,19,N/A,Marketing other line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-080,1627.73,1505.63,122.1,True,1.081,19,N/A,Marketing other line,,,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-008,1557.99,1462.7,95.29,True,1.065,19,N/A,Marketing other line,,,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-013,1529.9,1514.75,15.15,True,1.01,19,N/A,Marketing other line,0.0,0-30,Wyoming,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-078,1445.29,1430.98,14.31,True,1.01,19,N/A,Marketing other line,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-032,1421.24,1293.73,127.51,True,1.099,19,N/A,Marketing other line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-025,1368.62,1355.07,13.55,True,1.01,19,N/A,Marketing other line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-048,1203.81,1144.56,59.25,True,1.052,19,N/A,Marketing other line,11.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-017,1183.1,1088.66,94.44,True,1.087,19,N/A,Marketing other line,16.0,0-30,Nevada,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-033,1117.01,1077.64,39.37,True,1.037,19,N/A,Marketing other line,5.0,0-30,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-041,1043.32,1008.03,35.29,True,1.035,19,N/A,Marketing other line,41.0,31-60,Alabama,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-055,849.71,805.31,44.4,True,1.055,19,N/A,Marketing other line,,,Wyoming,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-067,832.98,764.84,68.14,True,1.089,19,N/A,Marketing other line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-065,798.25,778.31,19.94,True,1.026,19,N/A,Marketing other line,,,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-037,792.33,764.8,27.53,True,1.036,19,N/A,Marketing other line,,,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-015,758.51,733.43,25.08,True,1.034,19,N/A,Marketing other line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-031,743.47,685.72,57.75,True,1.084,19,N/A,Marketing other line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-012,728.54,705.7,22.84,True,1.032,19,N/A,Marketing other line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-069,724.79,696.72,28.07,True,1.04,19,N/A,Marketing other line,,,Wisconsin,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-001,705.45,684.1,21.35,True,1.031,19,N/A,Marketing other line,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-063,704.13,652.05,52.08,True,1.08,19,N/A,Marketing other line,,,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-029,692.85,665.73,27.12,True,1.041,19,N/A,Marketing other line,33.0,31-60,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-002,652.95,641.89,11.06,True,1.017,19,N/A,Marketing other line,21.0,0-30,New Mexico,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-056,634.48,603.48,31.0,True,1.051,19,N/A,Marketing other line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-068,567.04,556.99,10.05,True,1.018,19,N/A,Marketing other line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-058,513.91,497.39,16.52,True,1.033,19,N/A,Marketing other line,,,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-081,478.56,460.63,17.93,True,1.039,19,N/A,Marketing other line,22.0,0-30,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-051,477.22,448.85,28.37,True,1.063,19,N/A,Marketing other line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-038,470.57,457.87,12.7,True,1.028,19,N/A,Marketing other line,24.0,0-30,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-010,440.57,420.33,20.24,True,1.048,19,N/A,Marketing other line,,,Colorado,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-023,436.75,430.1,6.65,True,1.015,19,N/A,Marketing other line,,,Arizona,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-004,424.6,411.15,13.45,True,1.033,19,N/A,Marketing other line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-011,418.54,401.94,16.6,True,1.041,19,N/A,Marketing other line,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-020,417.96,395.61,22.35,True,1.057,19,N/A,Marketing other line,39.0,31-60,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-026,411.64,388.69,22.95,True,1.059,19,N/A,Marketing other line,16.0,0-30,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-066,403.02,371.42,31.6,True,1.085,19,N/A,Marketing other line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-028,399.96,371.01,28.95,True,1.078,19,N/A,Marketing other line,36.0,31-60,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-034,364.33,353.38,10.95,True,1.031,19,N/A,Marketing other line,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-027,358.45,332.8,25.65,True,1.077,19,N/A,Marketing other line,21.0,0-30,Wyoming,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-043,331.0,324.73,6.27,True,1.019,19,N/A,Marketing other line,31.0,31-60,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-049,318.7,314.47,4.23,True,1.013,19,N/A,Marketing other line,17.0,0-30,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-009,297.24,279.27,17.97,True,1.064,19,N/A,Marketing other line,,,New Mexico,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-076,283.98,270.18,13.8,True,1.051,19,N/A,Marketing other line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-079,280.52,261.74,18.78,True,1.072,19,N/A,Marketing other line,49.0,31-60,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-050,279.55,276.78,2.77,True,1.01,19,N/A,Marketing other line,,,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-057,279.14,276.38,2.76,True,1.01,19,N/A,Marketing other line,,,Missouri,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-073,273.87,249.76,24.11,True,1.097,19,N/A,Marketing other line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-059,272.99,262.76,10.23,True,1.039,19,N/A,Marketing other line,,,Colorado,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-077,265.52,250.23,15.29,True,1.061,19,N/A,Marketing other line,60.0,31-60,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-014,237.76,235.34,2.42,True,1.01,19,N/A,Marketing other line,2.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-016,236.72,214.92,21.8,True,1.101,19,N/A,Marketing other line,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-052,234.14,218.82,15.32,True,1.07,19,N/A,Marketing other line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-045,229.01,212.82,16.19,True,1.076,19,N/A,Marketing other line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-064,228.6,205.55,23.05,True,1.112,19,N/A,Marketing other line,32.0,31-60,Alabama,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-053,223.67,206.38,17.29,True,1.084,19,N/A,Marketing other line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-007,216.44,211.81,4.63,True,1.022,19,N/A,Marketing other line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-003,207.79,199.5,8.29,True,1.042,19,N/A,Marketing other line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-039,201.28,191.89,9.39,True,1.049,19,N/A,Marketing other line,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-030,200.44,186.74,13.7,True,1.073,19,N/A,Marketing other line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-047,184.43,181.0,3.43,True,1.019,19,N/A,Marketing other line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-022,174.72,165.68,9.04,True,1.055,19,N/A,Marketing other line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-036,171.69,162.01,9.68,True,1.06,19,N/A,Marketing other line,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-044,171.61,161.65,9.96,True,1.062,19,N/A,Marketing other line,,,Missouri,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-024,162.48,153.04,9.44,True,1.062,19,N/A,Marketing other line,43.0,31-60,New Mexico,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-006,142.47,139.05,3.42,True,1.025,19,N/A,Marketing other line,,,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-035,140.23,135.17,5.06,True,1.037,19,N/A,Marketing other line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-075,114.95,113.02,1.93,True,1.017,19,N/A,Marketing other line,,,Idaho,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-005,110.15,106.36,3.79,True,1.036,19,N/A,Marketing other line,64.0,61-90,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-042,87.59,80.4,7.19,True,1.089,19,N/A,Marketing other line,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-061,81.68,75.12,6.56,True,1.087,19,N/A,Marketing other line,24.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-018,79.85,72.21,7.64,True,1.106,19,N/A,Marketing other line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-019,79.46,77.76,1.7,True,1.022,19,N/A,Marketing other line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-060,69.16,66.27,2.89,True,1.044,19,N/A,Marketing other line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-074,66.6,64.85,1.75,True,1.027,19,N/A,Marketing other line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-021,46.18,43.15,3.03,True,1.07,19,N/A,Marketing other line,,,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-046,44.3,42.08,2.22,True,1.053,19,N/A,Marketing other line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-072,24.32,23.31,1.01,True,1.043,19,N/A,Marketing other line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-040,17.16,16.84,0.32,True,1.019,19,N/A,Marketing other line,29.0,0-30,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-054,11.17,10.4,0.77,True,1.074,19,N/A,Marketing other line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-070,3.0,2.97,0.03,True,1.01,19,N/A,Marketing other line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-013,8316.73,7772.89,543.84,True,1.07,19,SEO,Marketing payroll line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-040,6261.43,5957.22,304.21,True,1.051,19,Events,Marketing payroll line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-067,5509.83,5393.07,116.76,True,1.022,19,SEO,Marketing payroll line,,,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-028,5416.56,5224.83,191.73,True,1.037,19,SEO,Marketing payroll line,,,Nevada,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-053,5277.97,5139.04,138.93,True,1.027,19,Content,Marketing payroll line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-011,4958.58,4862.19,96.39,True,1.02,19,Content,Marketing payroll line,,,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-020,4946.83,4559.26,387.57,True,1.085,19,Events,Marketing payroll line,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-027,4457.15,4147.48,309.67,True,1.075,19,Events,Marketing payroll line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-022,4023.71,3871.33,152.38,True,1.039,19,Brand,Marketing payroll line,8.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-008,3832.27,3751.48,80.79,True,1.022,19,Brand,Marketing payroll line,2.0,0-30,Delaware,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-019,3465.83,3394.39,71.44,True,1.021,19,Brand,Marketing payroll line,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-032,3415.79,3109.52,306.27,True,1.098,19,SEO,Marketing payroll line,31.0,31-60,North Dakota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-048,3328.85,3164.27,164.58,True,1.052,19,Content,Marketing payroll line,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-016,3245.97,3197.14,48.83,True,1.015,19,SEO,Marketing payroll line,40.0,31-60,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-010,2948.18,2720.78,227.4,True,1.084,19,Content,Marketing payroll line,46.0,31-60,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-003,2815.43,2610.78,204.65,True,1.078,19,Brand,Marketing payroll line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-001,2740.85,2532.21,208.64,True,1.082,19,Events,Marketing payroll line,0.0,0-30,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-026,2714.68,2573.23,141.45,True,1.055,19,SEO,Marketing payroll line,,,Alaska,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-063,2697.56,2614.59,82.97,True,1.032,19,Events,Marketing payroll line,38.0,31-60,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-004,2524.4,2456.49,67.91,True,1.028,19,SEO,Marketing payroll line,15.0,0-30,Arizona,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-042,2501.7,2426.02,75.68,True,1.031,19,Growth,Marketing payroll line,31.0,31-60,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-030,2136.77,2005.62,131.15,True,1.065,19,Brand,Marketing payroll line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-065,1914.1,1871.34,42.76,True,1.023,19,SEO,Marketing payroll line,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-023,1834.1,1796.74,37.36,True,1.021,19,Growth,Marketing payroll line,,,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-051,1580.49,1462.1,118.39,True,1.081,19,Content,Marketing payroll line,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-021,1553.35,1478.71,74.64,True,1.05,19,SEO,Marketing payroll line,5.0,0-30,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-060,1429.33,1287.9,141.43,True,1.11,19,Events,Marketing payroll line,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-007,1354.47,1341.06,13.41,True,1.01,19,Events,Marketing payroll line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-050,1280.68,1268.0,12.68,True,1.01,19,Brand,Marketing payroll line,0.0,0-30,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-018,1261.45,1200.13,61.32,True,1.051,19,Growth,Marketing payroll line,41.0,31-60,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-017,1256.82,1203.67,53.15,True,1.044,19,Content,Marketing payroll line,4.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-054,1012.21,1000.07,12.14,True,1.012,19,Events,Marketing payroll line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-031,1005.06,973.46,31.6,True,1.032,19,Events,Marketing payroll line,17.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-057,979.9,916.56,63.34,True,1.069,19,Events,Marketing payroll line,9.0,0-30,Idaho,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-038,971.33,925.58,45.75,True,1.049,19,Growth,Marketing payroll line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-024,944.72,893.49,51.23,True,1.057,19,Content,Marketing payroll line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-044,898.16,856.98,41.18,True,1.048,19,SEO,Marketing payroll line,,,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-037,849.44,808.19,41.25,True,1.051,19,Growth,Marketing payroll line,,,Colorado,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-005,842.67,812.41,30.26,True,1.037,19,SEO,Marketing payroll line,,,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-012,755.09,730.16,24.93,True,1.034,19,SEO,Marketing payroll line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-062,743.2,698.04,45.16,True,1.065,19,SEO,Marketing payroll line,18.0,0-30,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-049,702.35,651.44,50.91,True,1.078,19,Brand,Marketing payroll line,,,Maine,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-035,667.39,640.34,27.05,True,1.042,19,Events,Marketing payroll line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-059,634.75,628.47,6.28,True,1.01,19,Growth,Marketing payroll line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-009,629.23,607.33,21.9,True,1.036,19,SEO,Marketing payroll line,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-041,600.7,594.75,5.95,True,1.01,19,Growth,Marketing payroll line,11.0,0-30,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-029,591.35,552.91,38.44,True,1.07,19,Growth,Marketing payroll line,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-025,496.44,477.69,18.75,True,1.039,19,Content,Marketing payroll line,2.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-068,496.0,453.93,42.07,True,1.093,19,Events,Marketing payroll line,,,Connecticut,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-069,489.45,432.8,56.65,True,1.131,19,Events,Marketing payroll line,30.0,0-30,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-006,452.6,433.55,19.05,True,1.044,19,SEO,Marketing payroll line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-033,416.61,402.73,13.88,True,1.034,19,Growth,Marketing payroll line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-043,398.63,382.29,16.34,True,1.043,19,Events,Marketing payroll line,28.0,0-30,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-052,345.08,339.87,5.21,True,1.015,19,Brand,Marketing payroll line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-056,218.97,214.08,4.89,True,1.023,19,Growth,Marketing payroll line,,,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-058,215.44,213.31,2.13,True,1.01,19,Brand,Marketing payroll line,,,Colorado,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-039,215.18,196.86,18.32,True,1.093,19,Content,Marketing payroll line,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-046,212.55,197.51,15.04,True,1.076,19,SEO,Marketing payroll line,38.0,31-60,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-045,172.33,168.94,3.39,True,1.02,19,Content,Marketing payroll line,,,Kentucky,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-055,146.67,141.32,5.35,True,1.038,19,Events,Marketing payroll line,26.0,0-30,Kentucky,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-036,142.08,132.19,9.89,True,1.075,19,Growth,Marketing payroll line,14.0,0-30,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-064,138.56,131.8,6.76,True,1.051,19,Events,Marketing payroll line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-014,117.43,114.33,3.1,True,1.027,19,Events,Marketing payroll line,48.0,31-60,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-034,113.32,112.2,1.12,True,1.01,19,Growth,Marketing payroll line,,,Wyoming,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-066,89.05,82.12,6.93,True,1.084,19,Growth,Marketing payroll line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-061,81.15,78.49,2.66,True,1.034,19,Events,Marketing payroll line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-015,69.92,66.82,3.1,True,1.046,19,SEO,Marketing payroll line,,,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-002,62.32,60.17,2.15,True,1.036,19,Events,Marketing payroll line,0.0,0-30,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-047,20.81,19.66,1.15,True,1.058,19,Content,Marketing payroll line,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-056,2100.95,1908.93,192.02,True,1.101,19,N/A,Marketing software line,22.0,0-30,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-016,1589.28,1511.86,77.42,True,1.051,19,N/A,Marketing software line,,,Connecticut,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-151,1513.51,1438.91,74.6,True,1.052,19,N/A,Marketing software line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-082,1436.12,1381.06,55.06,True,1.04,19,N/A,Marketing software line,,,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-136,1378.54,1295.31,83.23,True,1.064,19,N/A,Marketing software line,,,Colorado,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-025,1244.53,1195.9,48.63,True,1.041,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-050,1236.68,1224.44,12.24,True,1.01,19,N/A,Marketing software line,15.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-090,1198.81,1117.88,80.93,True,1.072,19,N/A,Marketing software line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-095,1197.46,1185.6,11.86,True,1.01,19,N/A,Marketing software line,27.0,0-30,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-125,1150.57,1091.39,59.18,True,1.054,19,N/A,Marketing software line,30.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-093,1134.7,1086.94,47.76,True,1.044,19,N/A,Marketing software line,11.0,0-30,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-011,1077.83,1013.02,64.81,True,1.064,19,N/A,Marketing software line,38.0,31-60,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-100,1029.89,1009.88,20.01,True,1.02,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-033,980.45,934.03,46.42,True,1.05,19,N/A,Marketing software line,16.0,0-30,Arizona,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-005,973.94,955.7,18.24,True,1.019,19,N/A,Marketing software line,,,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-028,890.64,823.96,66.68,True,1.081,19,N/A,Marketing software line,35.0,31-60,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-012,879.55,836.37,43.18,True,1.052,19,N/A,Marketing software line,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-062,875.27,829.88,45.39,True,1.055,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-109,850.37,841.95,8.42,True,1.01,19,N/A,Marketing software line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-150,831.04,772.64,58.4,True,1.076,19,N/A,Marketing software line,4.0,0-30,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-131,827.36,775.0,52.36,True,1.068,19,N/A,Marketing software line,,,Arkansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-032,824.73,816.56,8.17,True,1.01,19,N/A,Marketing software line,40.0,31-60,Wisconsin,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-157,804.7,750.52,54.18,True,1.072,19,N/A,Marketing software line,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-002,803.97,752.29,51.68,True,1.069,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-154,803.77,771.34,32.43,True,1.042,19,N/A,Marketing software line,,,Delaware,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-070,799.92,750.94,48.98,True,1.065,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-048,777.19,733.09,44.1,True,1.06,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-063,747.18,717.35,29.83,True,1.042,19,N/A,Marketing software line,39.0,31-60,Louisiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-017,744.68,715.48,29.2,True,1.041,19,N/A,Marketing software line,20.0,0-30,Oklahoma,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-051,742.6,720.75,21.85,True,1.03,19,N/A,Marketing software line,,,Nevada,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-069,736.5,698.0,38.5,True,1.055,19,N/A,Marketing software line,27.0,0-30,Arizona,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-061,728.37,674.94,53.43,True,1.079,19,N/A,Marketing software line,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-159,682.03,675.28,6.75,True,1.01,19,N/A,Marketing software line,15.0,0-30,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-162,669.28,650.69,18.59,True,1.029,19,N/A,Marketing software line,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-042,651.26,624.69,26.57,True,1.043,19,N/A,Marketing software line,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-088,622.98,592.04,30.94,True,1.052,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-122,603.62,567.62,36.0,True,1.063,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-091,562.35,549.96,12.39,True,1.023,19,N/A,Marketing software line,31.0,31-60,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-064,557.28,543.38,13.9,True,1.026,19,N/A,Marketing software line,,,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-075,551.71,546.25,5.46,True,1.01,19,N/A,Marketing software line,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-142,544.24,534.95,9.29,True,1.017,19,N/A,Marketing software line,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-121,539.59,526.6,12.99,True,1.025,19,N/A,Marketing software line,24.0,0-30,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-176,537.99,520.19,17.8,True,1.034,19,N/A,Marketing software line,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-060,530.46,502.16,28.3,True,1.056,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-058,511.69,485.74,25.95,True,1.053,19,N/A,Marketing software line,28.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-087,509.45,492.4,17.05,True,1.035,19,N/A,Marketing software line,9.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-031,495.9,469.2,26.7,True,1.057,19,N/A,Marketing software line,,,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-015,482.51,448.67,33.84,True,1.075,19,N/A,Marketing software line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-040,476.27,462.58,13.69,True,1.03,19,N/A,Marketing software line,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-080,473.55,435.52,38.03,True,1.087,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-129,453.26,431.01,22.25,True,1.052,19,N/A,Marketing software line,41.0,31-60,Mississippi,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-001,439.34,406.29,33.05,True,1.081,19,N/A,Marketing software line,0.0,0-30,Wisconsin,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-077,437.94,415.98,21.96,True,1.053,19,N/A,Marketing software line,36.0,31-60,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-160,420.2,395.66,24.54,True,1.062,19,N/A,Marketing software line,,,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-138,415.49,382.76,32.73,True,1.086,19,N/A,Marketing software line,37.0,31-60,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-071,410.92,389.2,21.72,True,1.056,19,N/A,Marketing software line,,,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-111,408.37,397.27,11.1,True,1.028,19,N/A,Marketing software line,,,New Hampshire,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-027,408.1,400.46,7.64,True,1.019,19,N/A,Marketing software line,,,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-175,404.7,373.1,31.6,True,1.085,19,N/A,Marketing software line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-020,404.04,392.29,11.75,True,1.03,19,N/A,Marketing software line,,,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-098,393.16,357.32,35.84,True,1.1,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-110,392.59,366.75,25.84,True,1.07,19,N/A,Marketing software line,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-024,390.21,369.61,20.6,True,1.056,19,N/A,Marketing software line,11.0,0-30,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-055,387.89,381.04,6.85,True,1.018,19,N/A,Marketing software line,,,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-073,386.4,370.65,15.75,True,1.042,19,N/A,Marketing software line,,,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-108,379.99,353.03,26.96,True,1.076,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-174,369.48,336.8,32.68,True,1.097,19,N/A,Marketing software line,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-133,367.25,350.43,16.82,True,1.048,19,N/A,Marketing software line,3.0,0-30,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-161,366.84,363.21,3.63,True,1.01,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-156,366.17,362.54,3.63,True,1.01,19,N/A,Marketing software line,13.0,0-30,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-113,353.29,328.83,24.46,True,1.074,19,N/A,Marketing software line,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-044,349.78,332.34,17.44,True,1.052,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-130,343.34,319.35,23.99,True,1.075,19,N/A,Marketing software line,1.0,0-30,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-089,341.16,313.9,27.26,True,1.087,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-145,336.16,323.99,12.17,True,1.038,19,N/A,Marketing software line,,,New Mexico,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-004,316.63,299.64,16.99,True,1.057,19,N/A,Marketing software line,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-066,290.43,266.85,23.58,True,1.088,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-114,284.82,273.74,11.08,True,1.04,19,N/A,Marketing software line,,,Missouri,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-037,283.15,269.5,13.65,True,1.051,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-021,279.24,262.49,16.75,True,1.064,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-086,273.38,256.31,17.07,True,1.067,19,N/A,Marketing software line,0.0,0-30,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-152,263.21,253.0,10.21,True,1.04,19,N/A,Marketing software line,19.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-127,257.2,240.95,16.25,True,1.067,19,N/A,Marketing software line,0.0,0-30,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-019,247.57,235.44,12.13,True,1.052,19,N/A,Marketing software line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-083,243.73,241.32,2.41,True,1.01,19,N/A,Marketing software line,29.0,0-30,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-135,236.6,219.51,17.09,True,1.078,19,N/A,Marketing software line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-128,235.92,225.97,9.95,True,1.044,19,N/A,Marketing software line,26.0,0-30,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-148,230.81,217.03,13.78,True,1.063,19,N/A,Marketing software line,6.0,0-30,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-147,226.07,214.0,12.07,True,1.056,19,N/A,Marketing software line,21.0,0-30,Arkansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-047,224.55,210.6,13.95,True,1.066,19,N/A,Marketing software line,,,Arkansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-172,223.36,216.64,6.72,True,1.031,19,N/A,Marketing software line,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-112,220.97,216.13,4.84,True,1.022,19,N/A,Marketing software line,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-169,213.58,204.75,8.83,True,1.043,19,N/A,Marketing software line,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-008,211.52,205.39,6.13,True,1.03,19,N/A,Marketing software line,10.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-013,211.16,195.36,15.8,True,1.081,19,N/A,Marketing software line,,,Nebraska,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-097,203.24,187.42,15.82,True,1.084,19,N/A,Marketing software line,,,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-139,201.94,195.25,6.69,True,1.034,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-137,200.53,198.3,2.23,True,1.011,19,N/A,Marketing software line,,,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-171,200.49,191.67,8.82,True,1.046,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-030,197.83,195.87,1.96,True,1.01,19,N/A,Marketing software line,24.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-155,189.36,186.1,3.26,True,1.018,19,N/A,Marketing software line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-007,188.31,178.8,9.51,True,1.053,19,N/A,Marketing software line,36.0,31-60,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-101,183.03,175.11,7.92,True,1.045,19,N/A,Marketing software line,20.0,0-30,Alabama,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-018,182.1,176.39,5.71,True,1.032,19,N/A,Marketing software line,,,Nebraska,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-006,181.68,177.46,4.22,True,1.024,19,N/A,Marketing software line,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-068,171.56,160.78,10.78,True,1.067,19,N/A,Marketing software line,15.0,0-30,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-067,164.3,153.04,11.26,True,1.074,19,N/A,Marketing software line,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-119,162.29,156.47,5.82,True,1.037,19,N/A,Marketing software line,,,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-078,157.48,150.94,6.54,True,1.043,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-039,156.84,150.03,6.81,True,1.045,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-134,154.87,150.71,4.16,True,1.028,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-158,152.29,147.41,4.88,True,1.033,19,N/A,Marketing software line,19.0,0-30,Missouri,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-146,151.22,149.72,1.5,True,1.01,19,N/A,Marketing software line,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-094,149.57,145.91,3.66,True,1.025,19,N/A,Marketing software line,23.0,0-30,Mississippi,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-153,145.57,136.11,9.46,True,1.07,19,N/A,Marketing software line,0.0,0-30,Arkansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-167,145.42,141.72,3.7,True,1.026,19,N/A,Marketing software line,,,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-106,136.67,135.29,1.38,True,1.01,19,N/A,Marketing software line,,,South Dakota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-170,134.82,129.56,5.26,True,1.041,19,N/A,Marketing software line,13.0,0-30,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-164,129.5,123.83,5.67,True,1.046,19,N/A,Marketing software line,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-023,128.03,121.26,6.77,True,1.056,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-034,126.3,125.05,1.25,True,1.01,19,N/A,Marketing software line,23.0,0-30,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-107,124.77,118.8,5.97,True,1.05,19,N/A,Marketing software line,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-046,123.55,116.61,6.94,True,1.059,19,N/A,Marketing software line,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-084,123.32,112.99,10.33,True,1.091,19,N/A,Marketing software line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-057,123.14,115.18,7.96,True,1.069,19,N/A,Marketing software line,37.0,31-60,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-036,122.54,114.01,8.53,True,1.075,19,N/A,Marketing software line,,,Wisconsin,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-022,119.0,115.29,3.71,True,1.032,19,N/A,Marketing software line,27.0,0-30,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-014,115.57,111.33,4.24,True,1.038,19,N/A,Marketing software line,33.0,31-60,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-096,109.95,108.86,1.09,True,1.01,19,N/A,Marketing software line,2.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-126,108.58,104.04,4.54,True,1.044,19,N/A,Marketing software line,28.0,0-30,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-166,105.12,95.88,9.24,True,1.096,19,N/A,Marketing software line,21.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-074,100.7,97.1,3.6,True,1.037,19,N/A,Marketing software line,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-116,100.23,98.31,1.92,True,1.02,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-038,98.44,92.32,6.12,True,1.066,19,N/A,Marketing software line,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-173,97.8,86.49,11.31,True,1.131,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-072,96.83,93.06,3.77,True,1.04,19,N/A,Marketing software line,8.0,0-30,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-102,91.92,85.87,6.05,True,1.07,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-168,88.89,84.0,4.89,True,1.058,19,N/A,Marketing software line,21.0,0-30,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-117,85.7,82.54,3.16,True,1.038,19,N/A,Marketing software line,,,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-177,85.43,81.9,3.53,True,1.043,19,N/A,Marketing software line,5.0,0-30,Mississippi,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-049,79.51,74.12,5.39,True,1.073,19,N/A,Marketing software line,,,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-165,78.42,74.38,4.04,True,1.054,19,N/A,Marketing software line,16.0,0-30,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-144,73.98,72.16,1.82,True,1.025,19,N/A,Marketing software line,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-140,73.87,72.29,1.58,True,1.022,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-076,72.67,70.31,2.36,True,1.034,19,N/A,Marketing software line,20.0,0-30,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-009,71.59,68.76,2.83,True,1.041,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-085,67.54,62.21,5.33,True,1.086,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-026,66.74,62.93,3.81,True,1.061,19,N/A,Marketing software line,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-092,65.44,64.79,0.65,True,1.01,19,N/A,Marketing software line,0.0,0-30,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-132,65.14,64.37,0.77,True,1.012,19,N/A,Marketing software line,45.0,31-60,Missouri,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-054,63.63,60.26,3.37,True,1.056,19,N/A,Marketing software line,,,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-010,59.67,56.61,3.06,True,1.054,19,N/A,Marketing software line,23.0,0-30,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-003,49.53,47.43,2.1,True,1.044,19,N/A,Marketing software line,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-081,46.47,43.69,2.78,True,1.064,19,N/A,Marketing software line,14.0,0-30,Alaska,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-123,36.83,35.6,1.23,True,1.034,19,N/A,Marketing software line,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-079,35.11,33.23,1.88,True,1.057,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-059,32.8,31.11,1.69,True,1.054,19,N/A,Marketing software line,35.0,31-60,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-143,32.32,29.97,2.35,True,1.078,19,N/A,Marketing software line,0.0,0-30,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-124,32.1,30.94,1.16,True,1.038,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-065,30.03,28.01,2.02,True,1.072,19,N/A,Marketing software line,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-052,28.24,27.12,1.12,True,1.041,19,N/A,Marketing software line,,,Montana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-118,28.04,26.01,2.03,True,1.078,19,N/A,Marketing software line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-035,26.49,24.61,1.88,True,1.076,19,N/A,Marketing software line,13.0,0-30,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-099,23.45,21.89,1.56,True,1.071,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-120,23.45,22.28,1.17,True,1.053,19,N/A,Marketing software line,,,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-103,19.84,18.21,1.63,True,1.09,19,N/A,Marketing software line,,,Arizona,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-045,19.81,19.04,0.77,True,1.04,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-115,19.29,19.01,0.28,True,1.015,19,N/A,Marketing software line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-105,10.4,10.28,0.12,True,1.012,19,N/A,Marketing software line,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-104,9.07,8.48,0.59,True,1.069,19,N/A,Marketing software line,14.0,0-30,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-149,8.67,8.12,0.55,True,1.068,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-043,7.31,6.9,0.41,True,1.06,19,N/A,Marketing software line,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-141,7.2,7.12,0.08,True,1.011,19,N/A,Marketing software line,,,Nebraska,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-041,6.34,6.28,0.06,True,1.01,19,N/A,Marketing software line,34.0,31-60,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-163,4.69,4.51,0.18,True,1.04,19,N/A,Marketing software line,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-029,4.4,4.01,0.39,True,1.097,19,N/A,Marketing software line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-053,3.06,2.94,0.12,True,1.039,19,N/A,Marketing software line,2.0,0-30,Hawaii,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-036,2423.26,2399.27,23.99,True,1.01,19,N/A,Marketing travel line,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-041,2287.84,2163.66,124.18,True,1.057,19,N/A,Marketing travel line,,,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-060,1734.72,1563.98,170.74,True,1.109,19,N/A,Marketing travel line,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-042,1706.93,1690.03,16.9,True,1.01,19,N/A,Marketing travel line,49.0,31-60,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-064,1521.05,1494.64,26.41,True,1.018,19,N/A,Marketing travel line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-019,1480.3,1402.25,78.05,True,1.056,19,N/A,Marketing travel line,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-050,1321.5,1240.76,80.74,True,1.065,19,N/A,Marketing travel line,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-076,1231.75,1118.42,113.33,True,1.101,19,N/A,Marketing travel line,,,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-035,1230.5,1216.64,13.86,True,1.011,19,N/A,Marketing travel line,7.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-016,1195.76,1095.34,100.42,True,1.092,19,N/A,Marketing travel line,,,New Hampshire,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-061,1194.0,1136.75,57.25,True,1.05,19,N/A,Marketing travel line,24.0,0-30,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-022,1143.34,1095.39,47.95,True,1.044,19,N/A,Marketing travel line,27.0,0-30,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-062,1132.53,1071.35,61.18,True,1.057,19,N/A,Marketing travel line,13.0,0-30,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-048,1062.21,1026.68,35.53,True,1.035,19,N/A,Marketing travel line,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-045,1058.94,992.54,66.4,True,1.067,19,N/A,Marketing travel line,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-044,1009.58,942.51,67.07,True,1.071,19,N/A,Marketing travel line,31.0,31-60,Wisconsin,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-074,993.15,929.48,63.67,True,1.069,19,N/A,Marketing travel line,16.0,0-30,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-034,950.33,903.81,46.52,True,1.051,19,N/A,Marketing travel line,0.0,0-30,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-011,918.39,824.32,94.07,True,1.114,19,N/A,Marketing travel line,34.0,31-60,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-027,798.07,787.2,10.87,True,1.014,19,N/A,Marketing travel line,,,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-077,780.21,750.41,29.8,True,1.04,19,N/A,Marketing travel line,,,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-082,762.71,726.18,36.53,True,1.05,19,N/A,Marketing travel line,19.0,0-30,Colorado,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-071,736.43,699.45,36.98,True,1.053,19,N/A,Marketing travel line,,,New Mexico,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-005,645.83,579.6,66.23,True,1.114,19,N/A,Marketing travel line,,,Idaho,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-087,582.19,541.95,40.24,True,1.074,19,N/A,Marketing travel line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-078,576.9,557.22,19.68,True,1.035,19,N/A,Marketing travel line,45.0,31-60,Alaska,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-065,563.23,511.54,51.69,True,1.101,19,N/A,Marketing travel line,17.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-032,545.97,532.41,13.56,True,1.025,19,N/A,Marketing travel line,35.0,31-60,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-068,537.79,519.96,17.83,True,1.034,19,N/A,Marketing travel line,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-051,503.98,492.16,11.82,True,1.024,19,N/A,Marketing travel line,,,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-010,413.06,385.2,27.86,True,1.072,19,N/A,Marketing travel line,,,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-039,407.01,386.86,20.15,True,1.052,19,N/A,Marketing travel line,50.0,31-60,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-046,390.38,384.92,5.46,True,1.014,19,N/A,Marketing travel line,12.0,0-30,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-043,377.55,371.76,5.79,True,1.016,19,N/A,Marketing travel line,,,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-018,374.62,357.4,17.22,True,1.048,19,N/A,Marketing travel line,12.0,0-30,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-085,368.36,352.29,16.07,True,1.046,19,N/A,Marketing travel line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-026,339.6,308.78,30.82,True,1.1,19,N/A,Marketing travel line,,,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-052,339.04,327.28,11.76,True,1.036,19,N/A,Marketing travel line,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-008,333.49,322.95,10.54,True,1.033,19,N/A,Marketing travel line,18.0,0-30,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-023,330.49,305.34,25.15,True,1.082,19,N/A,Marketing travel line,45.0,31-60,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-015,310.63,294.56,16.07,True,1.055,19,N/A,Marketing travel line,,,Oklahoma,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-012,308.59,304.52,4.07,True,1.013,19,N/A,Marketing travel line,31.0,31-60,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-013,301.94,286.34,15.6,True,1.054,19,N/A,Marketing travel line,,,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-049,293.11,271.6,21.51,True,1.079,19,N/A,Marketing travel line,,,Arizona,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-017,290.05,275.13,14.92,True,1.054,19,N/A,Marketing travel line,65.0,61-90,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-047,287.59,279.08,8.51,True,1.031,19,N/A,Marketing travel line,,,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-001,278.65,256.8,21.85,True,1.085,19,N/A,Marketing travel line,26.0,0-30,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-053,265.38,243.59,21.79,True,1.089,19,N/A,Marketing travel line,23.0,0-30,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-007,240.71,232.24,8.47,True,1.036,19,N/A,Marketing travel line,,,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-079,216.08,213.94,2.14,True,1.01,19,N/A,Marketing travel line,4.0,0-30,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-063,202.68,200.67,2.01,True,1.01,19,N/A,Marketing travel line,9.0,0-30,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-020,191.34,181.08,10.26,True,1.057,19,N/A,Marketing travel line,16.0,0-30,Alabama,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-054,174.14,165.4,8.74,True,1.053,19,N/A,Marketing travel line,,,Kentucky,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-075,160.71,150.69,10.02,True,1.066,19,N/A,Marketing travel line,,,Wisconsin,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-057,160.33,156.04,4.29,True,1.027,19,N/A,Marketing travel line,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-009,149.17,139.87,9.3,True,1.066,19,N/A,Marketing travel line,23.0,0-30,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-067,124.26,115.79,8.47,True,1.073,19,N/A,Marketing travel line,40.0,31-60,South Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-038,117.74,110.31,7.43,True,1.067,19,N/A,Marketing travel line,41.0,31-60,Alabama,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-059,114.77,108.29,6.48,True,1.06,19,N/A,Marketing travel line,,,Louisiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-055,113.54,108.22,5.32,True,1.049,19,N/A,Marketing travel line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-084,97.64,93.29,4.35,True,1.047,19,N/A,Marketing travel line,,,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-002,94.07,81.8,12.27,True,1.15,19,N/A,Marketing travel line,42.0,31-60,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-089,90.75,86.13,4.62,True,1.054,19,N/A,Marketing travel line,12.0,0-30,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-031,87.99,80.54,7.45,True,1.093,19,N/A,Marketing travel line,27.0,0-30,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-069,87.34,83.47,3.87,True,1.046,19,N/A,Marketing travel line,,,Idaho,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-080,87.34,83.25,4.09,True,1.049,19,N/A,Marketing travel line,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-014,75.05,69.21,5.84,True,1.084,19,N/A,Marketing travel line,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-024,64.88,60.11,4.77,True,1.079,19,N/A,Marketing travel line,46.0,31-60,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-070,60.07,57.06,3.01,True,1.053,19,N/A,Marketing travel line,,,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-004,56.93,56.11,0.82,True,1.015,19,N/A,Marketing travel line,,,North Carolina,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-083,50.37,47.12,3.25,True,1.069,19,N/A,Marketing travel line,13.0,0-30,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-030,49.11,48.39,0.72,True,1.015,19,N/A,Marketing travel line,22.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-025,40.41,37.61,2.8,True,1.074,19,N/A,Marketing travel line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-081,39.85,37.11,2.74,True,1.074,19,N/A,Marketing travel line,34.0,31-60,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-029,39.21,38.82,0.39,True,1.01,19,N/A,Marketing travel line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-090,38.23,36.02,2.21,True,1.061,19,N/A,Marketing travel line,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-040,34.89,32.99,1.9,True,1.058,19,N/A,Marketing travel line,10.0,0-30,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-088,33.38,31.8,1.58,True,1.05,19,N/A,Marketing travel line,,,Maine,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-033,27.06,26.13,0.93,True,1.036,19,N/A,Marketing travel line,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-066,23.75,22.76,0.99,True,1.044,19,N/A,Marketing travel line,,,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-021,22.34,20.82,1.52,True,1.073,19,N/A,Marketing travel line,,,Wyoming,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-086,20.34,19.14,1.2,True,1.063,19,N/A,Marketing travel line,25.0,0-30,Utah,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-073,18.55,18.08,0.47,True,1.026,19,N/A,Marketing travel line,10.0,0-30,Illinois,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-028,15.67,15.27,0.4,True,1.026,19,N/A,Marketing travel line,26.0,0-30,Maine,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-058,9.48,8.94,0.54,True,1.06,19,N/A,Marketing travel line,5.0,0-30,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-056,5.4,5.08,0.32,True,1.063,19,N/A,Marketing travel line,15.0,0-30,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-037,4.89,4.59,0.3,True,1.066,19,N/A,Marketing travel line,,,Connecticut,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-072,2.88,2.76,0.12,True,1.045,19,N/A,Marketing travel line,,,Alabama,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-006,0.93,0.86,0.07,True,1.077,19,N/A,Marketing travel line,29.0,0-30,Delaware,268148.92,-1713488.256070122
-2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-003,0.57,0.53,0.04,True,1.068,19,N/A,Marketing travel line,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 321,R-202507-SU-007,138713.44,,,,,19,N/A,Allocated influenced revenue,,,Kentucky,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 338,R-202507-SU-002,103831.03,,,,,19,N/A,Allocated influenced revenue,,,Idaho,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 310,R-202507-SU-001,97203.27,,,,,19,N/A,Allocated influenced revenue,,,Kentucky,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 389,R-202507-SU-022,81072.25,,,,,19,N/A,Allocated influenced revenue,,,New Mexico,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 273,R-202507-SU-012,71290.03,,,,,19,N/A,Allocated influenced revenue,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 060,R-202507-SU-005,64644.54,,,,,19,N/A,Allocated influenced revenue,,,Colorado,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 324,R-202507-SU-006,60889.45,,,,,19,N/A,Allocated influenced revenue,,,Maine,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 028,R-202507-SU-041,58796.14,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 345,R-202507-SU-040,56316.89,,,,,19,N/A,Allocated influenced revenue,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 140,R-202507-SU-023,54636.85,,,,,19,N/A,Allocated influenced revenue,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 095,R-202507-SU-031,54445.17,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 243,R-202507-SU-014,52119.61,,,,,19,N/A,Allocated influenced revenue,,,Oregon,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 066,R-202507-SU-011,50374.83,,,,,19,N/A,Allocated influenced revenue,,,Arkansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 033,R-202507-SU-020,50262.81,,,,,19,N/A,Allocated influenced revenue,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 357,R-202507-SU-042,48379.26,,,,,19,N/A,Allocated influenced revenue,,,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 321,R-202507-SU-009,43984.38,,,,,19,N/A,Allocated influenced revenue,,,Kentucky,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 011,R-202507-SU-018,37890.75,,,,,19,N/A,Allocated influenced revenue,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 184,R-202507-SU-038,35942.09,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 230,R-202507-SU-032,31226.26,,,,,19,N/A,Allocated influenced revenue,,,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 065,R-202507-SU-029,27732.41,,,,,19,N/A,Allocated influenced revenue,,,Iowa,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 226,R-202507-SU-024,27622.35,,,,,19,N/A,Allocated influenced revenue,,,Arizona,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 155,R-202507-SU-035,27502.4,,,,,19,N/A,Allocated influenced revenue,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 384,R-202507-AD-028,24270.51,,,,,19,N/A,Allocated influenced revenue,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 129,R-202507-SU-034,19747.42,,,,,19,N/A,Allocated influenced revenue,,,Maine,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 193,R-202507-SU-026,19209.0,,,,,19,N/A,Allocated influenced revenue,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 338,R-202507-SU-025,18512.83,,,,,19,N/A,Allocated influenced revenue,,,Idaho,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 104,R-202507-SU-019,17604.78,,,,,19,N/A,Allocated influenced revenue,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 316,R-202507-SU-030,17136.03,,,,,19,N/A,Allocated influenced revenue,,,Mississippi,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 201,R-202507-SU-013,15250.72,,,,,19,N/A,Allocated influenced revenue,,,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 019,R-202507-SU-036,13550.01,,,,,19,N/A,Allocated influenced revenue,,,Hawaii,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 138,R-202507-SU-017,13328.72,,,,,19,N/A,Allocated influenced revenue,,,Alabama,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 072,R-202507-SU-037,12938.69,,,,,19,N/A,Allocated influenced revenue,,,New Mexico,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 002,R-202507-SU-039,12201.92,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 157,R-202507-SU-003,12173.96,,,,,19,N/A,Allocated influenced revenue,,,Virginia,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 228,R-202507-AD-021,11961.17,,,,,19,N/A,Allocated influenced revenue,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 311,R-202507-SU-033,10581.14,,,,,19,N/A,Allocated influenced revenue,,,Missouri,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 338,R-202507-AD-043,10340.14,,,,,19,N/A,Allocated influenced revenue,,,Idaho,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 114,R-202507-SU-021,9180.3,,,,,19,N/A,Allocated influenced revenue,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 039,R-202507-AD-001,8753.89,,,,,19,N/A,Allocated influenced revenue,,,Kentucky,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 064,R-202507-AD-008,8456.26,,,,,19,N/A,Allocated influenced revenue,,,Ohio,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 070,R-202507-SU-028,7590.99,,,,,19,N/A,Allocated influenced revenue,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 230,R-202507-AD-009,7017.39,,,,,19,N/A,Allocated influenced revenue,,,Rhode Island,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 323,R-202507-AD-025,6959.65,,,,,19,N/A,Allocated influenced revenue,,,Idaho,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 075,R-202507-AD-042,6829.86,,,,,19,N/A,Allocated influenced revenue,,,Michigan,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 268,R-202507-SU-015,6812.36,,,,,19,N/A,Allocated influenced revenue,,,Vermont,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 207,R-202507-AD-034,6637.83,,,,,19,N/A,Allocated influenced revenue,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 287,R-202507-AD-023,6460.33,,,,,19,N/A,Allocated influenced revenue,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 005,R-202507-AD-026,6338.57,,,,,19,N/A,Allocated influenced revenue,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 317,R-202507-AD-030,6170.35,,,,,19,N/A,Allocated influenced revenue,,,Georgia,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 265,R-202507-AD-012,5121.02,,,,,19,N/A,Allocated influenced revenue,,,Indiana,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 194,R-202507-AD-010,4620.45,,,,,19,N/A,Allocated influenced revenue,,,Nevada,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 333,R-202507-SU-016,4081.63,,,,,19,N/A,Allocated influenced revenue,,,Connecticut,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 054,R-202507-AD-018,4031.83,,,,,19,N/A,Allocated influenced revenue,,,New Hampshire,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 295,R-202507-AD-005,4006.08,,,,,19,N/A,Allocated influenced revenue,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 258,R-202507-SU-004,3882.34,,,,,19,N/A,Allocated influenced revenue,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 031,R-202507-AD-032,3866.24,,,,,19,N/A,Allocated influenced revenue,,,Hawaii,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 191,R-202507-AD-017,3523.99,,,,,19,N/A,Allocated influenced revenue,,,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 147,R-202507-AD-036,3430.65,,,,,19,N/A,Allocated influenced revenue,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 156,R-202507-AD-022,3359.62,,,,,19,N/A,Allocated influenced revenue,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 352,R-202507-SU-027,3207.59,,,,,19,N/A,Allocated influenced revenue,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 118,R-202507-SU-008,3164.16,,,,,19,N/A,Allocated influenced revenue,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 222,R-202507-SU-043,3110.84,,,,,19,N/A,Allocated influenced revenue,,,Pennsylvania,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 024,R-202507-SU-010,2934.72,,,,,19,N/A,Allocated influenced revenue,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 156,R-202507-AD-038,2782.07,,,,,19,N/A,Allocated influenced revenue,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 090,R-202507-AD-029,2717.98,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 373,R-202507-AD-007,2649.03,,,,,19,N/A,Allocated influenced revenue,,,Tennessee,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 206,R-202507-AD-040,2368.09,,,,,19,N/A,Allocated influenced revenue,,,New York,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 089,R-202507-AD-037,2242.35,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 092,R-202507-AD-035,1937.18,,,,,19,N/A,Allocated influenced revenue,,,Minnesota,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 241,R-202507-AD-039,1861.06,,,,,19,N/A,Allocated influenced revenue,,,Florida,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 129,R-202507-AD-013,1855.01,,,,,19,N/A,Allocated influenced revenue,,,Maine,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 251,R-202507-AD-006,1786.13,,,,,19,N/A,Allocated influenced revenue,,,Massachusetts,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 389,R-202507-AD-015,1679.83,,,,,19,N/A,Allocated influenced revenue,,,New Mexico,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 318,R-202507-AD-024,1482.46,,,,,19,N/A,Allocated influenced revenue,,,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 296,R-202507-AD-004,1272.86,,,,,19,N/A,Allocated influenced revenue,,,New Jersey,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 318,R-202507-AD-019,1220.39,,,,,19,N/A,Allocated influenced revenue,,,Maryland,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 343,R-202507-AD-033,1154.33,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 380,R-202507-AD-031,1072.99,,,,,19,N/A,Allocated influenced revenue,,,Kansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 046,R-202507-AD-003,754.19,,,,,19,N/A,Allocated influenced revenue,,,Texas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 334,R-202507-AD-011,671.51,,,,,19,N/A,Allocated influenced revenue,,,Washington,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 128,R-202507-AD-002,547.3,,,,,19,N/A,Allocated influenced revenue,,,New Hampshire,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 010,R-202507-AD-014,508.11,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 123,R-202507-AD-027,414.76,,,,,19,N/A,Allocated influenced revenue,,,Arkansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 135,R-202507-AD-016,283.66,,,,,19,N/A,Allocated influenced revenue,,,California,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 066,R-202507-AD-020,187.47,,,,,19,N/A,Allocated influenced revenue,,,Arkansas,268148.92,-1713488.256070122
-2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 120,R-202507-AD-041,116.18,,,,,19,N/A,Allocated influenced revenue,,,Washington,268148.92,-1713488.256070122
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-071,1870.37,1783.68,86.69,True,1.049,15,N/A,Marketing other line,0.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-062,1469.17,1424.05,45.12,True,1.032,15,N/A,Marketing other line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-080,1281.71,1269.02,12.69,True,1.01,15,N/A,Marketing other line,,,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-008,1226.79,1214.64,12.15,True,1.01,15,N/A,Marketing other line,7.0,0-30,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-013,1204.67,1119.69,84.98,True,1.076,15,N/A,Marketing other line,45.0,31-60,Wyoming,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-078,1138.05,1072.7,65.35,True,1.061,15,N/A,Marketing other line,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-032,1119.11,1067.49,51.62,True,1.048,15,N/A,Marketing other line,19.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-025,1077.68,1017.14,60.54,True,1.06,15,N/A,Marketing other line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-048,947.9,894.54,53.36,True,1.06,15,N/A,Marketing other line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-017,931.6,900.73,30.87,True,1.034,15,N/A,Marketing other line,47.0,31-60,Nevada,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-033,879.56,797.81,81.75,True,1.102,15,N/A,Marketing other line,45.0,31-60,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-041,821.53,776.84,44.69,True,1.058,15,N/A,Marketing other line,16.0,0-30,Alabama,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-055,669.08,622.32,46.76,True,1.075,15,N/A,Marketing other line,,,Wyoming,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-067,655.91,621.75,34.16,True,1.055,15,N/A,Marketing other line,24.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-065,628.56,599.69,28.87,True,1.048,15,N/A,Marketing other line,17.0,0-30,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-037,623.89,598.0,25.89,True,1.043,15,N/A,Marketing other line,,,Oregon,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-015,597.26,574.23,23.03,True,1.04,15,N/A,Marketing other line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-031,585.42,541.77,43.65,True,1.081,15,N/A,Marketing other line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-012,573.67,538.83,34.84,True,1.065,15,N/A,Marketing other line,10.0,0-30,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-069,570.71,517.88,52.83,True,1.102,15,N/A,Marketing other line,,,Wisconsin,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-001,555.49,530.01,25.48,True,1.048,15,N/A,Marketing other line,18.0,0-30,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-063,554.45,533.43,21.02,True,1.039,15,N/A,Marketing other line,,,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-029,545.56,535.52,10.04,True,1.019,15,N/A,Marketing other line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-002,514.15,471.65,42.5,True,1.09,15,N/A,Marketing other line,,,New Mexico,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-056,499.6,454.0,45.6,True,1.1,15,N/A,Marketing other line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-068,446.5,413.92,32.58,True,1.079,15,N/A,Marketing other line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-058,404.66,376.23,28.43,True,1.076,15,N/A,Marketing other line,18.0,0-30,South Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-081,376.83,360.24,16.59,True,1.046,15,N/A,Marketing other line,37.0,31-60,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-051,375.77,357.95,17.82,True,1.05,15,N/A,Marketing other line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-038,370.54,339.25,31.29,True,1.092,15,N/A,Marketing other line,7.0,0-30,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-010,346.92,332.92,14.0,True,1.042,15,N/A,Marketing other line,,,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-023,343.9,332.58,11.32,True,1.034,15,N/A,Marketing other line,34.0,31-60,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-004,334.34,319.84,14.5,True,1.045,15,N/A,Marketing other line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-011,329.57,314.59,14.98,True,1.048,15,N/A,Marketing other line,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-020,329.11,311.27,17.84,True,1.057,15,N/A,Marketing other line,12.0,0-30,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-026,324.14,315.75,8.39,True,1.027,15,N/A,Marketing other line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-066,317.35,295.62,21.73,True,1.073,15,N/A,Marketing other line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-028,314.94,307.3,7.64,True,1.025,15,N/A,Marketing other line,,,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-034,286.88,268.52,18.36,True,1.068,15,N/A,Marketing other line,,,Indiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-027,282.25,270.09,12.16,True,1.045,15,N/A,Marketing other line,,,Wyoming,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-043,260.64,247.72,12.92,True,1.052,15,N/A,Marketing other line,,,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-049,250.95,244.87,6.08,True,1.025,15,N/A,Marketing other line,32.0,31-60,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-009,234.05,211.56,22.49,True,1.106,15,N/A,Marketing other line,,,New Mexico,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-076,223.62,211.16,12.46,True,1.059,15,N/A,Marketing other line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-079,220.89,211.3,9.59,True,1.045,15,N/A,Marketing other line,0.0,0-30,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-050,220.13,217.95,2.18,True,1.01,15,N/A,Marketing other line,,,Oregon,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-057,219.8,202.43,17.37,True,1.086,15,N/A,Marketing other line,35.0,31-60,Missouri,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-073,215.65,205.85,9.8,True,1.048,15,N/A,Marketing other line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-059,214.96,207.5,7.46,True,1.036,15,N/A,Marketing other line,,,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-077,209.08,206.66,2.42,True,1.012,15,N/A,Marketing other line,,,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-014,187.22,185.37,1.85,True,1.01,15,N/A,Marketing other line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-016,186.4,175.88,10.52,True,1.06,15,N/A,Marketing other line,,,Kansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-052,184.37,181.45,2.92,True,1.016,15,N/A,Marketing other line,28.0,0-30,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-045,180.32,169.34,10.98,True,1.065,15,N/A,Marketing other line,31.0,31-60,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-064,180.01,169.64,10.37,True,1.061,15,N/A,Marketing other line,,,Alabama,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-053,176.13,157.09,19.04,True,1.121,15,N/A,Marketing other line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-007,170.43,155.82,14.61,True,1.094,15,N/A,Marketing other line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-003,163.61,149.78,13.83,True,1.092,15,N/A,Marketing other line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-039,158.49,151.78,6.71,True,1.044,15,N/A,Marketing other line,,,Indiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-030,157.83,149.16,8.67,True,1.058,15,N/A,Marketing other line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-047,145.22,141.83,3.39,True,1.024,15,N/A,Marketing other line,37.0,31-60,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-022,137.58,129.23,8.35,True,1.065,15,N/A,Marketing other line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-036,135.19,126.42,8.77,True,1.069,15,N/A,Marketing other line,8.0,0-30,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-044,135.13,133.79,1.34,True,1.01,15,N/A,Marketing other line,13.0,0-30,Missouri,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-024,127.94,118.32,9.62,True,1.081,15,N/A,Marketing other line,,,New Mexico,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-006,112.18,101.3,10.88,True,1.107,15,N/A,Marketing other line,,,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-035,110.42,105.77,4.65,True,1.044,15,N/A,Marketing other line,9.0,0-30,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-075,90.51,84.57,5.94,True,1.07,15,N/A,Marketing other line,,,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,OfficeDepot,E-202507-OT-005,86.73,85.87,0.86,True,1.01,15,N/A,Marketing other line,,,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-042,68.97,64.95,4.02,True,1.062,15,N/A,Marketing other line,,,Pennsylvania,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-061,64.32,61.63,2.69,True,1.044,15,N/A,Marketing other line,4.0,0-30,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-018,62.87,60.76,2.11,True,1.035,15,N/A,Marketing other line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,Staples,E-202507-OT-019,62.57,61.92,0.65,True,1.01,15,N/A,Marketing other line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-060,54.46,51.96,2.5,True,1.048,15,N/A,Marketing other line,16.0,0-30,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,WeWork,E-202507-OT-074,52.44,48.65,3.79,True,1.078,15,N/A,Marketing other line,42.0,31-60,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,UPS,E-202507-OT-021,36.36,33.97,2.39,True,1.07,15,N/A,Marketing other line,,,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-046,34.88,33.49,1.39,True,1.041,15,N/A,Marketing other line,7.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-072,19.15,18.09,1.06,True,1.058,15,N/A,Marketing other line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-040,13.52,13.03,0.49,True,1.038,15,N/A,Marketing other line,11.0,0-30,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,FedEx,E-202507-OT-054,8.79,8.15,0.64,True,1.079,15,N/A,Marketing other line,0.0,0-30,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,other,Other,LegalCo,E-202507-OT-070,2.36,2.26,0.1,True,1.045,15,N/A,Marketing other line,,,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-013,6482.27,6085.64,396.63,True,1.065,15,SEO,Marketing payroll line,0.0,0-30,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-040,4880.32,4576.95,303.37,True,1.066,15,Events,Marketing payroll line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-067,4294.51,3964.78,329.73,True,1.083,15,SEO,Marketing payroll line,24.0,0-30,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-028,4221.81,3987.43,234.38,True,1.059,15,SEO,Marketing payroll line,,,Nevada,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-053,4113.79,3834.03,279.76,True,1.073,15,Content,Marketing payroll line,0.0,0-30,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-011,3864.84,3643.53,221.31,True,1.061,15,Content,Marketing payroll line,,,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-020,3855.69,3665.57,190.12,True,1.052,15,Events,Marketing payroll line,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-027,3474.02,3244.73,229.29,True,1.071,15,Events,Marketing payroll line,20.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-022,3136.19,2882.87,253.32,True,1.088,15,Brand,Marketing payroll line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-008,2986.97,2770.33,216.64,True,1.078,15,Brand,Marketing payroll line,,,Delaware,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-019,2701.36,2674.61,26.75,True,1.01,15,Brand,Marketing payroll line,,,Indiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-032,2662.35,2563.68,98.67,True,1.038,15,SEO,Marketing payroll line,,,North Dakota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-048,2594.59,2558.02,36.57,True,1.014,15,Content,Marketing payroll line,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-016,2530.0,2344.37,185.63,True,1.079,15,SEO,Marketing payroll line,25.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-010,2297.89,2209.64,88.25,True,1.04,15,Content,Marketing payroll line,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-003,2194.42,2153.8,40.62,True,1.019,15,Brand,Marketing payroll line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-001,2136.29,1978.09,158.2,True,1.08,15,Events,Marketing payroll line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-026,2115.89,2021.83,94.06,True,1.047,15,SEO,Marketing payroll line,,,Alaska,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-063,2102.55,2081.73,20.82,True,1.01,15,Events,Marketing payroll line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-004,1967.58,1807.98,159.6,True,1.088,15,SEO,Marketing payroll line,0.0,0-30,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-042,1949.89,1884.72,65.17,True,1.035,15,Growth,Marketing payroll line,,,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-030,1665.46,1558.55,106.91,True,1.069,15,Brand,Marketing payroll line,,,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-065,1491.9,1424.57,67.33,True,1.047,15,SEO,Marketing payroll line,,,Pennsylvania,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-023,1429.55,1360.74,68.81,True,1.051,15,Growth,Marketing payroll line,,,South Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-051,1231.87,1148.33,83.54,True,1.073,15,Content,Marketing payroll line,,,Indiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-021,1210.72,1125.54,85.18,True,1.076,15,SEO,Marketing payroll line,20.0,0-30,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-060,1114.06,1075.15,38.91,True,1.036,15,Events,Marketing payroll line,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-007,1055.71,971.97,83.74,True,1.086,15,Events,Marketing payroll line,18.0,0-30,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-050,998.2,957.43,40.77,True,1.043,15,Brand,Marketing payroll line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-018,983.21,968.66,14.55,True,1.015,15,Growth,Marketing payroll line,10.0,0-30,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-017,979.6,931.06,48.54,True,1.052,15,Content,Marketing payroll line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-054,788.94,781.13,7.81,True,1.01,15,Events,Marketing payroll line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-031,783.37,755.49,27.88,True,1.037,15,Events,Marketing payroll line,15.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-057,763.76,714.88,48.88,True,1.068,15,Events,Marketing payroll line,37.0,31-60,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-038,757.08,718.55,38.53,True,1.054,15,Growth,Marketing payroll line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-024,736.34,729.05,7.29,True,1.01,15,Content,Marketing payroll line,5.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-044,700.05,641.82,58.23,True,1.091,15,SEO,Marketing payroll line,,,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-037,662.08,655.52,6.56,True,1.01,15,Growth,Marketing payroll line,,,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-005,656.8,648.67,8.13,True,1.013,15,SEO,Marketing payroll line,,,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-012,588.53,572.86,15.67,True,1.027,15,SEO,Marketing payroll line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-062,579.27,544.92,34.35,True,1.063,15,SEO,Marketing payroll line,,,Oregon,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-049,547.43,528.43,19.0,True,1.036,15,Brand,Marketing payroll line,,,Maine,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-035,520.18,497.3,22.88,True,1.046,15,Events,Marketing payroll line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-059,494.74,445.6,49.14,True,1.11,15,Growth,Marketing payroll line,24.0,0-30,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-009,490.44,458.56,31.88,True,1.07,15,SEO,Marketing payroll line,33.0,31-60,Kansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-041,468.2,421.49,46.71,True,1.111,15,Growth,Marketing payroll line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-029,460.91,433.67,27.24,True,1.063,15,Growth,Marketing payroll line,,,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-025,386.94,374.8,12.14,True,1.032,15,Content,Marketing payroll line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-068,386.6,370.6,16.0,True,1.043,15,Events,Marketing payroll line,34.0,31-60,Connecticut,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-069,381.49,352.33,29.16,True,1.083,15,Events,Marketing payroll line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-006,352.77,339.74,13.03,True,1.038,15,SEO,Marketing payroll line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-033,324.72,314.47,10.25,True,1.033,15,Growth,Marketing payroll line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-043,310.7,288.02,22.68,True,1.079,15,Events,Marketing payroll line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-052,268.96,256.77,12.19,True,1.047,15,Brand,Marketing payroll line,9.0,0-30,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-056,170.67,157.78,12.89,True,1.082,15,Growth,Marketing payroll line,,,Oregon,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-058,167.92,162.68,5.24,True,1.032,15,Brand,Marketing payroll line,,,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-039,167.72,157.09,10.63,True,1.068,15,Content,Marketing payroll line,22.0,0-30,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-046,165.67,164.03,1.64,True,1.01,15,SEO,Marketing payroll line,31.0,31-60,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-045,134.31,132.64,1.67,True,1.013,15,Content,Marketing payroll line,4.0,0-30,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-055,114.32,106.69,7.63,True,1.071,15,Events,Marketing payroll line,0.0,0-30,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-036,110.74,106.27,4.47,True,1.042,15,Growth,Marketing payroll line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-064,108.0,106.93,1.07,True,1.01,15,Events,Marketing payroll line,20.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-014,91.53,90.62,0.91,True,1.01,15,Events,Marketing payroll line,30.0,0-30,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-034,88.32,87.45,0.87,True,1.01,15,Growth,Marketing payroll line,,,Wyoming,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-066,69.41,66.11,3.3,True,1.05,15,Growth,Marketing payroll line,38.0,31-60,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-061,63.25,61.09,2.16,True,1.035,15,Events,Marketing payroll line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Workday,E-202507-PA-015,54.5,49.25,5.25,True,1.107,15,SEO,Marketing payroll line,,,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-002,48.57,45.4,3.17,True,1.07,15,Events,Marketing payroll line,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-047,16.22,15.98,0.24,True,1.015,15,Content,Marketing payroll line,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-056,1640.19,1465.44,174.75,True,1.119,15,N/A,Marketing software line,27.0,0-30,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-016,1240.74,1181.5,59.24,True,1.05,15,N/A,Marketing software line,50.0,31-60,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-151,1181.59,1082.56,99.03,True,1.091,15,N/A,Marketing software line,22.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-082,1121.16,1082.34,38.82,True,1.036,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-136,1076.21,985.5,90.71,True,1.092,15,N/A,Marketing software line,17.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-025,971.6,961.98,9.62,True,1.01,15,N/A,Marketing software line,,,Nevada,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-050,965.47,882.35,83.12,True,1.094,15,N/A,Marketing software line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-090,935.9,908.42,27.48,True,1.03,15,N/A,Marketing software line,0.0,0-30,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-095,934.85,925.59,9.26,True,1.01,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-125,898.24,870.28,27.96,True,1.032,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-093,885.85,845.24,40.61,True,1.048,15,N/A,Marketing software line,10.0,0-30,Nebraska,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-011,841.46,808.29,33.17,True,1.041,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-100,804.02,744.0,60.02,True,1.081,15,N/A,Marketing software line,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-033,765.43,733.23,32.2,True,1.044,15,N/A,Marketing software line,,,Nevada,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-005,760.35,738.43,21.92,True,1.03,15,N/A,Marketing software line,,,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-028,695.32,641.46,53.86,True,1.084,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-012,686.66,619.15,67.51,True,1.109,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-062,683.32,645.7,37.62,True,1.058,15,N/A,Marketing software line,0.0,0-30,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-109,663.88,646.53,17.35,True,1.027,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-150,648.79,629.6,19.19,True,1.03,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-131,645.91,580.49,65.42,True,1.113,15,N/A,Marketing software line,29.0,0-30,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-032,643.86,600.32,43.54,True,1.073,15,N/A,Marketing software line,,,Indiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-157,628.22,562.38,65.84,True,1.117,15,N/A,Marketing software line,,,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-002,627.65,611.19,16.46,True,1.027,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-154,627.5,590.42,37.08,True,1.063,15,N/A,Marketing software line,,,Louisiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-070,624.49,599.2,25.29,True,1.042,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-048,606.74,588.95,17.79,True,1.03,15,N/A,Marketing software line,49.0,31-60,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-063,583.32,556.36,26.96,True,1.048,15,N/A,Marketing software line,,,Connecticut,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-017,581.37,511.34,70.03,True,1.137,15,N/A,Marketing software line,13.0,0-30,South Dakota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-051,579.74,551.41,28.33,True,1.051,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-069,574.98,538.82,36.16,True,1.067,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-061,568.63,531.42,37.21,True,1.07,15,N/A,Marketing software line,35.0,31-60,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-159,532.46,513.3,19.16,True,1.037,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-162,522.51,510.82,11.69,True,1.023,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-042,508.43,493.9,14.53,True,1.029,15,N/A,Marketing software line,29.0,0-30,Vermont,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-088,486.36,454.4,31.96,True,1.07,15,N/A,Marketing software line,,,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-122,471.25,462.62,8.63,True,1.019,15,N/A,Marketing software line,14.0,0-30,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-091,439.02,409.89,29.13,True,1.071,15,N/A,Marketing software line,38.0,31-60,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-064,435.06,430.75,4.31,True,1.01,15,N/A,Marketing software line,29.0,0-30,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-075,430.72,426.46,4.26,True,1.01,15,N/A,Marketing software line,28.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-142,424.89,415.87,9.02,True,1.022,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-121,421.25,380.14,41.11,True,1.108,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-176,420.01,415.85,4.16,True,1.01,15,N/A,Marketing software line,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-060,414.13,410.03,4.1,True,1.01,15,N/A,Marketing software line,4.0,0-30,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-058,399.47,369.56,29.91,True,1.081,15,N/A,Marketing software line,,,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-087,397.73,363.91,33.82,True,1.093,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-031,387.15,358.79,28.36,True,1.079,15,N/A,Marketing software line,,,Delaware,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-015,376.69,366.48,10.21,True,1.028,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-040,371.82,341.94,29.88,True,1.087,15,N/A,Marketing software line,18.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-080,369.7,343.96,25.74,True,1.075,15,N/A,Marketing software line,,,Delaware,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-129,353.86,339.05,14.81,True,1.044,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-001,342.99,333.31,9.68,True,1.029,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-077,341.9,324.1,17.8,True,1.055,15,N/A,Marketing software line,,,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-160,328.04,299.24,28.8,True,1.096,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-138,324.37,302.47,21.9,True,1.072,15,N/A,Marketing software line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-071,320.81,300.75,20.06,True,1.067,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-111,318.82,287.1,31.72,True,1.11,15,N/A,Marketing software line,5.0,0-30,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-027,318.6,304.34,14.26,True,1.047,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-175,315.95,305.08,10.87,True,1.036,15,N/A,Marketing software line,7.0,0-30,Nebraska,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-020,315.43,299.61,15.82,True,1.053,15,N/A,Marketing software line,,,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-098,306.94,296.37,10.57,True,1.036,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-110,306.49,283.49,23.0,True,1.081,15,N/A,Marketing software line,30.0,0-30,Wisconsin,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-024,304.63,280.08,24.55,True,1.088,15,N/A,Marketing software line,37.0,31-60,Hawaii,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-055,302.82,285.38,17.44,True,1.061,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-073,301.66,275.68,25.98,True,1.094,15,N/A,Marketing software line,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-108,296.66,281.73,14.93,True,1.053,15,N/A,Marketing software line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-174,288.45,267.79,20.66,True,1.077,15,N/A,Marketing software line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-133,286.71,265.8,20.91,True,1.079,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-161,286.39,273.67,12.72,True,1.046,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-156,285.86,272.95,12.91,True,1.047,15,N/A,Marketing software line,33.0,31-60,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-113,275.81,253.62,22.19,True,1.087,15,N/A,Marketing software line,21.0,0-30,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-044,273.07,256.38,16.69,True,1.065,15,N/A,Marketing software line,,,Arkansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-130,268.04,262.82,5.22,True,1.02,15,N/A,Marketing software line,38.0,31-60,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-089,266.34,238.87,27.47,True,1.115,15,N/A,Marketing software line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-145,262.43,251.94,10.49,True,1.042,15,N/A,Marketing software line,8.0,0-30,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-004,247.19,225.24,21.95,True,1.097,15,N/A,Marketing software line,35.0,31-60,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-066,226.74,214.61,12.13,True,1.057,15,N/A,Marketing software line,26.0,0-30,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-114,222.36,206.38,15.98,True,1.077,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-037,221.06,204.3,16.76,True,1.082,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-021,218.0,207.4,10.6,True,1.051,15,N/A,Marketing software line,18.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-086,213.42,205.48,7.94,True,1.039,15,N/A,Marketing software line,,,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-152,205.49,196.74,8.75,True,1.044,15,N/A,Marketing software line,39.0,31-60,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-127,200.79,189.42,11.37,True,1.06,15,N/A,Marketing software line,,,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-019,193.28,188.87,4.41,True,1.023,15,N/A,Marketing software line,0.0,0-30,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-083,190.28,187.2,3.08,True,1.016,15,N/A,Marketing software line,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-135,184.71,181.96,2.75,True,1.015,15,N/A,Marketing software line,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-128,184.18,168.81,15.37,True,1.091,15,N/A,Marketing software line,21.0,0-30,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-148,180.19,175.68,4.51,True,1.026,15,N/A,Marketing software line,42.0,31-60,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-147,176.49,170.46,6.03,True,1.035,15,N/A,Marketing software line,3.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-047,175.3,170.31,4.99,True,1.029,15,N/A,Marketing software line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-172,174.38,165.47,8.91,True,1.054,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-112,172.51,169.76,2.75,True,1.016,15,N/A,Marketing software line,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-169,166.74,158.01,8.73,True,1.055,15,N/A,Marketing software line,,,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-008,165.13,159.14,5.99,True,1.038,15,N/A,Marketing software line,,,Louisiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-013,164.85,163.22,1.63,True,1.01,15,N/A,Marketing software line,14.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-097,158.67,146.9,11.77,True,1.08,15,N/A,Marketing software line,25.0,0-30,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-139,157.66,152.25,5.41,True,1.036,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-137,156.56,145.93,10.63,True,1.073,15,N/A,Marketing software line,18.0,0-30,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-171,156.52,144.09,12.43,True,1.086,15,N/A,Marketing software line,,,Pennsylvania,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-030,154.45,148.04,6.41,True,1.043,15,N/A,Marketing software line,10.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-155,147.83,139.7,8.13,True,1.058,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-007,147.01,138.06,8.95,True,1.065,15,N/A,Marketing software line,,,New Mexico,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-101,142.89,133.32,9.57,True,1.072,15,N/A,Marketing software line,,,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-018,142.17,136.41,5.76,True,1.042,15,N/A,Marketing software line,23.0,0-30,Oregon,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-006,141.84,128.09,13.75,True,1.107,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-068,133.94,128.51,5.43,True,1.042,15,N/A,Marketing software line,0.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-067,128.27,125.4,2.87,True,1.023,15,N/A,Marketing software line,,,Pennsylvania,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-119,126.7,116.09,10.61,True,1.091,15,N/A,Marketing software line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-078,122.94,119.89,3.05,True,1.025,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-039,122.44,116.31,6.13,True,1.053,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-134,120.91,119.71,1.2,True,1.01,15,N/A,Marketing software line,0.0,0-30,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-158,118.9,116.02,2.88,True,1.025,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-146,118.06,116.89,1.17,True,1.01,15,N/A,Marketing software line,30.0,0-30,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-094,116.77,109.21,7.56,True,1.069,15,N/A,Marketing software line,3.0,0-30,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-153,113.64,111.07,2.57,True,1.023,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-167,113.53,103.93,9.6,True,1.092,15,N/A,Marketing software line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-106,106.69,100.53,6.16,True,1.061,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-170,105.25,97.35,7.9,True,1.081,15,N/A,Marketing software line,29.0,0-30,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-164,101.1,97.1,4.0,True,1.041,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-023,99.95,89.22,10.73,True,1.12,15,N/A,Marketing software line,25.0,0-30,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-034,98.6,95.4,3.2,True,1.034,15,N/A,Marketing software line,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-107,97.41,92.59,4.82,True,1.052,15,N/A,Marketing software line,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-046,96.45,90.0,6.45,True,1.072,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-084,96.27,89.53,6.74,True,1.075,15,N/A,Marketing software line,50.0,31-60,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-057,96.14,89.9,6.24,True,1.069,15,N/A,Marketing software line,1.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-036,95.67,93.79,1.88,True,1.02,15,N/A,Marketing software line,,,Hawaii,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-022,92.9,84.58,8.32,True,1.098,15,N/A,Marketing software line,22.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-014,90.23,82.72,7.51,True,1.091,15,N/A,Marketing software line,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-096,85.83,80.96,4.87,True,1.06,15,N/A,Marketing software line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-126,84.77,82.23,2.54,True,1.031,15,N/A,Marketing software line,,,Louisiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-166,82.07,79.55,2.52,True,1.032,15,N/A,Marketing software line,15.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-074,78.61,77.83,0.78,True,1.01,15,N/A,Marketing software line,,,Hawaii,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-116,78.25,73.1,5.15,True,1.07,15,N/A,Marketing software line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-038,76.85,71.25,5.6,True,1.079,15,N/A,Marketing software line,,,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-173,76.35,73.03,3.32,True,1.045,15,N/A,Marketing software line,,,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-072,75.59,72.34,3.25,True,1.045,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-102,71.76,64.36,7.4,True,1.115,15,N/A,Marketing software line,21.0,0-30,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-168,69.4,68.71,0.69,True,1.01,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-117,66.9,64.84,2.06,True,1.032,15,N/A,Marketing software line,,,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-177,66.69,63.56,3.13,True,1.049,15,N/A,Marketing software line,,,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-049,62.08,57.41,4.67,True,1.081,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-165,61.22,58.39,2.83,True,1.048,15,N/A,Marketing software line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-144,57.76,54.21,3.55,True,1.066,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-140,57.67,56.7,0.97,True,1.017,15,N/A,Marketing software line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-076,56.74,52.78,3.96,True,1.075,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-009,55.89,54.12,1.77,True,1.033,15,N/A,Marketing software line,34.0,31-60,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-085,52.73,52.21,0.52,True,1.01,15,N/A,Marketing software line,,,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-026,52.11,51.34,0.77,True,1.015,15,N/A,Marketing software line,16.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-092,51.08,46.81,4.27,True,1.091,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-132,50.85,47.85,3.0,True,1.063,15,N/A,Marketing software line,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-054,49.68,48.55,1.13,True,1.023,15,N/A,Marketing software line,50.0,31-60,Arkansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-010,46.58,45.58,1.0,True,1.022,15,N/A,Marketing software line,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-003,38.67,37.6,1.07,True,1.028,15,N/A,Marketing software line,,,Nevada,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-081,36.28,35.39,0.89,True,1.025,15,N/A,Marketing software line,8.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-123,28.75,27.47,1.28,True,1.047,15,N/A,Marketing software line,,,Nevada,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-079,27.41,24.39,3.02,True,1.124,15,N/A,Marketing software line,14.0,0-30,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-059,25.6,25.35,0.25,True,1.01,15,N/A,Marketing software line,40.0,31-60,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-143,25.24,23.44,1.8,True,1.077,15,N/A,Marketing software line,39.0,31-60,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-124,25.06,24.62,0.44,True,1.018,15,N/A,Marketing software line,20.0,0-30,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-065,23.45,22.51,0.94,True,1.042,15,N/A,Marketing software line,11.0,0-30,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-052,22.05,20.21,1.84,True,1.091,15,N/A,Marketing software line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-118,21.89,21.15,0.74,True,1.035,15,N/A,Marketing software line,,,Nebraska,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-035,20.68,20.04,0.64,True,1.032,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-099,18.3,17.01,1.29,True,1.076,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Atlassian,E-202507-SO-120,18.3,17.6,0.7,True,1.04,15,N/A,Marketing software line,,,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Figma,E-202507-SO-103,15.49,14.58,0.91,True,1.063,15,N/A,Marketing software line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Azure,E-202507-SO-045,15.47,14.61,0.86,True,1.059,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-115,15.06,14.38,0.68,True,1.048,15,N/A,Marketing software line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-105,8.12,7.89,0.23,True,1.029,15,N/A,Marketing software line,1.0,0-30,Wisconsin,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-104,7.08,6.77,0.31,True,1.046,15,N/A,Marketing software line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-149,6.77,6.7,0.07,True,1.01,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GitHub,E-202507-SO-043,5.7,5.46,0.24,True,1.044,15,N/A,Marketing software line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Salesforce,E-202507-SO-141,5.62,5.29,0.33,True,1.063,15,N/A,Marketing software line,11.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Datadog,E-202507-SO-041,4.95,4.8,0.15,True,1.032,15,N/A,Marketing software line,18.0,0-30,West Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,AWS,E-202507-SO-163,3.66,3.45,0.21,True,1.062,15,N/A,Marketing software line,39.0,31-60,Maine,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,Snowflake,E-202507-SO-029,3.44,3.2,0.24,True,1.074,15,N/A,Marketing software line,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,software,Software,GCP,E-202507-SO-053,2.39,2.2,0.19,True,1.086,15,N/A,Marketing software line,,,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-036,1916.42,1857.82,58.6,True,1.032,15,N/A,Marketing travel line,33.0,31-60,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-041,1809.32,1655.76,153.56,True,1.093,15,N/A,Marketing travel line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-060,1371.89,1258.35,113.54,True,1.09,15,N/A,Marketing travel line,,,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-042,1349.91,1335.9,14.01,True,1.01,15,N/A,Marketing travel line,15.0,0-30,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-064,1202.92,1157.68,45.24,True,1.039,15,N/A,Marketing travel line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-019,1170.69,1115.71,54.98,True,1.049,15,N/A,Marketing travel line,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-050,1045.1,984.89,60.21,True,1.061,15,N/A,Marketing travel line,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-076,974.13,922.5,51.63,True,1.056,15,N/A,Marketing travel line,30.0,0-30,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-035,973.13,920.62,52.51,True,1.057,15,N/A,Marketing travel line,31.0,31-60,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-016,945.66,882.84,62.82,True,1.071,15,N/A,Marketing travel line,,,New Hampshire,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-061,944.27,909.69,34.58,True,1.038,15,N/A,Marketing travel line,29.0,0-30,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-022,904.2,862.86,41.34,True,1.048,15,N/A,Marketing travel line,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-062,895.66,845.37,50.29,True,1.059,15,N/A,Marketing travel line,,,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-048,840.04,800.39,39.65,True,1.05,15,N/A,Marketing travel line,,,Pennsylvania,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-045,837.46,816.57,20.89,True,1.026,15,N/A,Marketing travel line,,,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-044,798.42,732.78,65.64,True,1.09,15,N/A,Marketing travel line,,,Wisconsin,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-074,785.43,759.1,26.33,True,1.035,15,N/A,Marketing travel line,,,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-034,751.56,729.61,21.95,True,1.03,15,N/A,Marketing travel line,21.0,0-30,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-011,726.3,685.67,40.63,True,1.059,15,N/A,Marketing travel line,20.0,0-30,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-027,631.15,575.32,55.83,True,1.097,15,N/A,Marketing travel line,21.0,0-30,South Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-077,617.02,603.15,13.87,True,1.023,15,N/A,Marketing travel line,,,Oregon,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-082,603.18,593.07,10.11,True,1.017,15,N/A,Marketing travel line,,,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-071,582.4,552.3,30.1,True,1.054,15,N/A,Marketing travel line,28.0,0-30,New Mexico,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-005,510.75,481.78,28.97,True,1.06,15,N/A,Marketing travel line,,,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-087,460.42,439.55,20.87,True,1.047,15,N/A,Marketing travel line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-078,456.24,434.97,21.27,True,1.049,15,N/A,Marketing travel line,,,Alaska,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-065,445.42,426.76,18.66,True,1.044,15,N/A,Marketing travel line,33.0,31-60,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-032,431.78,410.66,21.12,True,1.051,15,N/A,Marketing travel line,,,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-068,425.31,414.15,11.16,True,1.027,15,N/A,Marketing travel line,,,Indiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-051,398.57,389.53,9.04,True,1.023,15,N/A,Marketing travel line,,,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-010,326.67,321.94,4.73,True,1.015,15,N/A,Marketing travel line,,,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-039,321.88,302.47,19.41,True,1.064,15,N/A,Marketing travel line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-046,308.73,305.67,3.06,True,1.01,15,N/A,Marketing travel line,,,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-043,298.58,284.41,14.17,True,1.05,15,N/A,Marketing travel line,,,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-018,296.26,282.52,13.74,True,1.049,15,N/A,Marketing travel line,17.0,0-30,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-085,291.32,274.75,16.57,True,1.06,15,N/A,Marketing travel line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-026,268.57,258.65,9.92,True,1.038,15,N/A,Marketing travel line,,,South Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-052,268.13,247.58,20.55,True,1.083,15,N/A,Marketing travel line,17.0,0-30,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-008,263.74,252.65,11.09,True,1.044,15,N/A,Marketing travel line,,,South Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-023,261.37,254.28,7.09,True,1.028,15,N/A,Marketing travel line,,,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-015,245.66,236.04,9.62,True,1.041,15,N/A,Marketing travel line,,,Oklahoma,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-012,244.05,236.59,7.46,True,1.032,15,N/A,Marketing travel line,,,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-013,238.79,236.43,2.36,True,1.01,15,N/A,Marketing travel line,,,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-049,231.8,223.57,8.23,True,1.037,15,N/A,Marketing travel line,,,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-017,229.39,207.94,21.45,True,1.103,15,N/A,Marketing travel line,19.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-047,227.44,206.24,21.2,True,1.103,15,N/A,Marketing travel line,,,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-001,220.37,209.23,11.14,True,1.053,15,N/A,Marketing travel line,,,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-053,209.88,196.8,13.08,True,1.066,15,N/A,Marketing travel line,35.0,31-60,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-007,190.37,185.4,4.97,True,1.027,15,N/A,Marketing travel line,17.0,0-30,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-079,170.89,153.64,17.25,True,1.112,15,N/A,Marketing travel line,21.0,0-30,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-063,160.29,151.84,8.45,True,1.056,15,N/A,Marketing travel line,20.0,0-30,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-020,151.32,144.28,7.04,True,1.049,15,N/A,Marketing travel line,,,Alabama,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-054,137.72,130.99,6.73,True,1.051,15,N/A,Marketing travel line,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-075,127.1,120.48,6.62,True,1.055,15,N/A,Marketing travel line,,,Wisconsin,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-057,126.8,117.92,8.88,True,1.075,15,N/A,Marketing travel line,,,Kansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-009,117.97,112.0,5.97,True,1.053,15,N/A,Marketing travel line,18.0,0-30,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-067,98.27,92.65,5.62,True,1.061,15,N/A,Marketing travel line,,,South Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-038,93.12,92.2,0.92,True,1.01,15,N/A,Marketing travel line,,,Alabama,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-059,90.76,88.32,2.44,True,1.028,15,N/A,Marketing travel line,,,Louisiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-055,89.79,84.55,5.24,True,1.062,15,N/A,Marketing travel line,13.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-084,77.22,73.69,3.53,True,1.048,15,N/A,Marketing travel line,,,Oregon,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-002,74.4,71.89,2.51,True,1.035,15,N/A,Marketing travel line,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-089,71.77,67.81,3.96,True,1.058,15,N/A,Marketing travel line,10.0,0-30,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Uber,E-202507-TR-031,69.59,68.65,0.94,True,1.014,15,N/A,Marketing travel line,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-080,69.08,63.74,5.34,True,1.084,15,N/A,Marketing travel line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-069,69.07,67.54,1.53,True,1.023,15,N/A,Marketing travel line,,,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-014,59.35,56.57,2.78,True,1.049,15,N/A,Marketing travel line,34.0,31-60,Indiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-024,51.31,48.74,2.57,True,1.053,15,N/A,Marketing travel line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-070,47.51,43.94,3.57,True,1.081,15,N/A,Marketing travel line,27.0,0-30,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-004,45.02,41.57,3.45,True,1.083,15,N/A,Marketing travel line,,,North Carolina,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-083,39.84,37.52,2.32,True,1.062,15,N/A,Marketing travel line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-030,38.84,36.78,2.06,True,1.056,15,N/A,Marketing travel line,15.0,0-30,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-025,31.96,31.41,0.55,True,1.018,15,N/A,Marketing travel line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-081,31.51,29.4,2.11,True,1.072,15,N/A,Marketing travel line,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-029,31.01,29.78,1.23,True,1.041,15,N/A,Marketing travel line,21.0,0-30,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-090,30.24,29.94,0.3,True,1.01,15,N/A,Marketing travel line,,,Kansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-040,27.6,27.0,0.6,True,1.022,15,N/A,Marketing travel line,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-088,26.4,25.01,1.39,True,1.055,15,N/A,Marketing travel line,33.0,31-60,Maine,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-033,21.4,20.0,1.4,True,1.07,15,N/A,Marketing travel line,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-066,18.78,17.46,1.32,True,1.075,15,N/A,Marketing travel line,13.0,0-30,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-021,17.67,17.5,0.17,True,1.01,15,N/A,Marketing travel line,8.0,0-30,Wyoming,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-086,16.08,15.0,1.08,True,1.072,15,N/A,Marketing travel line,32.0,31-60,Utah,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Delta,E-202507-TR-073,14.67,13.1,1.57,True,1.12,15,N/A,Marketing travel line,,,Illinois,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Marriott,E-202507-TR-028,12.39,11.43,0.96,True,1.084,15,N/A,Marketing travel line,,,Maine,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,United,E-202507-TR-058,7.5,6.91,0.59,True,1.085,15,N/A,Marketing travel line,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-056,4.27,3.95,0.32,True,1.082,15,N/A,Marketing travel line,2.0,0-30,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Hilton,E-202507-TR-037,3.87,3.74,0.13,True,1.034,15,N/A,Marketing travel line,,,Connecticut,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Amex,E-202507-TR-072,2.28,2.12,0.16,True,1.073,15,N/A,Marketing travel line,22.0,0-30,Alabama,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Lyft,E-202507-TR-006,0.74,0.68,0.06,True,1.09,15,N/A,Marketing travel line,0.0,0-30,Delaware,210039.2,-2211130.3878000006
+2025-07-01,Marketing,expense,N/A,travel,Travel,Southwest,E-202507-TR-003,0.45,0.44,0.01,True,1.012,15,N/A,Marketing travel line,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 321,R-202507-SU-007,136740.28,,,,,15,N/A,Allocated influenced revenue,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 338,R-202507-SU-002,102354.06,,,,,15,N/A,Allocated influenced revenue,,,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 310,R-202507-SU-001,95820.57,,,,,15,N/A,Allocated influenced revenue,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 389,R-202507-SU-022,79919.02,,,,,15,N/A,Allocated influenced revenue,,,New Mexico,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 273,R-202507-SU-012,70275.95,,,,,15,N/A,Allocated influenced revenue,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 060,R-202507-SU-005,63724.99,,,,,15,N/A,Allocated influenced revenue,,,Colorado,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 324,R-202507-SU-006,60023.31,,,,,15,N/A,Allocated influenced revenue,,,Maine,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 028,R-202507-SU-041,57959.77,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 345,R-202507-SU-040,55515.79,,,,,15,N/A,Allocated influenced revenue,,,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 140,R-202507-SU-023,53859.66,,,,,15,N/A,Allocated influenced revenue,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 095,R-202507-SU-031,53670.7,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 243,R-202507-SU-014,51378.22,,,,,15,N/A,Allocated influenced revenue,,,Oregon,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 066,R-202507-SU-011,49658.26,,,,,15,N/A,Allocated influenced revenue,,,Arkansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 033,R-202507-SU-020,49547.84,,,,,15,N/A,Allocated influenced revenue,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 357,R-202507-SU-042,47691.08,,,,,15,N/A,Allocated influenced revenue,,,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 321,R-202507-SU-009,43358.71,,,,,15,N/A,Allocated influenced revenue,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 011,R-202507-SU-018,37351.76,,,,,15,N/A,Allocated influenced revenue,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 184,R-202507-SU-038,35430.82,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 230,R-202507-SU-032,30782.07,,,,,15,N/A,Allocated influenced revenue,,,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 065,R-202507-SU-029,27337.93,,,,,15,N/A,Allocated influenced revenue,,,Iowa,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 226,R-202507-SU-024,27229.43,,,,,15,N/A,Allocated influenced revenue,,,Arizona,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 155,R-202507-SU-035,27111.18,,,,,15,N/A,Allocated influenced revenue,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 384,R-202507-AD-028,23152.08,,,,,15,N/A,Allocated influenced revenue,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 129,R-202507-SU-034,19466.51,,,,,15,N/A,Allocated influenced revenue,,,Maine,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 193,R-202507-SU-026,18935.76,,,,,15,N/A,Allocated influenced revenue,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 338,R-202507-SU-025,18249.49,,,,,15,N/A,Allocated influenced revenue,,,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 104,R-202507-SU-019,17354.35,,,,,15,N/A,Allocated influenced revenue,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 316,R-202507-SU-030,16892.28,,,,,15,N/A,Allocated influenced revenue,,,Mississippi,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 201,R-202507-SU-013,15033.78,,,,,15,N/A,Allocated influenced revenue,,,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 019,R-202507-SU-036,13357.26,,,,,15,N/A,Allocated influenced revenue,,,Hawaii,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 138,R-202507-SU-017,13139.12,,,,,15,N/A,Allocated influenced revenue,,,Alabama,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 072,R-202507-SU-037,12754.64,,,,,15,N/A,Allocated influenced revenue,,,New Mexico,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 002,R-202507-SU-039,12028.35,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 157,R-202507-SU-003,12000.79,,,,,15,N/A,Allocated influenced revenue,,,Virginia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 228,R-202507-AD-021,11409.98,,,,,15,N/A,Allocated influenced revenue,,,Kansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 311,R-202507-SU-033,10430.63,,,,,15,N/A,Allocated influenced revenue,,,Missouri,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 338,R-202507-AD-043,9863.64,,,,,15,N/A,Allocated influenced revenue,,,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 114,R-202507-SU-021,9049.71,,,,,15,N/A,Allocated influenced revenue,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 039,R-202507-AD-001,8350.49,,,,,15,N/A,Allocated influenced revenue,,,Kentucky,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 064,R-202507-AD-008,8066.58,,,,,15,N/A,Allocated influenced revenue,,,Ohio,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 070,R-202507-SU-028,7483.01,,,,,15,N/A,Allocated influenced revenue,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 268,R-202507-SU-015,6715.45,,,,,15,N/A,Allocated influenced revenue,,,Vermont,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 230,R-202507-AD-009,6694.02,,,,,15,N/A,Allocated influenced revenue,,,Rhode Island,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 323,R-202507-AD-025,6638.94,,,,,15,N/A,Allocated influenced revenue,,,Idaho,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 075,R-202507-AD-042,6515.12,,,,,15,N/A,Allocated influenced revenue,,,Michigan,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 207,R-202507-AD-034,6331.95,,,,,15,N/A,Allocated influenced revenue,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 287,R-202507-AD-023,6162.63,,,,,15,N/A,Allocated influenced revenue,,,Kansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 005,R-202507-AD-026,6046.48,,,,,15,N/A,Allocated influenced revenue,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 317,R-202507-AD-030,5886.01,,,,,15,N/A,Allocated influenced revenue,,,Georgia,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 265,R-202507-AD-012,4885.03,,,,,15,N/A,Allocated influenced revenue,,,Indiana,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 194,R-202507-AD-010,4407.53,,,,,15,N/A,Allocated influenced revenue,,,Nevada,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 333,R-202507-SU-016,4023.57,,,,,15,N/A,Allocated influenced revenue,,,Connecticut,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 054,R-202507-AD-018,3846.04,,,,,15,N/A,Allocated influenced revenue,,,New Hampshire,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 258,R-202507-SU-004,3827.12,,,,,15,N/A,Allocated influenced revenue,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 295,R-202507-AD-005,3821.47,,,,,15,N/A,Allocated influenced revenue,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 031,R-202507-AD-032,3688.07,,,,,15,N/A,Allocated influenced revenue,,,Hawaii,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 191,R-202507-AD-017,3361.59,,,,,15,N/A,Allocated influenced revenue,,,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 147,R-202507-AD-036,3272.56,,,,,15,N/A,Allocated influenced revenue,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 156,R-202507-AD-022,3204.8,,,,,15,N/A,Allocated influenced revenue,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 352,R-202507-SU-027,3161.96,,,,,15,N/A,Allocated influenced revenue,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 118,R-202507-SU-008,3119.15,,,,,15,N/A,Allocated influenced revenue,,,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 222,R-202507-SU-043,3066.59,,,,,15,N/A,Allocated influenced revenue,,,Pennsylvania,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Subscriptions,revenue,Subscriptions,Customer 024,R-202507-SU-010,2892.98,,,,,15,N/A,Allocated influenced revenue,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 156,R-202507-AD-038,2653.87,,,,,15,N/A,Allocated influenced revenue,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 090,R-202507-AD-029,2592.73,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 373,R-202507-AD-007,2526.96,,,,,15,N/A,Allocated influenced revenue,,,Tennessee,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 206,R-202507-AD-040,2258.96,,,,,15,N/A,Allocated influenced revenue,,,New York,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 089,R-202507-AD-037,2139.02,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 092,R-202507-AD-035,1847.91,,,,,15,N/A,Allocated influenced revenue,,,Minnesota,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 241,R-202507-AD-039,1775.3,,,,,15,N/A,Allocated influenced revenue,,,Florida,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 129,R-202507-AD-013,1769.53,,,,,15,N/A,Allocated influenced revenue,,,Maine,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 251,R-202507-AD-006,1703.82,,,,,15,N/A,Allocated influenced revenue,,,Massachusetts,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 389,R-202507-AD-015,1602.42,,,,,15,N/A,Allocated influenced revenue,,,New Mexico,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 318,R-202507-AD-024,1414.15,,,,,15,N/A,Allocated influenced revenue,,,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 296,R-202507-AD-004,1214.2,,,,,15,N/A,Allocated influenced revenue,,,New Jersey,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 318,R-202507-AD-019,1164.15,,,,,15,N/A,Allocated influenced revenue,,,Maryland,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 343,R-202507-AD-033,1101.13,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 380,R-202507-AD-031,1023.54,,,,,15,N/A,Allocated influenced revenue,,,Kansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 046,R-202507-AD-003,719.44,,,,,15,N/A,Allocated influenced revenue,,,Texas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 334,R-202507-AD-011,640.57,,,,,15,N/A,Allocated influenced revenue,,,Washington,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 128,R-202507-AD-002,522.08,,,,,15,N/A,Allocated influenced revenue,,,New Hampshire,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 010,R-202507-AD-014,484.69,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 123,R-202507-AD-027,395.65,,,,,15,N/A,Allocated influenced revenue,,,Arkansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 135,R-202507-AD-016,270.59,,,,,15,N/A,Allocated influenced revenue,,,California,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 066,R-202507-AD-020,178.83,,,,,15,N/A,Allocated influenced revenue,,,Arkansas,210039.2,-2211130.3878000006
+2025-07-01,Marketing,revenue,Add-ons,revenue,Add-ons,Customer 120,R-202507-AD-041,110.83,,,,,15,N/A,Allocated influenced revenue,,,Washington,210039.2,-2211130.3878000006
