@@ -1,0 +1,392 @@
+month,department,line_type,product_line,category,subcategory,counterparty,invoice_id,amount,budget,variance,is_over_budget,spend_to_budget_ratio,headcount,role,notes,days_past_due,aging_bucket,state,dept_total_opex,company_ebitda
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-029,522.19,502.02,20.17,True,1.04,4,N/A,Finance other line,23.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-020,510.74,487.2,23.54,True,1.048,4,N/A,Finance other line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-006,499.5,485.41,14.09,True,1.029,4,N/A,Finance other line,9.0,0-30,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-039,475.79,462.71,13.08,True,1.028,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-036,475.5,432.16,43.34,True,1.1,4,N/A,Finance other line,21.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-055,390.53,362.95,27.58,True,1.076,4,N/A,Finance other line,,,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-085,378.81,375.06,3.75,True,1.01,4,N/A,Finance other line,28.0,0-30,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-022,359.96,347.23,12.73,True,1.037,4,N/A,Finance other line,25.0,0-30,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-071,340.26,327.28,12.98,True,1.04,4,N/A,Finance other line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-038,335.47,316.64,18.83,True,1.059,4,N/A,Finance other line,,,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-046,334.58,316.8,17.78,True,1.056,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-105,323.14,301.24,21.9,True,1.073,4,N/A,Finance other line,28.0,0-30,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-065,318.04,302.72,15.32,True,1.051,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-047,280.28,267.43,12.85,True,1.048,4,N/A,Finance other line,11.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-044,262.1,259.5,2.6,True,1.01,4,N/A,Finance other line,18.0,0-30,Wyoming,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-067,259.34,243.06,16.28,True,1.067,4,N/A,Finance other line,,,Oregon,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-095,256.63,240.89,15.74,True,1.065,4,N/A,Finance other line,,,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-019,229.9,216.97,12.93,True,1.06,4,N/A,Finance other line,0.0,0-30,New Mexico,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-027,207.51,199.14,8.37,True,1.042,4,N/A,Finance other line,,,Colorado,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-049,206.79,197.96,8.83,True,1.045,4,N/A,Finance other line,27.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-084,201.98,198.93,3.05,True,1.015,4,N/A,Finance other line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-054,199.05,185.48,13.57,True,1.073,4,N/A,Finance other line,,,Oregon,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-098,198.43,192.79,5.64,True,1.029,4,N/A,Finance other line,16.0,0-30,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-040,188.8,175.44,13.36,True,1.076,4,N/A,Finance other line,,,Arizona,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-012,188.73,177.11,11.62,True,1.066,4,N/A,Finance other line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-016,184.37,176.48,7.89,True,1.045,4,N/A,Finance other line,21.0,0-30,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-100,179.98,174.6,5.38,True,1.031,4,N/A,Finance other line,,,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-066,177.8,165.79,12.01,True,1.072,4,N/A,Finance other line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-069,173.48,171.1,2.38,True,1.014,4,N/A,Finance other line,,,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-014,170.65,161.13,9.52,True,1.059,4,N/A,Finance other line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-081,168.39,161.4,6.99,True,1.043,4,N/A,Finance other line,,,Alabama,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-076,168.33,166.66,1.67,True,1.01,4,N/A,Finance other line,,,Colorado,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-031,163.25,154.66,8.59,True,1.056,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-106,163.07,156.08,6.99,True,1.045,4,N/A,Finance other line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-102,146.06,144.31,1.75,True,1.012,4,N/A,Finance other line,,,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-107,144.24,137.34,6.9,True,1.05,4,N/A,Finance other line,,,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-101,138.57,129.85,8.72,True,1.067,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-109,137.03,127.1,9.93,True,1.078,4,N/A,Finance other line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-060,132.4,128.91,3.49,True,1.027,4,N/A,Finance other line,4.0,0-30,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-045,127.58,118.27,9.31,True,1.079,4,N/A,Finance other line,54.0,31-60,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-052,123.79,113.66,10.13,True,1.089,4,N/A,Finance other line,0.0,0-30,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-077,122.83,117.09,5.74,True,1.049,4,N/A,Finance other line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-003,122.43,119.53,2.9,True,1.024,4,N/A,Finance other line,,,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-062,122.23,117.39,4.84,True,1.041,4,N/A,Finance other line,21.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-037,121.29,116.23,5.06,True,1.043,4,N/A,Finance other line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-082,121.23,115.63,5.6,True,1.048,4,N/A,Finance other line,,,Rhode Island,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-063,118.5,112.1,6.4,True,1.057,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-018,117.82,114.95,2.87,True,1.025,4,N/A,Finance other line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-073,114.06,107.74,6.32,True,1.059,4,N/A,Finance other line,19.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-032,104.42,97.84,6.58,True,1.067,4,N/A,Finance other line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-024,102.78,97.24,5.54,True,1.057,4,N/A,Finance other line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-057,102.56,101.4,1.16,True,1.011,4,N/A,Finance other line,18.0,0-30,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-104,101.59,92.4,9.19,True,1.099,4,N/A,Finance other line,21.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-011,100.72,99.72,1.0,True,1.01,4,N/A,Finance other line,,,Oregon,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-026,96.7,90.13,6.57,True,1.073,4,N/A,Finance other line,34.0,31-60,New Mexico,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-007,93.26,86.71,6.55,True,1.076,4,N/A,Finance other line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-013,92.95,90.05,2.9,True,1.032,4,N/A,Finance other line,,,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-030,92.34,88.93,3.41,True,1.038,4,N/A,Finance other line,8.0,0-30,Wyoming,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-033,91.34,88.2,3.14,True,1.036,4,N/A,Finance other line,,,Kansas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-015,82.68,80.04,2.64,True,1.033,4,N/A,Finance other line,,,Maine,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-075,82.56,80.24,2.32,True,1.029,4,N/A,Finance other line,,,South Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-017,81.33,77.15,4.18,True,1.054,4,N/A,Finance other line,,,Kansas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-087,79.03,77.63,1.4,True,1.018,4,N/A,Finance other line,,,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-042,74.62,70.48,4.14,True,1.059,4,N/A,Finance other line,14.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-025,73.12,69.36,3.76,True,1.054,4,N/A,Finance other line,,,Rhode Island,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-080,71.02,66.3,4.72,True,1.071,4,N/A,Finance other line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-072,70.96,69.39,1.57,True,1.023,4,N/A,Finance other line,,,Wyoming,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-088,70.92,68.79,2.13,True,1.031,4,N/A,Finance other line,25.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-004,68.8,65.93,2.87,True,1.044,4,N/A,Finance other line,,,Oregon,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-053,68.35,65.54,2.81,True,1.043,4,N/A,Finance other line,,,Tennessee,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-056,67.26,63.42,3.84,True,1.061,4,N/A,Finance other line,41.0,31-60,Indiana,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-108,66.63,65.97,0.66,True,1.01,4,N/A,Finance other line,,,Montana,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-021,66.37,65.71,0.66,True,1.01,4,N/A,Finance other line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-099,66.18,64.01,2.17,True,1.034,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-034,64.43,61.57,2.86,True,1.046,4,N/A,Finance other line,,,Nevada,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-009,61.0,56.18,4.82,True,1.086,4,N/A,Finance other line,32.0,31-60,Colorado,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-028,57.56,55.17,2.39,True,1.043,4,N/A,Finance other line,,,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-041,53.5,51.52,1.98,True,1.038,4,N/A,Finance other line,28.0,0-30,New Mexico,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-070,52.42,50.88,1.54,True,1.03,4,N/A,Finance other line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-090,51.68,50.21,1.47,True,1.029,4,N/A,Finance other line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-086,50.39,48.29,2.1,True,1.044,4,N/A,Finance other line,,,Wisconsin,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-002,48.18,47.55,0.63,True,1.013,4,N/A,Finance other line,23.0,0-30,Wisconsin,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-096,44.48,41.2,3.28,True,1.08,4,N/A,Finance other line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-091,43.65,43.22,0.43,True,1.01,4,N/A,Finance other line,25.0,0-30,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-089,43.45,40.69,2.76,True,1.068,4,N/A,Finance other line,17.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-103,42.88,42.46,0.42,True,1.01,4,N/A,Finance other line,,,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-074,40.15,38.34,1.81,True,1.047,4,N/A,Finance other line,,,Missouri,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-094,36.17,33.61,2.56,True,1.076,4,N/A,Finance other line,27.0,0-30,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-008,34.11,31.69,2.42,True,1.076,4,N/A,Finance other line,50.0,31-60,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-097,29.75,27.27,2.48,True,1.091,4,N/A,Finance other line,24.0,0-30,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-059,27.82,26.91,0.91,True,1.034,4,N/A,Finance other line,21.0,0-30,Pennsylvania,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-083,25.72,24.68,1.04,True,1.042,4,N/A,Finance other line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-092,24.62,22.89,1.73,True,1.076,4,N/A,Finance other line,,,Idaho,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-001,18.17,17.28,0.89,True,1.051,4,N/A,Finance other line,,,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-050,18.16,17.84,0.32,True,1.018,4,N/A,Finance other line,,,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,WeWork,E-202505-OT-068,17.37,16.97,0.4,True,1.023,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-023,12.65,11.89,0.76,True,1.064,4,N/A,Finance other line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-043,11.61,11.16,0.45,True,1.041,4,N/A,Finance other line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-064,11.55,10.67,0.88,True,1.083,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-051,7.97,7.87,0.1,True,1.013,4,N/A,Finance other line,24.0,0-30,Indiana,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,UPS,E-202505-OT-093,7.16,7.0,0.16,True,1.022,4,N/A,Finance other line,19.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-005,7.06,6.64,0.42,True,1.063,4,N/A,Finance other line,,,Alaska,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-048,4.59,4.14,0.45,True,1.108,4,N/A,Finance other line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-079,4.22,4.03,0.19,True,1.048,4,N/A,Finance other line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-010,3.58,3.41,0.17,True,1.05,4,N/A,Finance other line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,OfficeDepot,E-202505-OT-035,2.74,2.5,0.24,True,1.095,4,N/A,Finance other line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,FedEx,E-202505-OT-078,1.58,1.56,0.02,True,1.01,4,N/A,Finance other line,0.0,0-30,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,Staples,E-202505-OT-061,1.51,1.4,0.11,True,1.075,4,N/A,Finance other line,38.0,31-60,Missouri,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,other,Other,LegalCo,E-202505-OT-058,0.35,0.34,0.01,True,1.024,4,N/A,Finance other line,,,Alabama,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-058,3625.33,3508.74,116.59,True,1.033,4,Accountant,Finance payroll line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-049,3132.81,2905.37,227.44,True,1.078,4,Analyst,Finance payroll line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-002,2139.41,2035.8,103.61,True,1.051,4,Analyst,Finance payroll line,,,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-059,1480.3,1377.11,103.19,True,1.075,4,Analyst,Finance payroll line,13.0,0-30,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-017,1302.86,1234.0,68.86,True,1.056,4,Controller,Finance payroll line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-007,1229.92,1158.78,71.14,True,1.061,4,Analyst,Finance payroll line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-057,1174.59,1162.96,11.63,True,1.01,4,Analyst,Finance payroll line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-060,1138.69,1063.72,74.97,True,1.07,4,Analyst,Finance payroll line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-066,1039.04,983.07,55.97,True,1.057,4,Analyst,Finance payroll line,,,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-056,1016.55,912.77,103.78,True,1.114,4,Controller,Finance payroll line,,,Connecticut,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-036,999.25,969.68,29.57,True,1.03,4,Accountant,Finance payroll line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-001,958.2,906.15,52.05,True,1.057,4,Analyst,Finance payroll line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-048,955.64,946.18,9.46,True,1.01,4,Analyst,Finance payroll line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-035,922.94,883.71,39.23,True,1.044,4,Analyst,Finance payroll line,,,North Dakota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-009,921.97,867.82,54.15,True,1.062,4,Analyst,Finance payroll line,,,Kansas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-040,898.2,824.81,73.39,True,1.089,4,Controller,Finance payroll line,,,Wisconsin,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-018,891.29,882.47,8.82,True,1.01,4,Accountant,Finance payroll line,,,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-039,857.8,808.34,49.46,True,1.061,4,Analyst,Finance payroll line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-015,851.33,798.53,52.8,True,1.066,4,Analyst,Finance payroll line,,,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-026,851.28,819.61,31.67,True,1.039,4,Controller,Finance payroll line,,,Alabama,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-041,832.18,792.63,39.55,True,1.05,4,Analyst,Finance payroll line,10.0,0-30,Missouri,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-055,819.22,811.11,8.11,True,1.01,4,Analyst,Finance payroll line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-006,817.81,800.37,17.44,True,1.022,4,Analyst,Finance payroll line,20.0,0-30,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-004,778.58,739.64,38.94,True,1.053,4,Analyst,Finance payroll line,,,Arizona,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-037,749.55,693.95,55.6,True,1.08,4,Accountant,Finance payroll line,,,Wyoming,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-061,742.7,735.35,7.35,True,1.01,4,Analyst,Finance payroll line,29.0,0-30,Kentucky,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-064,686.68,650.52,36.16,True,1.056,4,Controller,Finance payroll line,35.0,31-60,Colorado,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-013,642.3,609.97,32.33,True,1.053,4,Analyst,Finance payroll line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-033,626.64,596.32,30.32,True,1.051,4,Analyst,Finance payroll line,32.0,31-60,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-024,495.49,481.0,14.49,True,1.03,4,Accountant,Finance payroll line,,,South Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-019,487.48,464.81,22.67,True,1.049,4,Accountant,Finance payroll line,14.0,0-30,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-027,480.28,469.95,10.33,True,1.022,4,Accountant,Finance payroll line,,,South Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-030,444.62,429.16,15.46,True,1.036,4,Analyst,Finance payroll line,,,Nevada,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-065,417.89,400.52,17.37,True,1.043,4,Accountant,Finance payroll line,9.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-050,404.17,382.82,21.35,True,1.056,4,Accountant,Finance payroll line,,,Kentucky,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-062,400.51,382.7,17.81,True,1.047,4,Accountant,Finance payroll line,,,Oregon,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-029,341.39,317.87,23.52,True,1.074,4,Controller,Finance payroll line,,,Vermont,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-021,340.01,328.91,11.1,True,1.034,4,Analyst,Finance payroll line,,,Tennessee,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-020,309.52,306.46,3.06,True,1.01,4,Controller,Finance payroll line,,,Indiana,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-014,294.06,278.74,15.32,True,1.055,4,Analyst,Finance payroll line,,,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-052,291.32,278.14,13.18,True,1.047,4,Controller,Finance payroll line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-008,283.07,269.8,13.27,True,1.049,4,Controller,Finance payroll line,,,Delaware,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-053,265.18,257.57,7.61,True,1.03,4,Accountant,Finance payroll line,37.0,31-60,Arizona,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-025,258.34,245.41,12.93,True,1.053,4,Accountant,Finance payroll line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-045,258.16,242.28,15.88,True,1.066,4,Analyst,Finance payroll line,30.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-032,248.85,228.51,20.34,True,1.089,4,Controller,Finance payroll line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-031,244.87,238.29,6.58,True,1.028,4,Accountant,Finance payroll line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-043,226.05,209.35,16.7,True,1.08,4,Accountant,Finance payroll line,32.0,31-60,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-034,223.5,219.24,4.26,True,1.019,4,Controller,Finance payroll line,14.0,0-30,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-012,221.22,213.65,7.57,True,1.035,4,Analyst,Finance payroll line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-042,205.7,197.54,8.16,True,1.041,4,Controller,Finance payroll line,17.0,0-30,Tennessee,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-051,195.63,188.85,6.78,True,1.036,4,Analyst,Finance payroll line,22.0,0-30,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-016,166.25,151.29,14.96,True,1.099,4,Analyst,Finance payroll line,17.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-028,164.1,155.89,8.21,True,1.053,4,Analyst,Finance payroll line,,,Rhode Island,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-023,127.63,114.27,13.36,True,1.117,4,Controller,Finance payroll line,4.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-047,122.9,117.59,5.31,True,1.045,4,Accountant,Finance payroll line,,,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-044,111.61,109.18,2.43,True,1.022,4,Accountant,Finance payroll line,3.0,0-30,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-010,109.9,101.39,8.51,True,1.084,4,Accountant,Finance payroll line,,,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-054,100.5,94.29,6.21,True,1.066,4,Accountant,Finance payroll line,,,New Mexico,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-011,67.99,60.47,7.52,True,1.124,4,Accountant,Finance payroll line,18.0,0-30,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-022,55.67,52.53,3.14,True,1.06,4,Analyst,Finance payroll line,,,Tennessee,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-003,54.91,52.54,2.37,True,1.045,4,Controller,Finance payroll line,15.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-038,52.11,48.5,3.61,True,1.075,4,Controller,Finance payroll line,13.0,0-30,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Rippling,E-202505-PA-005,51.49,50.65,0.84,True,1.016,4,Analyst,Finance payroll line,,,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Workday,E-202505-PA-063,33.29,32.24,1.05,True,1.033,4,Analyst,Finance payroll line,,,Idaho,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,payroll,Payroll,Gusto,E-202505-PA-046,14.94,13.8,1.14,True,1.082,4,Accountant,Finance payroll line,,,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-098,354.71,339.28,15.43,True,1.045,4,N/A,Finance software line,,,Rhode Island,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-058,281.4,264.48,16.92,True,1.064,4,N/A,Finance software line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-016,273.92,271.21,2.71,True,1.01,4,N/A,Finance software line,20.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-125,245.87,240.62,5.25,True,1.022,4,N/A,Finance software line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-096,245.15,229.82,15.33,True,1.067,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-018,243.67,232.37,11.3,True,1.049,4,N/A,Finance software line,21.0,0-30,Missouri,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-072,226.59,216.79,9.8,True,1.045,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-113,213.64,211.45,2.19,True,1.01,4,N/A,Finance software line,11.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-046,206.51,196.29,10.22,True,1.052,4,N/A,Finance software line,,,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-014,198.8,189.38,9.42,True,1.05,4,N/A,Finance software line,27.0,0-30,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-105,194.56,183.72,10.84,True,1.059,4,N/A,Finance software line,,,Oklahoma,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-045,194.03,181.32,12.71,True,1.07,4,N/A,Finance software line,,,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-051,190.09,173.19,16.9,True,1.098,4,N/A,Finance software line,23.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-021,185.68,161.8,23.88,True,1.148,4,N/A,Finance software line,,,Mississippi,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-107,175.21,161.17,14.04,True,1.087,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-068,169.92,159.15,10.77,True,1.068,4,N/A,Finance software line,,,Idaho,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-034,168.13,152.8,15.33,True,1.1,4,N/A,Finance software line,18.0,0-30,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-112,162.62,149.25,13.37,True,1.09,4,N/A,Finance software line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-062,158.06,150.87,7.19,True,1.048,4,N/A,Finance software line,,,Arizona,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-104,154.05,151.61,2.44,True,1.016,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-101,148.85,146.47,2.38,True,1.016,4,N/A,Finance software line,,,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-093,147.78,144.4,3.38,True,1.023,4,N/A,Finance software line,39.0,31-60,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-029,142.13,140.72,1.41,True,1.01,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-117,141.42,132.83,8.59,True,1.065,4,N/A,Finance software line,38.0,31-60,South Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-076,141.41,132.15,9.26,True,1.07,4,N/A,Finance software line,30.0,0-30,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-074,133.94,132.42,1.52,True,1.011,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-005,126.33,121.94,4.39,True,1.036,4,N/A,Finance software line,25.0,0-30,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-013,126.09,124.48,1.61,True,1.013,4,N/A,Finance software line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-088,121.68,120.48,1.2,True,1.01,4,N/A,Finance software line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-095,115.63,111.24,4.39,True,1.039,4,N/A,Finance software line,,,Wisconsin,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-040,113.27,108.72,4.55,True,1.042,4,N/A,Finance software line,,,Nevada,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-001,113.13,110.13,3.0,True,1.027,4,N/A,Finance software line,11.0,0-30,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-086,112.49,103.19,9.3,True,1.09,4,N/A,Finance software line,25.0,0-30,West Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-089,111.34,107.27,4.07,True,1.038,4,N/A,Finance software line,,,Nebraska,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-049,110.86,106.42,4.44,True,1.042,4,N/A,Finance software line,,,Pennsylvania,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-024,107.75,99.31,8.44,True,1.085,4,N/A,Finance software line,29.0,0-30,North Dakota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-083,107.49,106.43,1.06,True,1.01,4,N/A,Finance software line,30.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-036,106.91,97.8,9.11,True,1.093,4,N/A,Finance software line,24.0,0-30,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-111,105.01,102.38,2.63,True,1.026,4,N/A,Finance software line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-084,94.2,93.27,0.93,True,1.01,4,N/A,Finance software line,7.0,0-30,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-042,92.31,88.19,4.12,True,1.047,4,N/A,Finance software line,27.0,0-30,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-063,90.52,82.98,7.54,True,1.091,4,N/A,Finance software line,59.0,31-60,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-054,90.31,82.74,7.57,True,1.092,4,N/A,Finance software line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-039,89.42,84.37,5.05,True,1.06,4,N/A,Finance software line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-052,88.12,82.42,5.7,True,1.069,4,N/A,Finance software line,0.0,0-30,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-044,87.92,87.05,0.87,True,1.01,4,N/A,Finance software line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-115,81.31,80.5,0.81,True,1.01,4,N/A,Finance software line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-025,79.69,73.48,6.21,True,1.084,4,N/A,Finance software line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-080,77.66,73.54,4.12,True,1.056,4,N/A,Finance software line,,,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-003,77.41,74.74,2.67,True,1.036,4,N/A,Finance software line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-041,76.44,75.01,1.43,True,1.019,4,N/A,Finance software line,,,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-108,75.81,73.5,2.31,True,1.031,4,N/A,Finance software line,,,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-071,74.27,70.69,3.58,True,1.051,4,N/A,Finance software line,1.0,0-30,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-043,73.62,72.89,0.73,True,1.01,4,N/A,Finance software line,53.0,31-60,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-085,73.32,69.87,3.45,True,1.049,4,N/A,Finance software line,15.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-082,69.68,66.5,3.18,True,1.048,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-106,66.55,64.89,1.66,True,1.026,4,N/A,Finance software line,,,Idaho,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-075,65.07,64.42,0.65,True,1.01,4,N/A,Finance software line,21.0,0-30,Idaho,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-050,63.5,60.49,3.01,True,1.05,4,N/A,Finance software line,26.0,0-30,Pennsylvania,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-007,62.43,61.81,0.62,True,1.01,4,N/A,Finance software line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-031,61.4,58.24,3.16,True,1.054,4,N/A,Finance software line,20.0,0-30,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-009,61.1,56.7,4.4,True,1.078,4,N/A,Finance software line,16.0,0-30,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-028,60.75,57.67,3.08,True,1.053,4,N/A,Finance software line,,,Pennsylvania,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-092,57.95,53.66,4.29,True,1.08,4,N/A,Finance software line,,,Missouri,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-070,56.18,52.78,3.4,True,1.064,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-047,54.74,52.74,2.0,True,1.038,4,N/A,Finance software line,,,Iowa,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-020,53.99,50.06,3.93,True,1.078,4,N/A,Finance software line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-102,51.82,49.59,2.23,True,1.045,4,N/A,Finance software line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-081,49.73,48.25,1.48,True,1.031,4,N/A,Finance software line,,,North Dakota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-011,48.94,47.17,1.77,True,1.038,4,N/A,Finance software line,,,Missouri,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-055,48.02,43.28,4.74,True,1.11,4,N/A,Finance software line,,,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-103,45.94,45.21,0.73,True,1.016,4,N/A,Finance software line,,,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-015,44.36,43.92,0.44,True,1.01,4,N/A,Finance software line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-035,43.53,41.74,1.79,True,1.043,4,N/A,Finance software line,26.0,0-30,Alabama,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-116,43.36,39.56,3.8,True,1.096,4,N/A,Finance software line,,,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-123,41.75,38.18,3.57,True,1.093,4,N/A,Finance software line,37.0,31-60,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-008,40.67,39.16,1.51,True,1.038,4,N/A,Finance software line,,,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-109,39.48,39.09,0.39,True,1.01,4,N/A,Finance software line,44.0,31-60,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-010,39.31,36.8,2.51,True,1.068,4,N/A,Finance software line,42.0,31-60,Nevada,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-027,36.75,35.46,1.29,True,1.036,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-006,36.19,35.45,0.74,True,1.021,4,N/A,Finance software line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-061,35.3,32.96,2.34,True,1.071,4,N/A,Finance software line,,,Maine,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-066,34.37,33.16,1.21,True,1.036,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-122,33.58,31.16,2.42,True,1.078,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-059,33.24,31.05,2.19,True,1.071,4,N/A,Finance software line,,,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-120,31.92,30.58,1.34,True,1.044,4,N/A,Finance software line,,,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-090,31.16,30.04,1.12,True,1.037,4,N/A,Finance software line,8.0,0-30,Oregon,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-019,31.13,30.41,0.72,True,1.024,4,N/A,Finance software line,19.0,0-30,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-097,30.69,29.36,1.33,True,1.045,4,N/A,Finance software line,34.0,31-60,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-032,28.13,27.47,0.66,True,1.024,4,N/A,Finance software line,,,Nebraska,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-030,27.72,26.84,0.88,True,1.033,4,N/A,Finance software line,21.0,0-30,Arkansas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-094,27.72,26.25,1.47,True,1.056,4,N/A,Finance software line,,,Idaho,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-077,27.38,25.16,2.22,True,1.088,4,N/A,Finance software line,16.0,0-30,Tennessee,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-037,25.74,24.9,0.84,True,1.034,4,N/A,Finance software line,11.0,0-30,Kentucky,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-078,25.02,23.67,1.35,True,1.057,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-114,24.93,23.3,1.63,True,1.07,4,N/A,Finance software line,0.0,0-30,New Mexico,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-033,23.75,22.65,1.1,True,1.048,4,N/A,Finance software line,31.0,31-60,Nebraska,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-057,23.58,23.35,0.23,True,1.01,4,N/A,Finance software line,44.0,31-60,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-073,21.66,20.48,1.18,True,1.058,4,N/A,Finance software line,27.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-004,21.12,20.62,0.5,True,1.024,4,N/A,Finance software line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-026,20.82,19.78,1.04,True,1.052,4,N/A,Finance software line,25.0,0-30,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-110,20.7,19.76,0.94,True,1.048,4,N/A,Finance software line,,,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-060,20.14,19.86,0.28,True,1.014,4,N/A,Finance software line,7.0,0-30,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-079,20.06,18.95,1.11,True,1.059,4,N/A,Finance software line,35.0,31-60,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-002,18.94,18.03,0.91,True,1.051,4,N/A,Finance software line,,,Arizona,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-091,18.43,17.64,0.79,True,1.045,4,N/A,Finance software line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-118,18.22,17.52,0.7,True,1.04,4,N/A,Finance software line,2.0,0-30,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Datadog,E-202505-SO-023,16.03,15.25,0.78,True,1.051,4,N/A,Finance software line,18.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-064,14.74,13.89,0.85,True,1.061,4,N/A,Finance software line,,,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-017,13.25,12.63,0.62,True,1.049,4,N/A,Finance software line,11.0,0-30,Colorado,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-038,12.85,12.62,0.23,True,1.018,4,N/A,Finance software line,,,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-067,12.63,12.18,0.45,True,1.037,4,N/A,Finance software line,34.0,31-60,Pennsylvania,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GCP,E-202505-SO-053,11.44,10.7,0.74,True,1.069,4,N/A,Finance software line,,,Oregon,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-022,9.5,8.85,0.65,True,1.073,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-056,9.32,8.54,0.78,True,1.092,4,N/A,Finance software line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-069,9.21,8.86,0.35,True,1.04,4,N/A,Finance software line,44.0,31-60,Oklahoma,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,GitHub,E-202505-SO-124,8.78,8.59,0.19,True,1.022,4,N/A,Finance software line,11.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-048,7.07,6.68,0.39,True,1.058,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Figma,E-202505-SO-121,5.54,5.22,0.32,True,1.062,4,N/A,Finance software line,,,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Azure,E-202505-SO-099,5.04,4.83,0.21,True,1.044,4,N/A,Finance software line,,,Tennessee,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-119,4.8,4.41,0.39,True,1.089,4,N/A,Finance software line,0.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,AWS,E-202505-SO-100,2.98,2.86,0.12,True,1.041,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Salesforce,E-202505-SO-087,2.74,2.65,0.09,True,1.036,4,N/A,Finance software line,,,Colorado,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Atlassian,E-202505-SO-012,2.32,2.27,0.05,True,1.022,4,N/A,Finance software line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,software,Software,Snowflake,E-202505-SO-065,0.67,0.64,0.03,True,1.041,4,N/A,Finance software line,27.0,0-30,Massachusetts,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-027,232.68,213.96,18.72,True,1.087,4,N/A,Finance travel line,33.0,31-60,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-053,162.35,158.15,4.2,True,1.027,4,N/A,Finance travel line,31.0,31-60,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-021,151.8,145.75,6.05,True,1.042,4,N/A,Finance travel line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-066,126.91,123.64,3.27,True,1.026,4,N/A,Finance travel line,,,Pennsylvania,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-061,123.84,122.61,1.23,True,1.01,4,N/A,Finance travel line,21.0,0-30,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-064,114.42,107.87,6.55,True,1.061,4,N/A,Finance travel line,12.0,0-30,Rhode Island,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-004,111.42,100.08,11.34,True,1.113,4,N/A,Finance travel line,8.0,0-30,Oregon,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-071,96.87,93.65,3.22,True,1.034,4,N/A,Finance travel line,,,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-080,89.54,88.19,1.35,True,1.015,4,N/A,Finance travel line,43.0,31-60,Rhode Island,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-003,88.02,85.43,2.59,True,1.03,4,N/A,Finance travel line,,,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-019,86.22,81.72,4.5,True,1.055,4,N/A,Finance travel line,45.0,31-60,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-022,82.36,78.66,3.7,True,1.047,4,N/A,Finance travel line,15.0,0-30,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-041,81.44,77.89,3.55,True,1.046,4,N/A,Finance travel line,32.0,31-60,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-040,78.99,78.21,0.78,True,1.01,4,N/A,Finance travel line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-033,78.66,77.43,1.23,True,1.016,4,N/A,Finance travel line,19.0,0-30,Oklahoma,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-034,73.54,70.06,3.48,True,1.05,4,N/A,Finance travel line,26.0,0-30,New Hampshire,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-032,73.52,70.9,2.62,True,1.037,4,N/A,Finance travel line,22.0,0-30,Indiana,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-059,73.47,71.63,1.84,True,1.026,4,N/A,Finance travel line,,,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-013,70.13,66.64,3.49,True,1.052,4,N/A,Finance travel line,,,Maine,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-031,62.58,56.95,5.63,True,1.099,4,N/A,Finance travel line,38.0,31-60,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-035,61.41,57.81,3.6,True,1.062,4,N/A,Finance travel line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-046,58.85,58.27,0.58,True,1.01,4,N/A,Finance travel line,,,Maine,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-011,58.33,56.42,1.91,True,1.034,4,N/A,Finance travel line,29.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-062,58.19,56.03,2.16,True,1.039,4,N/A,Finance travel line,,,Wisconsin,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-058,54.05,53.51,0.54,True,1.01,4,N/A,Finance travel line,,,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-002,50.97,48.41,2.56,True,1.053,4,N/A,Finance travel line,21.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-051,50.59,47.64,2.95,True,1.062,4,N/A,Finance travel line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-029,49.61,49.12,0.49,True,1.01,4,N/A,Finance travel line,22.0,0-30,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-048,47.45,46.44,1.01,True,1.022,4,N/A,Finance travel line,,,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-081,46.23,44.01,2.22,True,1.051,4,N/A,Finance travel line,,,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-042,45.08,43.71,1.37,True,1.031,4,N/A,Finance travel line,17.0,0-30,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-044,43.96,43.21,0.75,True,1.017,4,N/A,Finance travel line,,,South Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-082,42.45,41.61,0.84,True,1.02,4,N/A,Finance travel line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-069,42.24,40.27,1.97,True,1.049,4,N/A,Finance travel line,,,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-079,40.45,40.05,0.4,True,1.01,4,N/A,Finance travel line,,,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-084,36.97,34.9,2.07,True,1.059,4,N/A,Finance travel line,,,Florida,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-015,36.42,35.02,1.4,True,1.04,4,N/A,Finance travel line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-026,33.96,32.37,1.59,True,1.049,4,N/A,Finance travel line,,,South Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-060,33.11,31.44,1.67,True,1.053,4,N/A,Finance travel line,,,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-037,32.3,31.81,0.49,True,1.015,4,N/A,Finance travel line,,,Texas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-008,31.04,28.77,2.27,True,1.079,4,N/A,Finance travel line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-085,30.24,27.92,2.32,True,1.083,4,N/A,Finance travel line,,,South Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-057,28.17,26.39,1.78,True,1.068,4,N/A,Finance travel line,,,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-054,27.05,26.41,0.64,True,1.024,4,N/A,Finance travel line,,,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-083,23.41,22.3,1.11,True,1.05,4,N/A,Finance travel line,,,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-018,21.45,20.36,1.09,True,1.054,4,N/A,Finance travel line,,,New York,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-001,20.62,18.6,2.02,True,1.108,4,N/A,Finance travel line,,,Arkansas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-049,19.72,17.66,2.06,True,1.117,4,N/A,Finance travel line,,,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-039,18.39,17.83,0.56,True,1.031,4,N/A,Finance travel line,,,Wyoming,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-068,17.76,17.15,0.61,True,1.036,4,N/A,Finance travel line,30.0,0-30,Georgia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-090,17.49,17.02,0.47,True,1.028,4,N/A,Finance travel line,,,Alabama,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-072,17.42,16.71,0.71,True,1.042,4,N/A,Finance travel line,12.0,0-30,Kentucky,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-010,16.66,15.28,1.38,True,1.091,4,N/A,Finance travel line,,,Pennsylvania,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-038,16.27,15.83,0.44,True,1.028,4,N/A,Finance travel line,29.0,0-30,Alabama,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-065,15.99,14.3,1.69,True,1.118,4,N/A,Finance travel line,,,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-078,14.5,13.94,0.56,True,1.04,4,N/A,Finance travel line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-077,13.89,13.58,0.31,True,1.023,4,N/A,Finance travel line,,,Louisiana,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-055,13.32,12.92,0.4,True,1.031,4,N/A,Finance travel line,,,Connecticut,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-005,12.6,11.79,0.81,True,1.069,4,N/A,Finance travel line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-067,12.58,11.62,0.96,True,1.083,4,N/A,Finance travel line,,,Arizona,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-017,12.54,11.84,0.7,True,1.059,4,N/A,Finance travel line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-007,12.35,12.05,0.3,True,1.025,4,N/A,Finance travel line,,,Kansas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-028,12.27,11.26,1.01,True,1.089,4,N/A,Finance travel line,,,North Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-009,11.48,10.34,1.14,True,1.111,4,N/A,Finance travel line,45.0,31-60,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Hilton,E-202505-TR-045,11.22,10.44,0.78,True,1.075,4,N/A,Finance travel line,29.0,0-30,South Carolina,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-073,9.86,9.37,0.49,True,1.053,4,N/A,Finance travel line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-087,9.78,8.89,0.89,True,1.101,4,N/A,Finance travel line,,,Idaho,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-043,9.61,8.59,1.02,True,1.118,4,N/A,Finance travel line,38.0,31-60,New Jersey,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-088,9.33,8.87,0.46,True,1.052,4,N/A,Finance travel line,,,Maryland,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-020,8.73,7.96,0.77,True,1.097,4,N/A,Finance travel line,19.0,0-30,Tennessee,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-056,8.21,7.82,0.39,True,1.05,4,N/A,Finance travel line,18.0,0-30,Alabama,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-047,7.17,6.65,0.52,True,1.078,4,N/A,Finance travel line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-063,7.0,6.21,0.79,True,1.127,4,N/A,Finance travel line,,,Minnesota,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-025,6.82,6.75,0.07,True,1.01,4,N/A,Finance travel line,,,Utah,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-052,5.19,4.98,0.21,True,1.043,4,N/A,Finance travel line,21.0,0-30,Rhode Island,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-036,3.65,3.44,0.21,True,1.06,4,N/A,Finance travel line,,,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-050,3.45,3.24,0.21,True,1.066,4,N/A,Finance travel line,,,Rhode Island,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-030,3.44,3.36,0.08,True,1.022,4,N/A,Finance travel line,26.0,0-30,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Uber,E-202505-TR-023,3.11,3.08,0.03,True,1.01,4,N/A,Finance travel line,,,Idaho,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-006,2.85,2.68,0.17,True,1.062,4,N/A,Finance travel line,,,California,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Delta,E-202505-TR-089,2.82,2.75,0.07,True,1.026,4,N/A,Finance travel line,,,New Mexico,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-070,2.59,2.52,0.07,True,1.028,4,N/A,Finance travel line,34.0,31-60,Tennessee,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-091,2.31,2.29,0.02,True,1.01,4,N/A,Finance travel line,1.0,0-30,Illinois,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,United,E-202505-TR-074,2.3,2.23,0.07,True,1.032,4,N/A,Finance travel line,26.0,0-30,Washington,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-016,2.18,2.13,0.05,True,1.024,4,N/A,Finance travel line,,,Connecticut,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-086,1.98,1.94,0.04,True,1.019,4,N/A,Finance travel line,,,Indiana,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-076,1.13,1.1,0.03,True,1.024,4,N/A,Finance travel line,,,Michigan,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Southwest,E-202505-TR-075,0.97,0.92,0.05,True,1.051,4,N/A,Finance travel line,,,Kansas,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Lyft,E-202505-TR-014,0.81,0.73,0.08,True,1.109,4,N/A,Finance travel line,,,Ohio,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Marriott,E-202505-TR-012,0.68,0.66,0.02,True,1.034,4,N/A,Finance travel line,,,Virginia,69606.58,-1620841.7664982416
+2025-05-01,Finance,expense,N/A,travel,Travel,Amex,E-202505-TR-024,0.34,0.33,0.01,True,1.034,4,N/A,Finance travel line,,,Delaware,69606.58,-1620841.7664982416

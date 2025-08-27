@@ -1,0 +1,458 @@
+month,department,line_type,product_line,category,subcategory,counterparty,invoice_id,amount,budget,variance,is_over_budget,spend_to_budget_ratio,headcount,role,notes,days_past_due,aging_bucket,state,dept_total_opex,company_ebitda
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-067,3310.48,3021.19,289.29,True,1.096,24,N/A,Customer Success other line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-046,1606.61,1590.7,15.91,True,1.01,24,N/A,Customer Success other line,23.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-070,1598.5,1465.06,133.44,True,1.091,24,N/A,Customer Success other line,18.0,0-30,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-014,1438.06,1323.17,114.89,True,1.087,24,N/A,Customer Success other line,8.0,0-30,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-018,1317.2,1269.93,47.27,True,1.037,24,N/A,Customer Success other line,18.0,0-30,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-030,1229.33,1181.91,47.42,True,1.04,24,N/A,Customer Success other line,,,Wyoming,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-004,1114.92,1034.14,80.78,True,1.078,24,N/A,Customer Success other line,15.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-016,1096.33,1052.73,43.6,True,1.041,24,N/A,Customer Success other line,,,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-015,1049.58,971.49,78.09,True,1.08,24,N/A,Customer Success other line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-045,1038.82,981.36,57.46,True,1.059,24,N/A,Customer Success other line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-093,1036.63,921.24,115.39,True,1.125,24,N/A,Customer Success other line,,,North Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-087,987.11,937.76,49.35,True,1.053,24,N/A,Customer Success other line,,,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-080,981.49,931.87,49.62,True,1.053,24,N/A,Customer Success other line,14.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-075,955.95,899.53,56.42,True,1.063,24,N/A,Customer Success other line,50.0,31-60,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-058,913.71,878.51,35.2,True,1.04,24,N/A,Customer Success other line,,,North Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-002,885.37,830.95,54.42,True,1.065,24,N/A,Customer Success other line,20.0,0-30,Wyoming,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-071,876.33,841.57,34.76,True,1.041,24,N/A,Customer Success other line,27.0,0-30,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-090,838.01,784.97,53.04,True,1.068,24,N/A,Customer Success other line,,,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-028,807.51,783.69,23.82,True,1.03,24,N/A,Customer Success other line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-054,773.57,711.01,62.56,True,1.088,24,N/A,Customer Success other line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-072,755.07,737.99,17.08,True,1.023,24,N/A,Customer Success other line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-031,695.51,652.98,42.53,True,1.065,24,N/A,Customer Success other line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-053,677.25,635.24,42.01,True,1.066,24,N/A,Customer Success other line,,,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-052,669.64,644.39,25.25,True,1.039,24,N/A,Customer Success other line,,,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-077,649.12,591.45,57.67,True,1.098,24,N/A,Customer Success other line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-064,635.16,621.1,14.06,True,1.023,24,N/A,Customer Success other line,16.0,0-30,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-025,621.32,593.06,28.26,True,1.048,24,N/A,Customer Success other line,,,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-036,619.56,610.74,8.82,True,1.014,24,N/A,Customer Success other line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-047,602.54,561.09,41.45,True,1.074,24,N/A,Customer Success other line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-019,547.45,542.03,5.42,True,1.01,24,N/A,Customer Success other line,,,Missouri,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-056,533.86,482.8,51.06,True,1.106,24,N/A,Customer Success other line,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-048,528.94,493.05,35.89,True,1.073,24,N/A,Customer Success other line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-032,522.79,492.7,30.09,True,1.061,24,N/A,Customer Success other line,,,Missouri,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-051,517.81,512.68,5.13,True,1.01,24,N/A,Customer Success other line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-060,507.87,496.27,11.6,True,1.023,24,N/A,Customer Success other line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-074,506.0,483.44,22.56,True,1.047,24,N/A,Customer Success other line,,,Arizona,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-050,499.15,483.32,15.83,True,1.033,24,N/A,Customer Success other line,,,Idaho,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-091,499.1,483.92,15.18,True,1.031,24,N/A,Customer Success other line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-041,483.09,466.15,16.94,True,1.036,24,N/A,Customer Success other line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-057,482.75,468.05,14.7,True,1.031,24,N/A,Customer Success other line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-022,480.07,436.46,43.61,True,1.1,24,N/A,Customer Success other line,48.0,31-60,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-005,451.05,444.63,6.42,True,1.014,24,N/A,Customer Success other line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-068,448.8,444.19,4.61,True,1.01,24,N/A,Customer Success other line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-092,417.6,376.61,40.99,True,1.109,24,N/A,Customer Success other line,19.0,0-30,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-039,356.1,345.49,10.61,True,1.031,24,N/A,Customer Success other line,,,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-065,330.81,321.12,9.69,True,1.03,24,N/A,Customer Success other line,9.0,0-30,Georgia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-006,327.31,297.65,29.66,True,1.1,24,N/A,Customer Success other line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-082,323.39,312.71,10.68,True,1.034,24,N/A,Customer Success other line,,,Nebraska,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-084,316.63,302.92,13.71,True,1.045,24,N/A,Customer Success other line,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-076,315.94,298.68,17.26,True,1.058,24,N/A,Customer Success other line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-062,300.93,281.13,19.8,True,1.07,24,N/A,Customer Success other line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-003,286.99,268.61,18.38,True,1.068,24,N/A,Customer Success other line,31.0,31-60,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-061,274.11,266.38,7.73,True,1.029,24,N/A,Customer Success other line,,,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-081,254.82,240.01,14.81,True,1.062,24,N/A,Customer Success other line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-069,247.61,235.11,12.5,True,1.053,24,N/A,Customer Success other line,0.0,0-30,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-001,233.06,227.05,6.01,True,1.026,24,N/A,Customer Success other line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-007,229.04,216.83,12.21,True,1.056,24,N/A,Customer Success other line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-033,195.4,193.47,1.93,True,1.01,24,N/A,Customer Success other line,36.0,31-60,South Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-017,183.88,171.1,12.78,True,1.075,24,N/A,Customer Success other line,,,Pennsylvania,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-089,181.0,174.83,6.17,True,1.035,24,N/A,Customer Success other line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-083,165.43,155.83,9.6,True,1.062,24,N/A,Customer Success other line,40.0,31-60,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-085,163.51,147.51,16.0,True,1.108,24,N/A,Customer Success other line,23.0,0-30,Arizona,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-008,158.81,157.24,1.57,True,1.01,24,N/A,Customer Success other line,18.0,0-30,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-078,147.67,137.26,10.41,True,1.076,24,N/A,Customer Success other line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-011,145.06,135.54,9.52,True,1.07,24,N/A,Customer Success other line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-029,144.24,136.93,7.31,True,1.053,24,N/A,Customer Success other line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-049,140.17,126.64,13.53,True,1.107,24,N/A,Customer Success other line,13.0,0-30,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-013,118.29,115.36,2.93,True,1.025,24,N/A,Customer Success other line,47.0,31-60,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-021,117.55,112.03,5.52,True,1.049,24,N/A,Customer Success other line,14.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-009,100.94,97.2,3.74,True,1.038,24,N/A,Customer Success other line,25.0,0-30,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-038,88.32,81.53,6.79,True,1.083,24,N/A,Customer Success other line,,,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-088,86.95,82.09,4.86,True,1.059,24,N/A,Customer Success other line,4.0,0-30,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-043,85.48,79.29,6.19,True,1.078,24,N/A,Customer Success other line,8.0,0-30,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-023,80.86,78.65,2.21,True,1.028,24,N/A,Customer Success other line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-034,79.68,77.04,2.64,True,1.034,24,N/A,Customer Success other line,48.0,31-60,Colorado,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-079,74.91,73.16,1.75,True,1.024,24,N/A,Customer Success other line,,,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-063,70.39,67.14,3.25,True,1.048,24,N/A,Customer Success other line,9.0,0-30,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-059,63.6,62.86,0.74,True,1.012,24,N/A,Customer Success other line,31.0,31-60,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-024,55.0,52.37,2.63,True,1.05,24,N/A,Customer Success other line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-066,51.29,48.72,2.57,True,1.053,24,N/A,Customer Success other line,32.0,31-60,Montana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-037,45.23,43.54,1.69,True,1.039,24,N/A,Customer Success other line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,OfficeDepot,E-202506-OT-035,37.18,35.74,1.44,True,1.04,24,N/A,Customer Success other line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-044,36.08,33.35,2.73,True,1.082,24,N/A,Customer Success other line,,,Wisconsin,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-073,29.83,27.3,2.53,True,1.092,24,N/A,Customer Success other line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-086,27.43,26.5,0.93,True,1.035,24,N/A,Customer Success other line,,,Alaska,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-042,26.89,26.44,0.45,True,1.017,24,N/A,Customer Success other line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-040,19.18,18.76,0.42,True,1.022,24,N/A,Customer Success other line,,,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-020,19.16,17.69,1.47,True,1.083,24,N/A,Customer Success other line,14.0,0-30,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,UPS,E-202506-OT-027,16.18,15.51,0.67,True,1.043,24,N/A,Customer Success other line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,Staples,E-202506-OT-055,9.01,8.66,0.35,True,1.04,24,N/A,Customer Success other line,,,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,FedEx,E-202506-OT-012,7.55,7.22,0.33,True,1.045,24,N/A,Customer Success other line,9.0,0-30,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,LegalCo,E-202506-OT-010,4.94,4.5,0.44,True,1.097,24,N/A,Customer Success other line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,other,Other,WeWork,E-202506-OT-026,2.83,2.61,0.22,True,1.083,24,N/A,Customer Success other line,33.0,31-60,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-023,11594.25,11024.9,569.35,True,1.052,24,Solutions,Customer Success payroll line,29.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-040,7502.6,7428.32,74.28,True,1.01,24,Solutions,Customer Success payroll line,0.0,0-30,Wisconsin,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-070,5706.09,5266.59,439.5,True,1.083,24,Support,Customer Success payroll line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-042,5599.04,5306.49,292.55,True,1.055,24,Solutions,Customer Success payroll line,23.0,0-30,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-016,5578.55,5261.88,316.67,True,1.06,24,Support,Customer Success payroll line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-075,5086.4,4789.4,297.0,True,1.062,24,Support,Customer Success payroll line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-038,5062.65,4787.74,274.91,True,1.057,24,Solutions,Customer Success payroll line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-045,4796.61,4592.15,204.46,True,1.045,24,Support,Customer Success payroll line,11.0,0-30,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-069,4741.14,4493.09,248.05,True,1.055,24,Support,Customer Success payroll line,23.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-003,4633.87,4406.82,227.05,True,1.052,24,Solutions,Customer Success payroll line,19.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-058,4510.66,4342.12,168.54,True,1.039,24,CSM,Customer Success payroll line,28.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-053,3732.4,3606.99,125.41,True,1.035,24,CSM,Customer Success payroll line,,,Arizona,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-020,3400.32,3366.65,33.67,True,1.01,24,Solutions,Customer Success payroll line,,,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-029,3384.47,3235.25,149.22,True,1.046,24,Solutions,Customer Success payroll line,48.0,31-60,Vermont,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-021,3355.76,3313.19,42.57,True,1.013,24,Support,Customer Success payroll line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-004,3141.49,2942.59,198.9,True,1.068,24,Support,Customer Success payroll line,,,Arizona,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-037,3058.44,3028.16,30.28,True,1.01,24,CSM,Customer Success payroll line,64.0,61-90,Wyoming,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-073,2940.57,2697.51,243.06,True,1.09,24,Support,Customer Success payroll line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-064,2891.0,2711.31,179.69,True,1.066,24,Solutions,Customer Success payroll line,,,Colorado,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-018,2888.07,2672.81,215.26,True,1.081,24,CSM,Customer Success payroll line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-025,2883.03,2742.67,140.36,True,1.051,24,CSM,Customer Success payroll line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-048,2777.52,2750.02,27.5,True,1.01,24,Support,Customer Success payroll line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-060,2646.84,2463.05,183.79,True,1.075,24,Support,Customer Success payroll line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-007,2514.14,2344.74,169.4,True,1.072,24,Support,Customer Success payroll line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-005,2434.01,2266.11,167.9,True,1.074,24,Support,Customer Success payroll line,27.0,0-30,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-063,2426.31,2146.57,279.74,True,1.13,24,Support,Customer Success payroll line,,,Idaho,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-066,2298.44,2036.03,262.41,True,1.129,24,Support,Customer Success payroll line,24.0,0-30,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-068,2239.58,2155.61,83.97,True,1.039,24,Support,Customer Success payroll line,,,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-078,2215.47,2124.48,90.99,True,1.043,24,Support,Customer Success payroll line,,,Delaware,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-076,2171.12,2049.51,121.61,True,1.059,24,Support,Customer Success payroll line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-067,2092.63,2056.82,35.81,True,1.017,24,Support,Customer Success payroll line,45.0,31-60,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-027,2022.15,1906.14,116.01,True,1.061,24,CSM,Customer Success payroll line,,,South Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-065,1963.35,1858.99,104.36,True,1.056,24,CSM,Customer Success payroll line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-013,1934.64,1829.94,104.7,True,1.057,24,Support,Customer Success payroll line,30.0,0-30,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-012,1897.52,1779.54,117.98,True,1.066,24,Support,Customer Success payroll line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-049,1862.57,1819.41,43.16,True,1.024,24,Support,Customer Success payroll line,,,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-055,1821.31,1795.39,25.92,True,1.014,24,Support,Customer Success payroll line,,,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-074,1789.89,1679.99,109.9,True,1.065,24,Support,Customer Success payroll line,,,Connecticut,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-033,1763.45,1745.99,17.46,True,1.01,24,Support,Customer Success payroll line,,,North Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-017,1756.04,1703.8,52.24,True,1.031,24,Solutions,Customer Success payroll line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-031,1626.81,1610.7,16.11,True,1.01,24,CSM,Customer Success payroll line,37.0,31-60,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-024,1493.81,1396.23,97.58,True,1.07,24,CSM,Customer Success payroll line,17.0,0-30,South Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-052,1458.36,1368.76,89.6,True,1.065,24,Solutions,Customer Success payroll line,,,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-071,1409.28,1338.08,71.2,True,1.053,24,Support,Customer Success payroll line,26.0,0-30,Pennsylvania,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-044,1378.61,1306.53,72.08,True,1.055,24,CSM,Customer Success payroll line,23.0,0-30,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-002,1359.16,1324.13,35.03,True,1.026,24,Support,Customer Success payroll line,,,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-059,1256.95,1222.87,34.08,True,1.028,24,Support,Customer Success payroll line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-039,1226.68,1162.38,64.3,True,1.055,24,Support,Customer Success payroll line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-035,1219.85,1179.72,40.13,True,1.034,24,Support,Customer Success payroll line,7.0,0-30,North Dakota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-079,1184.13,1145.98,38.15,True,1.033,24,Solutions,Customer Success payroll line,31.0,31-60,South Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-032,1110.21,1043.13,67.08,True,1.064,24,Solutions,Customer Success payroll line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-034,1073.89,1049.77,24.12,True,1.023,24,Solutions,Customer Success payroll line,4.0,0-30,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-051,1019.71,972.9,46.81,True,1.048,24,Support,Customer Success payroll line,23.0,0-30,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-008,1011.19,974.56,36.63,True,1.038,24,Solutions,Customer Success payroll line,,,Delaware,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-030,910.39,901.38,9.01,True,1.01,24,Support,Customer Success payroll line,,,Nevada,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-010,857.01,819.54,37.47,True,1.046,24,CSM,Customer Success payroll line,38.0,31-60,Georgia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-054,813.24,773.44,39.8,True,1.051,24,CSM,Customer Success payroll line,27.0,0-30,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-001,812.62,780.01,32.61,True,1.042,24,Support,Customer Success payroll line,11.0,0-30,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-019,734.47,668.6,65.87,True,1.099,24,CSM,Customer Success payroll line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-056,693.11,654.15,38.96,True,1.06,24,Solutions,Customer Success payroll line,,,Connecticut,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-043,676.06,632.48,43.58,True,1.069,24,CSM,Customer Success payroll line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-061,621.5,570.83,50.67,True,1.089,24,Support,Customer Success payroll line,30.0,0-30,Kentucky,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-057,620.93,583.12,37.81,True,1.065,24,Support,Customer Success payroll line,12.0,0-30,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-081,614.02,558.6,55.42,True,1.099,24,Solutions,Customer Success payroll line,,,North Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-028,602.22,588.27,13.95,True,1.024,24,Support,Customer Success payroll line,,,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-014,574.47,568.78,5.69,True,1.01,24,Support,Customer Success payroll line,,,North Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-050,554.68,527.87,26.81,True,1.051,24,CSM,Customer Success payroll line,,,Kentucky,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-026,488.94,462.42,26.52,True,1.057,24,Solutions,Customer Success payroll line,,,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-062,401.74,389.79,11.95,True,1.031,24,CSM,Customer Success payroll line,,,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-047,379.59,375.69,3.9,True,1.01,24,CSM,Customer Success payroll line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-006,352.44,324.74,27.7,True,1.085,24,Support,Customer Success payroll line,29.0,0-30,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-041,336.66,309.35,27.31,True,1.088,24,Support,Customer Success payroll line,16.0,0-30,Missouri,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-077,281.05,272.51,8.54,True,1.031,24,Solutions,Customer Success payroll line,57.0,31-60,North Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-080,264.38,240.06,24.32,True,1.101,24,Solutions,Customer Success payroll line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-009,258.43,246.75,11.68,True,1.047,24,Support,Customer Success payroll line,,,Kansas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-046,256.85,237.61,19.24,True,1.081,24,CSM,Customer Success payroll line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Gusto,E-202506-PA-022,203.3,183.04,20.26,True,1.111,24,Support,Customer Success payroll line,8.0,0-30,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-072,198.18,189.29,8.89,True,1.047,24,CSM,Customer Success payroll line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Rippling,E-202506-PA-011,131.63,127.57,4.06,True,1.032,24,CSM,Customer Success payroll line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-015,91.11,83.52,7.59,True,1.091,24,Support,Customer Success payroll line,23.0,0-30,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,payroll,Payroll,Workday,E-202506-PA-036,58.84,55.11,3.73,True,1.068,24,CSM,Customer Success payroll line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-137,2446.74,2419.59,27.15,True,1.011,24,N/A,Customer Success software line,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-066,2357.32,2219.71,137.61,True,1.062,24,N/A,Customer Success software line,12.0,0-30,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-057,2080.16,1969.17,110.99,True,1.056,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-097,1855.49,1743.72,111.77,True,1.064,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-131,1556.0,1494.75,61.25,True,1.041,24,N/A,Customer Success software line,0.0,0-30,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-106,1507.69,1438.19,69.5,True,1.048,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-049,1295.56,1246.56,49.0,True,1.039,24,N/A,Customer Success software line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-114,1259.35,1188.88,70.47,True,1.059,24,N/A,Customer Success software line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-092,1251.05,1178.7,72.35,True,1.061,24,N/A,Customer Success software line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-013,1232.88,1197.27,35.61,True,1.03,24,N/A,Customer Success software line,,,Iowa,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-040,1192.22,1154.16,38.06,True,1.033,24,N/A,Customer Success software line,,,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-109,1185.55,1161.65,23.9,True,1.021,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-064,1180.12,1135.03,45.09,True,1.04,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-008,1114.71,1067.08,47.63,True,1.045,24,N/A,Customer Success software line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-086,989.71,952.34,37.37,True,1.039,24,N/A,Customer Success software line,16.0,0-30,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-073,978.12,968.44,9.68,True,1.01,24,N/A,Customer Success software line,,,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-083,970.84,902.57,68.27,True,1.076,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-113,940.46,896.26,44.2,True,1.049,24,N/A,Customer Success software line,23.0,0-30,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-093,927.49,867.41,60.08,True,1.069,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-132,921.04,865.38,55.66,True,1.064,24,N/A,Customer Success software line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-053,919.97,842.69,77.28,True,1.092,24,N/A,Customer Success software line,36.0,31-60,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-012,915.63,896.63,19.0,True,1.021,24,N/A,Customer Success software line,28.0,0-30,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-041,911.47,902.45,9.02,True,1.01,24,N/A,Customer Success software line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-098,879.9,818.3,61.6,True,1.075,24,N/A,Customer Success software line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-072,875.89,867.22,8.67,True,1.01,24,N/A,Customer Success software line,14.0,0-30,Pennsylvania,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-129,872.83,789.24,83.59,True,1.106,24,N/A,Customer Success software line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-080,868.29,833.05,35.24,True,1.042,24,N/A,Customer Success software line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-123,758.8,726.56,32.24,True,1.044,24,N/A,Customer Success software line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-015,708.66,656.67,51.99,True,1.079,24,N/A,Customer Success software line,19.0,0-30,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-075,651.95,645.5,6.45,True,1.01,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-004,646.36,639.96,6.4,True,1.01,24,N/A,Customer Success software line,,,Kansas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-055,633.23,605.44,27.79,True,1.046,24,N/A,Customer Success software line,,,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-096,629.37,599.95,29.42,True,1.049,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-112,600.6,568.86,31.74,True,1.056,24,N/A,Customer Success software line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-062,593.74,551.67,42.07,True,1.076,24,N/A,Customer Success software line,,,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-046,573.38,553.42,19.96,True,1.036,24,N/A,Customer Success software line,25.0,0-30,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-121,564.78,559.19,5.59,True,1.01,24,N/A,Customer Success software line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-014,551.48,539.26,12.22,True,1.023,24,N/A,Customer Success software line,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-043,549.99,499.89,50.1,True,1.1,24,N/A,Customer Success software line,52.0,31-60,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-070,524.98,515.51,9.47,True,1.018,24,N/A,Customer Success software line,,,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-082,524.54,500.5,24.04,True,1.048,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-108,519.0,495.86,23.14,True,1.047,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-031,507.36,473.69,33.67,True,1.071,24,N/A,Customer Success software line,,,Colorado,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-016,476.53,461.59,14.94,True,1.032,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-059,466.88,453.06,13.82,True,1.03,24,N/A,Customer Success software line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-105,460.18,430.31,29.87,True,1.069,24,N/A,Customer Success software line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-018,453.22,427.98,25.24,True,1.059,24,N/A,Customer Success software line,,,Maine,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-035,451.29,436.12,15.17,True,1.035,24,N/A,Customer Success software line,39.0,31-60,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-101,450.77,426.42,24.35,True,1.057,24,N/A,Customer Success software line,28.0,0-30,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-071,446.18,430.88,15.3,True,1.036,24,N/A,Customer Success software line,,,Kentucky,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-051,445.65,419.86,25.79,True,1.061,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-042,437.31,417.0,20.31,True,1.049,24,N/A,Customer Success software line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-011,436.25,431.93,4.32,True,1.01,24,N/A,Customer Success software line,14.0,0-30,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-006,427.37,423.14,4.23,True,1.01,24,N/A,Customer Success software line,,,Georgia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-030,424.5,403.9,20.6,True,1.051,24,N/A,Customer Success software line,22.0,0-30,Connecticut,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-060,416.18,406.66,9.52,True,1.023,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-085,415.07,406.94,8.13,True,1.02,24,N/A,Customer Success software line,,,Arkansas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-125,412.69,386.03,26.66,True,1.069,24,N/A,Customer Success software line,,,Nevada,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-136,411.22,388.1,23.12,True,1.06,24,N/A,Customer Success software line,27.0,0-30,South Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-047,409.22,382.27,26.95,True,1.071,24,N/A,Customer Success software line,,,Arizona,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-024,394.34,384.42,9.92,True,1.026,24,N/A,Customer Success software line,,,Pennsylvania,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-074,393.81,366.04,27.77,True,1.076,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-037,393.57,363.05,30.52,True,1.084,24,N/A,Customer Success software line,25.0,0-30,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-020,391.65,387.77,3.88,True,1.01,24,N/A,Customer Success software line,18.0,0-30,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-118,342.23,332.24,9.99,True,1.03,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-021,328.07,308.44,19.63,True,1.064,24,N/A,Customer Success software line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-067,326.03,306.62,19.41,True,1.063,24,N/A,Customer Success software line,0.0,0-30,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-102,315.16,312.04,3.12,True,1.01,24,N/A,Customer Success software line,,,Mississippi,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-063,311.95,299.86,12.09,True,1.04,24,N/A,Customer Success software line,,,Iowa,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-038,282.26,277.68,4.58,True,1.016,24,N/A,Customer Success software line,3.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-069,276.81,274.07,2.74,True,1.01,24,N/A,Customer Success software line,16.0,0-30,Idaho,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-001,274.25,254.7,19.55,True,1.077,24,N/A,Customer Success software line,29.0,0-30,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-061,274.1,251.81,22.29,True,1.089,24,N/A,Customer Success software line,,,West Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-076,269.81,248.04,21.77,True,1.088,24,N/A,Customer Success software line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-023,269.46,252.13,17.33,True,1.069,24,N/A,Customer Success software line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-033,267.13,257.89,9.24,True,1.036,24,N/A,Customer Success software line,29.0,0-30,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-089,256.62,244.64,11.98,True,1.049,24,N/A,Customer Success software line,,,New Hampshire,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-039,255.53,238.55,16.98,True,1.071,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-100,255.01,241.77,13.24,True,1.055,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-058,254.8,243.39,11.41,True,1.047,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-032,244.05,234.3,9.75,True,1.042,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-111,218.99,205.87,13.12,True,1.064,24,N/A,Customer Success software line,,,Oklahoma,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-078,217.5,212.17,5.33,True,1.025,24,N/A,Customer Success software line,,,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-128,214.76,203.49,11.27,True,1.055,24,N/A,Customer Success software line,,,Connecticut,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Salesforce,E-202506-SO-087,211.9,191.14,20.76,True,1.109,24,N/A,Customer Success software line,,,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-094,209.49,203.49,6.0,True,1.029,24,N/A,Customer Success software line,,,Pennsylvania,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-099,207.75,199.8,7.95,True,1.04,24,N/A,Customer Success software line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-045,195.14,174.76,20.38,True,1.117,24,N/A,Customer Success software line,,,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-088,185.1,173.44,11.66,True,1.067,24,N/A,Customer Success software line,47.0,31-60,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-036,178.73,171.3,7.43,True,1.043,24,N/A,Customer Success software line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-120,176.11,170.51,5.6,True,1.033,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-026,169.96,165.3,4.66,True,1.028,24,N/A,Customer Success software line,,,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-027,167.12,161.37,5.75,True,1.036,24,N/A,Customer Success software line,,,North Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-034,163.33,151.15,12.18,True,1.081,24,N/A,Customer Success software line,14.0,0-30,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-003,155.52,153.81,1.71,True,1.011,24,N/A,Customer Success software line,,,New Hampshire,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-138,153.6,141.82,11.78,True,1.083,24,N/A,Customer Success software line,,,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-022,148.37,145.28,3.09,True,1.021,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-117,143.52,140.53,2.99,True,1.021,24,N/A,Customer Success software line,19.0,0-30,Missouri,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-127,141.35,139.95,1.4,True,1.01,24,N/A,Customer Success software line,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-104,139.44,134.44,5.0,True,1.037,24,N/A,Customer Success software line,33.0,31-60,Georgia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-115,136.42,127.66,8.76,True,1.069,24,N/A,Customer Success software line,34.0,31-60,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-103,134.77,128.65,6.12,True,1.048,24,N/A,Customer Success software line,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-095,131.44,126.8,4.64,True,1.037,24,N/A,Customer Success software line,14.0,0-30,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-079,126.89,122.41,4.48,True,1.037,24,N/A,Customer Success software line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-029,123.57,122.35,1.22,True,1.01,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-068,123.19,118.57,4.62,True,1.039,24,N/A,Customer Success software line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-119,119.24,114.26,4.98,True,1.044,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-009,113.36,106.67,6.69,True,1.063,24,N/A,Customer Success software line,33.0,31-60,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-010,102.84,101.15,1.69,True,1.017,24,N/A,Customer Success software line,35.0,31-60,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-048,100.52,95.75,4.77,True,1.05,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-081,97.36,90.24,7.12,True,1.079,24,N/A,Customer Success software line,,,Alaska,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-025,93.85,89.63,4.22,True,1.047,24,N/A,Customer Success software line,,,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-090,91.88,89.11,2.77,True,1.031,24,N/A,Customer Success software line,16.0,0-30,Maine,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-017,87.34,84.3,3.04,True,1.036,24,N/A,Customer Success software line,19.0,0-30,Oklahoma,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Figma,E-202506-SO-130,82.54,79.3,3.24,True,1.041,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-091,78.58,73.36,5.22,True,1.071,24,N/A,Customer Success software line,,,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-107,77.3,72.81,4.49,True,1.062,24,N/A,Customer Success software line,,,Colorado,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-056,74.52,70.27,4.25,True,1.06,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-019,71.07,65.48,5.59,True,1.085,24,N/A,Customer Success software line,,,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-135,70.35,69.65,0.7,True,1.01,24,N/A,Customer Success software line,13.0,0-30,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-044,62.02,58.74,3.28,True,1.056,24,N/A,Customer Success software line,11.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Atlassian,E-202506-SO-084,55.05,53.95,1.1,True,1.02,24,N/A,Customer Success software line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-077,49.07,45.51,3.56,True,1.078,24,N/A,Customer Success software line,19.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,AWS,E-202506-SO-028,45.42,43.52,1.9,True,1.044,24,N/A,Customer Success software line,9.0,0-30,Georgia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-052,37.07,34.78,2.29,True,1.066,24,N/A,Customer Success software line,22.0,0-30,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-054,34.14,31.34,2.8,True,1.089,24,N/A,Customer Success software line,,,Pennsylvania,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-133,32.79,32.47,0.32,True,1.01,24,N/A,Customer Success software line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-116,31.63,29.32,2.31,True,1.079,24,N/A,Customer Success software line,,,Nevada,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-005,31.43,30.86,0.57,True,1.018,24,N/A,Customer Success software line,,,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-065,25.06,23.74,1.32,True,1.055,24,N/A,Customer Success software line,16.0,0-30,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Azure,E-202506-SO-126,24.0,22.61,1.39,True,1.062,24,N/A,Customer Success software line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-007,22.48,21.64,0.84,True,1.039,24,N/A,Customer Success software line,,,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-002,16.74,15.56,1.18,True,1.076,24,N/A,Customer Success software line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-050,16.28,15.75,0.53,True,1.034,24,N/A,Customer Success software line,9.0,0-30,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GitHub,E-202506-SO-124,8.14,7.77,0.37,True,1.048,24,N/A,Customer Success software line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Datadog,E-202506-SO-122,7.18,7.11,0.07,True,1.01,24,N/A,Customer Success software line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,Snowflake,E-202506-SO-110,5.06,4.94,0.12,True,1.025,24,N/A,Customer Success software line,17.0,0-30,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,software,Software,GCP,E-202506-SO-134,3.68,3.51,0.17,True,1.049,24,N/A,Customer Success software line,43.0,31-60,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-019,1152.24,1049.06,103.18,True,1.098,24,N/A,Customer Success travel line,,,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-033,1146.39,1120.06,26.33,True,1.024,24,N/A,Customer Success travel line,5.0,0-30,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-049,1106.68,1059.98,46.7,True,1.044,24,N/A,Customer Success travel line,,,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-052,1075.96,1033.41,42.55,True,1.041,24,N/A,Customer Success travel line,3.0,0-30,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-007,1023.09,944.08,79.01,True,1.084,24,N/A,Customer Success travel line,35.0,31-60,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-042,994.84,982.05,12.79,True,1.013,24,N/A,Customer Success travel line,9.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-035,955.62,933.97,21.65,True,1.023,24,N/A,Customer Success travel line,33.0,31-60,Pennsylvania,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-098,859.75,833.58,26.17,True,1.031,24,N/A,Customer Success travel line,,,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-068,828.13,803.74,24.39,True,1.03,24,N/A,Customer Success travel line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-084,819.03,756.78,62.25,True,1.082,24,N/A,Customer Success travel line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-006,769.99,742.24,27.75,True,1.037,24,N/A,Customer Success travel line,24.0,0-30,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-059,732.63,703.88,28.75,True,1.041,24,N/A,Customer Success travel line,27.0,0-30,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-051,698.48,666.89,31.59,True,1.047,24,N/A,Customer Success travel line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-013,688.35,681.53,6.82,True,1.01,24,N/A,Customer Success travel line,4.0,0-30,South Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-060,669.23,603.68,65.55,True,1.109,24,N/A,Customer Success travel line,10.0,0-30,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-078,654.95,607.98,46.97,True,1.077,24,N/A,Customer Success travel line,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-080,641.42,635.07,6.35,True,1.01,24,N/A,Customer Success travel line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-057,625.45,593.81,31.64,True,1.053,24,N/A,Customer Success travel line,,,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-032,499.61,491.37,8.24,True,1.017,24,N/A,Customer Success travel line,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-025,491.48,486.61,4.87,True,1.01,24,N/A,Customer Success travel line,,,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-040,486.78,458.09,28.69,True,1.063,24,N/A,Customer Success travel line,42.0,31-60,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-009,475.48,437.47,38.01,True,1.087,24,N/A,Customer Success travel line,23.0,0-30,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-062,470.62,446.71,23.91,True,1.054,24,N/A,Customer Success travel line,,,Wisconsin,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-053,435.06,429.68,5.38,True,1.013,24,N/A,Customer Success travel line,,,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-097,425.09,405.41,19.68,True,1.049,24,N/A,Customer Success travel line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-094,420.74,391.71,29.03,True,1.074,24,N/A,Customer Success travel line,,,Nevada,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-067,413.03,398.04,14.99,True,1.038,24,N/A,Customer Success travel line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-004,412.14,392.92,19.22,True,1.049,24,N/A,Customer Success travel line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-029,404.6,392.66,11.94,True,1.03,24,N/A,Customer Success travel line,15.0,0-30,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-027,403.91,374.34,29.57,True,1.079,24,N/A,Customer Success travel line,18.0,0-30,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-079,396.0,358.07,37.93,True,1.106,24,N/A,Customer Success travel line,50.0,31-60,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-089,390.52,374.48,16.04,True,1.043,24,N/A,Customer Success travel line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-044,374.82,351.68,23.14,True,1.066,24,N/A,Customer Success travel line,,,Kansas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-082,370.9,358.25,12.65,True,1.035,24,N/A,Customer Success travel line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-003,362.19,353.19,9.0,True,1.025,24,N/A,Customer Success travel line,25.0,0-30,New Hampshire,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-008,342.6,327.31,15.29,True,1.047,24,N/A,Customer Success travel line,,,Wyoming,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-058,323.82,301.6,22.22,True,1.074,24,N/A,Customer Success travel line,,,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-090,300.48,275.0,25.48,True,1.093,24,N/A,Customer Success travel line,7.0,0-30,Wyoming,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-031,289.89,287.02,2.87,True,1.01,24,N/A,Customer Success travel line,0.0,0-30,Wisconsin,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-073,285.38,282.55,2.83,True,1.01,24,N/A,Customer Success travel line,24.0,0-30,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-075,283.58,263.7,19.88,True,1.075,24,N/A,Customer Success travel line,,,Maine,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-065,279.54,268.42,11.12,True,1.041,24,N/A,Customer Success travel line,42.0,31-60,Alaska,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-076,275.03,251.56,23.47,True,1.093,24,N/A,Customer Success travel line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-050,274.56,271.84,2.72,True,1.01,24,N/A,Customer Success travel line,,,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-016,272.76,259.19,13.57,True,1.052,24,N/A,Customer Success travel line,0.0,0-30,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-005,272.14,262.39,9.75,True,1.037,24,N/A,Customer Success travel line,14.0,0-30,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-095,271.61,251.85,19.76,True,1.078,24,N/A,Customer Success travel line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-086,267.61,248.13,19.48,True,1.079,24,N/A,Customer Success travel line,,,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-070,260.39,252.67,7.72,True,1.031,24,N/A,Customer Success travel line,24.0,0-30,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-037,236.86,223.52,13.34,True,1.06,24,N/A,Customer Success travel line,19.0,0-30,Georgia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-039,233.86,216.24,17.62,True,1.081,24,N/A,Customer Success travel line,,,Tennessee,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-012,220.74,202.2,18.54,True,1.092,24,N/A,Customer Success travel line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-026,219.87,207.43,12.44,True,1.06,24,N/A,Customer Success travel line,51.0,31-60,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-024,218.57,213.5,5.07,True,1.024,24,N/A,Customer Success travel line,0.0,0-30,Connecticut,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-020,210.17,201.88,8.29,True,1.041,24,N/A,Customer Success travel line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-045,209.79,194.74,15.05,True,1.077,24,N/A,Customer Success travel line,42.0,31-60,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-002,204.51,200.72,3.79,True,1.019,24,N/A,Customer Success travel line,0.0,0-30,Oklahoma,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-043,203.11,198.91,4.2,True,1.021,24,N/A,Customer Success travel line,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-030,194.55,176.54,18.01,True,1.102,24,N/A,Customer Success travel line,,,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-046,187.2,175.57,11.63,True,1.066,24,N/A,Customer Success travel line,,,Louisiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-085,184.2,163.86,20.34,True,1.124,24,N/A,Customer Success travel line,0.0,0-30,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-038,183.47,169.08,14.39,True,1.085,24,N/A,Customer Success travel line,0.0,0-30,Ohio,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-028,178.74,170.68,8.06,True,1.047,24,N/A,Customer Success travel line,8.0,0-30,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-100,170.95,162.41,8.54,True,1.053,24,N/A,Customer Success travel line,,,Arizona,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-001,169.63,164.6,5.03,True,1.031,24,N/A,Customer Success travel line,,,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-066,167.97,157.74,10.23,True,1.065,24,N/A,Customer Success travel line,,,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-093,164.21,153.01,11.2,True,1.073,24,N/A,Customer Success travel line,,,Kansas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-055,161.52,156.83,4.69,True,1.03,24,N/A,Customer Success travel line,,,Indiana,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-088,152.38,142.88,9.5,True,1.066,24,N/A,Customer Success travel line,,,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-101,149.26,135.9,13.36,True,1.098,24,N/A,Customer Success travel line,,,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-017,149.24,147.76,1.48,True,1.01,24,N/A,Customer Success travel line,21.0,0-30,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-047,146.49,134.67,11.82,True,1.088,24,N/A,Customer Success travel line,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-069,146.1,141.76,4.34,True,1.031,24,N/A,Customer Success travel line,35.0,31-60,Colorado,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-034,140.13,132.25,7.88,True,1.06,24,N/A,Customer Success travel line,12.0,0-30,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-041,138.04,130.48,7.56,True,1.058,24,N/A,Customer Success travel line,12.0,0-30,Kentucky,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-010,137.33,134.46,2.87,True,1.021,24,N/A,Customer Success travel line,8.0,0-30,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-022,124.07,121.03,3.04,True,1.025,24,N/A,Customer Success travel line,,,Illinois,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-054,121.62,113.15,8.47,True,1.075,24,N/A,Customer Success travel line,23.0,0-30,South Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-083,113.71,109.93,3.78,True,1.034,24,N/A,Customer Success travel line,,,Florida,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-099,109.58,103.71,5.87,True,1.057,24,N/A,Customer Success travel line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-015,107.45,106.39,1.06,True,1.01,24,N/A,Customer Success travel line,0.0,0-30,Maine,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-102,102.16,94.92,7.24,True,1.076,24,N/A,Customer Success travel line,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-087,79.9,74.62,5.28,True,1.071,24,N/A,Customer Success travel line,34.0,31-60,Colorado,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-021,75.17,68.76,6.41,True,1.093,24,N/A,Customer Success travel line,31.0,31-60,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-072,57.06,53.96,3.1,True,1.058,24,N/A,Customer Success travel line,,,Massachusetts,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-096,54.89,53.08,1.81,True,1.034,24,N/A,Customer Success travel line,18.0,0-30,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Delta,E-202506-TR-081,45.57,43.37,2.2,True,1.051,24,N/A,Customer Success travel line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Lyft,E-202506-TR-014,39.06,36.9,2.16,True,1.058,24,N/A,Customer Success travel line,,,South Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-063,38.54,38.16,0.38,True,1.01,24,N/A,Customer Success travel line,,,North Carolina,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-011,36.75,35.25,1.5,True,1.043,24,N/A,Customer Success travel line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-036,32.14,31.36,0.78,True,1.025,24,N/A,Customer Success travel line,,,Arizona,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-056,27.34,26.29,1.05,True,1.04,24,N/A,Customer Success travel line,,,Idaho,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-077,24.48,22.46,2.02,True,1.09,24,N/A,Customer Success travel line,,,Kansas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-064,19.15,18.92,0.23,True,1.012,24,N/A,Customer Success travel line,,,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-018,12.46,12.0,0.46,True,1.038,24,N/A,Customer Success travel line,6.0,0-30,Georgia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Hilton,E-202506-TR-061,10.39,10.2,0.19,True,1.019,24,N/A,Customer Success travel line,39.0,31-60,Maryland,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Marriott,E-202506-TR-092,8.68,8.36,0.32,True,1.038,24,N/A,Customer Success travel line,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-023,8.19,8.02,0.17,True,1.022,24,N/A,Customer Success travel line,6.0,0-30,Georgia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Amex,E-202506-TR-048,6.44,6.2,0.24,True,1.039,24,N/A,Customer Success travel line,,,Utah,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,United,E-202506-TR-074,3.58,3.37,0.21,True,1.063,24,N/A,Customer Success travel line,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Southwest,E-202506-TR-091,3.55,3.36,0.19,True,1.057,24,N/A,Customer Success travel line,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,expense,N/A,travel,Travel,Uber,E-202506-TR-071,0.74,0.7,0.04,True,1.051,24,N/A,Customer Success travel line,11.0,0-30,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 321,R-202506-SU-007,144493.17,,,,,24,N/A,Allocated influenced revenue,,,Kentucky,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 338,R-202506-SU-002,108157.32,,,,,24,N/A,Allocated influenced revenue,,,Idaho,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 310,R-202506-SU-001,101253.4,,,,,24,N/A,Allocated influenced revenue,,,Kentucky,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 389,R-202506-SU-022,84450.26,,,,,24,N/A,Allocated influenced revenue,,,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 273,R-202506-SU-012,74260.45,,,,,24,N/A,Allocated influenced revenue,,,Michigan,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 060,R-202506-SU-005,67338.07,,,,,24,N/A,Allocated influenced revenue,,,Colorado,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 324,R-202506-SU-006,63426.51,,,,,24,N/A,Allocated influenced revenue,,,Maine,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 028,R-202506-SU-041,61245.97,,,,,24,N/A,Allocated influenced revenue,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 345,R-202506-SU-040,58663.42,,,,,24,N/A,Allocated influenced revenue,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 140,R-202506-SU-023,56913.39,,,,,24,N/A,Allocated influenced revenue,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 095,R-202506-SU-031,56713.72,,,,,24,N/A,Allocated influenced revenue,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 243,R-202506-SU-014,54291.26,,,,,24,N/A,Allocated influenced revenue,,,Oregon,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 066,R-202506-SU-011,52473.78,,,,,24,N/A,Allocated influenced revenue,,,Arkansas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 033,R-202506-SU-020,52357.1,,,,,24,N/A,Allocated influenced revenue,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 357,R-202506-SU-042,50395.07,,,,,24,N/A,Allocated influenced revenue,,,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 321,R-202506-SU-009,45817.06,,,,,24,N/A,Allocated influenced revenue,,,Kentucky,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 011,R-202506-SU-018,39469.53,,,,,24,N/A,Allocated influenced revenue,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 184,R-202506-SU-038,37439.67,,,,,24,N/A,Allocated influenced revenue,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 230,R-202506-SU-032,32527.35,,,,,24,N/A,Allocated influenced revenue,,,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 065,R-202506-SU-029,28887.93,,,,,24,N/A,Allocated influenced revenue,,,Iowa,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 226,R-202506-SU-024,28773.29,,,,,24,N/A,Allocated influenced revenue,,,Arizona,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 155,R-202506-SU-035,28648.33,,,,,24,N/A,Allocated influenced revenue,,,Washington,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 129,R-202506-SU-034,20570.23,,,,,24,N/A,Allocated influenced revenue,,,Maine,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 193,R-202506-SU-026,20009.37,,,,,24,N/A,Allocated influenced revenue,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 338,R-202506-SU-025,19284.2,,,,,24,N/A,Allocated influenced revenue,,,Idaho,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 104,R-202506-SU-019,18338.31,,,,,24,N/A,Allocated influenced revenue,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 316,R-202506-SU-030,17850.03,,,,,24,N/A,Allocated influenced revenue,,,Mississippi,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 201,R-202506-SU-013,15886.17,,,,,24,N/A,Allocated influenced revenue,,,Rhode Island,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 019,R-202506-SU-036,14114.59,,,,,24,N/A,Allocated influenced revenue,,,Hawaii,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 138,R-202506-SU-017,13884.08,,,,,24,N/A,Allocated influenced revenue,,,Alabama,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 072,R-202506-SU-037,13477.8,,,,,24,N/A,Allocated influenced revenue,,,New Mexico,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 002,R-202506-SU-039,12710.33,,,,,24,N/A,Allocated influenced revenue,,,California,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 157,R-202506-SU-003,12681.21,,,,,24,N/A,Allocated influenced revenue,,,Virginia,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 311,R-202506-SU-033,11022.03,,,,,24,N/A,Allocated influenced revenue,,,Missouri,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 114,R-202506-SU-021,9562.81,,,,,24,N/A,Allocated influenced revenue,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 070,R-202506-SU-028,7907.28,,,,,24,N/A,Allocated influenced revenue,,,Texas,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 268,R-202506-SU-015,7096.21,,,,,24,N/A,Allocated influenced revenue,,,Vermont,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 333,R-202506-SU-016,4251.7,,,,,24,N/A,Allocated influenced revenue,,,Connecticut,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 258,R-202506-SU-004,4044.11,,,,,24,N/A,Allocated influenced revenue,,,New York,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 352,R-202506-SU-027,3341.24,,,,,24,N/A,Allocated influenced revenue,,,New Jersey,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 118,R-202506-SU-008,3296.0,,,,,24,N/A,Allocated influenced revenue,,,Minnesota,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 222,R-202506-SU-043,3240.46,,,,,24,N/A,Allocated influenced revenue,,,Pennsylvania,318296.84,-1660750.1428472167
+2025-06-01,Customer Success,revenue,Subscriptions,revenue,Subscriptions,Customer 024,R-202506-SU-010,3057.0,,,,,24,N/A,Allocated influenced revenue,,,Washington,318296.84,-1660750.1428472167

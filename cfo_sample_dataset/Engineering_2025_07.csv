@@ -1,0 +1,458 @@
+month,department,line_type,product_line,category,subcategory,counterparty,invoice_id,amount,budget,variance,is_over_budget,spend_to_budget_ratio,headcount,role,notes,days_past_due,aging_bucket,state,dept_total_opex,company_ebitda
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-067,5906.51,5452.0,454.51,True,1.083,59,N/A,Engineering other line,,,Idaho,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-046,2866.5,2680.84,185.66,True,1.069,59,N/A,Engineering other line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-070,2852.03,2788.27,63.76,True,1.023,59,N/A,Engineering other line,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-014,2565.77,2495.93,69.84,True,1.028,59,N/A,Engineering other line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-018,2350.13,2274.55,75.58,True,1.033,59,N/A,Engineering other line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-030,2193.36,2015.74,177.62,True,1.088,59,N/A,Engineering other line,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-004,1989.23,1913.79,75.44,True,1.039,59,N/A,Engineering other line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-016,1956.05,1855.05,101.0,True,1.054,59,N/A,Engineering other line,,,New Mexico,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-015,1872.66,1763.18,109.48,True,1.062,59,N/A,Engineering other line,0.0,0-30,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-045,1853.46,1835.11,18.35,True,1.01,59,N/A,Engineering other line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-093,1849.54,1687.84,161.7,True,1.096,59,N/A,Engineering other line,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-087,1761.18,1679.64,81.54,True,1.049,59,N/A,Engineering other line,,,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-080,1751.17,1661.26,89.91,True,1.054,59,N/A,Engineering other line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-075,1705.6,1549.36,156.24,True,1.101,59,N/A,Engineering other line,,,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-058,1630.23,1614.09,16.14,True,1.01,59,N/A,Engineering other line,28.0,0-30,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-002,1579.66,1559.92,19.74,True,1.013,59,N/A,Engineering other line,,,Colorado,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-071,1563.54,1466.31,97.23,True,1.066,59,N/A,Engineering other line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-090,1495.17,1412.47,82.7,True,1.059,59,N/A,Engineering other line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-028,1440.74,1389.29,51.45,True,1.037,59,N/A,Engineering other line,,,Tennessee,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-054,1380.19,1266.29,113.9,True,1.09,59,N/A,Engineering other line,0.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-072,1347.18,1333.84,13.34,True,1.01,59,N/A,Engineering other line,5.0,0-30,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-031,1240.93,1188.65,52.28,True,1.044,59,N/A,Engineering other line,,,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-053,1208.34,1145.45,62.89,True,1.055,59,N/A,Engineering other line,17.0,0-30,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-052,1194.76,1104.42,90.34,True,1.082,59,N/A,Engineering other line,0.0,0-30,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-077,1158.14,1072.22,85.92,True,1.08,59,N/A,Engineering other line,22.0,0-30,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-064,1133.24,1096.94,36.3,True,1.033,59,N/A,Engineering other line,0.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-025,1108.55,1064.91,43.64,True,1.041,59,N/A,Engineering other line,20.0,0-30,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-036,1105.41,1055.95,49.46,True,1.047,59,N/A,Engineering other line,0.0,0-30,Missouri,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-047,1075.04,1015.42,59.62,True,1.059,59,N/A,Engineering other line,10.0,0-30,Wyoming,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-019,976.75,950.62,26.13,True,1.027,59,N/A,Engineering other line,17.0,0-30,Wyoming,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-056,952.51,911.63,40.88,True,1.045,59,N/A,Engineering other line,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-048,943.73,870.98,72.75,True,1.084,59,N/A,Engineering other line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-032,932.76,876.0,56.76,True,1.065,59,N/A,Engineering other line,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-051,923.88,886.81,37.07,True,1.042,59,N/A,Engineering other line,49.0,31-60,Colorado,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-060,906.14,880.44,25.7,True,1.029,59,N/A,Engineering other line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-074,902.8,841.43,61.37,True,1.073,59,N/A,Engineering other line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-050,890.59,858.47,32.12,True,1.037,59,N/A,Engineering other line,,,South Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-091,890.49,837.15,53.34,True,1.064,59,N/A,Engineering other line,,,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-041,861.92,801.06,60.86,True,1.076,59,N/A,Engineering other line,15.0,0-30,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-057,861.32,796.21,65.11,True,1.082,59,N/A,Engineering other line,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-022,856.54,813.98,42.56,True,1.052,59,N/A,Engineering other line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-005,804.77,771.03,33.74,True,1.044,59,N/A,Engineering other line,,,Wyoming,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-068,800.73,790.26,10.47,True,1.013,59,N/A,Engineering other line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-092,745.07,722.97,22.1,True,1.031,59,N/A,Engineering other line,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-039,635.35,606.75,28.6,True,1.047,59,N/A,Engineering other line,0.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-065,590.23,571.65,18.58,True,1.033,59,N/A,Engineering other line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-006,583.99,555.24,28.75,True,1.052,59,N/A,Engineering other line,30.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-082,576.99,556.98,20.01,True,1.036,59,N/A,Engineering other line,,,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-084,564.93,527.04,37.89,True,1.072,59,N/A,Engineering other line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-076,563.69,544.72,18.97,True,1.035,59,N/A,Engineering other line,1.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-062,536.92,531.6,5.32,True,1.01,59,N/A,Engineering other line,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-003,512.04,471.91,40.13,True,1.085,59,N/A,Engineering other line,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-061,489.07,456.13,32.94,True,1.072,59,N/A,Engineering other line,,,Wisconsin,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-081,454.64,449.23,5.41,True,1.012,59,N/A,Engineering other line,5.0,0-30,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-069,441.79,402.8,38.99,True,1.097,59,N/A,Engineering other line,9.0,0-30,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-001,415.82,397.93,17.89,True,1.045,59,N/A,Engineering other line,21.0,0-30,New Mexico,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-007,408.65,385.43,23.22,True,1.06,59,N/A,Engineering other line,35.0,31-60,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-033,348.63,337.03,11.6,True,1.034,59,N/A,Engineering other line,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-017,328.09,314.52,13.57,True,1.043,59,N/A,Engineering other line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-089,322.93,314.17,8.76,True,1.028,59,N/A,Engineering other line,43.0,31-60,Tennessee,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-083,295.16,273.64,21.52,True,1.079,59,N/A,Engineering other line,20.0,0-30,Montana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-085,291.73,282.15,9.58,True,1.034,59,N/A,Engineering other line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-008,283.35,280.54,2.81,True,1.01,59,N/A,Engineering other line,,,Kansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-078,263.47,253.04,10.43,True,1.041,59,N/A,Engineering other line,7.0,0-30,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-011,258.82,252.27,6.55,True,1.026,59,N/A,Engineering other line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-029,257.36,251.48,5.88,True,1.023,59,N/A,Engineering other line,,,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-049,250.08,247.6,2.48,True,1.01,59,N/A,Engineering other line,,,Missouri,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-013,211.05,199.14,11.91,True,1.06,59,N/A,Engineering other line,6.0,0-30,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-021,209.73,207.65,2.08,True,1.01,59,N/A,Engineering other line,74.0,61-90,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-009,180.1,178.32,1.78,True,1.01,59,N/A,Engineering other line,,,Nevada,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-038,157.59,154.75,2.84,True,1.018,59,N/A,Engineering other line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-088,155.13,143.45,11.68,True,1.081,59,N/A,Engineering other line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-043,152.51,141.78,10.73,True,1.076,59,N/A,Engineering other line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-023,144.27,137.28,6.99,True,1.051,59,N/A,Engineering other line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-034,142.17,134.38,7.79,True,1.058,59,N/A,Engineering other line,11.0,0-30,Pennsylvania,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-079,133.65,123.99,9.66,True,1.078,59,N/A,Engineering other line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-063,125.58,124.34,1.24,True,1.01,59,N/A,Engineering other line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-059,113.47,109.14,4.33,True,1.04,59,N/A,Engineering other line,23.0,0-30,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-024,98.13,91.23,6.9,True,1.076,59,N/A,Engineering other line,21.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-066,91.51,88.6,2.91,True,1.033,59,N/A,Engineering other line,27.0,0-30,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-037,80.7,77.13,3.57,True,1.046,59,N/A,Engineering other line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,OfficeDepot,E-202507-OT-035,66.33,60.94,5.39,True,1.089,59,N/A,Engineering other line,24.0,0-30,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-044,64.38,60.55,3.83,True,1.063,59,N/A,Engineering other line,22.0,0-30,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-073,53.23,52.7,0.53,True,1.01,59,N/A,Engineering other line,,,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-086,48.94,46.28,2.66,True,1.057,59,N/A,Engineering other line,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-042,47.97,46.07,1.9,True,1.041,59,N/A,Engineering other line,,,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-040,34.23,32.17,2.06,True,1.064,59,N/A,Engineering other line,39.0,31-60,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-020,34.19,33.08,1.11,True,1.034,59,N/A,Engineering other line,,,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,UPS,E-202507-OT-027,28.87,26.73,2.14,True,1.08,59,N/A,Engineering other line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,Staples,E-202507-OT-055,16.08,15.46,0.62,True,1.04,59,N/A,Engineering other line,33.0,31-60,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,FedEx,E-202507-OT-012,13.48,12.62,0.86,True,1.068,59,N/A,Engineering other line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,LegalCo,E-202507-OT-010,8.82,7.89,0.93,True,1.118,59,N/A,Engineering other line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,other,Other,WeWork,E-202507-OT-026,5.05,4.54,0.51,True,1.113,59,N/A,Engineering other line,37.0,31-60,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-023,52387.42,50552.35,1835.07,True,1.036,59,Data,Engineering payroll line,27.0,0-30,Tennessee,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-040,33899.73,32859.73,1040.0,True,1.032,59,Mobile,Engineering payroll line,21.0,0-30,North Dakota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-070,25782.39,24728.41,1053.98,True,1.043,59,Data,Engineering payroll line,,,Idaho,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-042,25298.67,24644.52,654.15,True,1.027,59,Backend,Engineering payroll line,,,Wyoming,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-016,25206.1,24082.65,1123.45,True,1.047,59,Infra,Engineering payroll line,,,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-075,22982.38,22197.82,784.56,True,1.035,59,Infra,Engineering payroll line,29.0,0-30,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-038,22875.05,21488.57,1386.48,True,1.065,59,DevOps,Engineering payroll line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-045,21672.98,21458.4,214.58,True,1.01,59,DevOps,Engineering payroll line,,,Wisconsin,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-069,21422.36,20034.69,1387.67,True,1.069,59,Mobile,Engineering payroll line,19.0,0-30,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-003,20937.68,19689.94,1247.74,True,1.063,59,QA,Engineering payroll line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-058,20380.97,19134.53,1246.44,True,1.065,59,Mobile,Engineering payroll line,50.0,31-60,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-053,16864.48,16331.48,533.0,True,1.033,59,Data,Engineering payroll line,35.0,31-60,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-020,15364.0,13821.03,1542.97,True,1.112,59,Frontend,Engineering payroll line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-029,15292.4,14211.2,1081.2,True,1.076,59,Frontend,Engineering payroll line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-021,15162.67,14030.84,1131.83,True,1.081,59,Backend,Engineering payroll line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-004,14194.52,14053.98,140.54,True,1.01,59,Infra,Engineering payroll line,,,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-037,13819.26,13341.2,478.06,True,1.036,59,Infra,Engineering payroll line,,,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-073,13286.68,11809.89,1476.79,True,1.125,59,Data,Engineering payroll line,28.0,0-30,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-064,13062.68,12194.35,868.33,True,1.071,59,QA,Engineering payroll line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-018,13049.44,12244.55,804.89,True,1.066,59,Infra,Engineering payroll line,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-025,13026.67,12815.35,211.32,True,1.016,59,Backend,Engineering payroll line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-048,12549.93,11596.96,952.97,True,1.082,59,DevOps,Engineering payroll line,,,Tennessee,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-060,11959.47,11346.36,613.11,True,1.054,59,Backend,Engineering payroll line,,,New Mexico,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-007,11359.89,10447.38,912.51,True,1.087,59,Data,Engineering payroll line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-005,10997.82,10158.18,839.64,True,1.083,59,Infra,Engineering payroll line,16.0,0-30,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-063,10963.02,10854.48,108.54,True,1.01,59,Frontend,Engineering payroll line,,,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-066,10385.26,10053.93,331.33,True,1.033,59,DevOps,Engineering payroll line,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-068,10119.32,9518.01,601.31,True,1.063,59,DevOps,Engineering payroll line,,,Delaware,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-078,10010.36,9450.26,560.1,True,1.059,59,Frontend,Engineering payroll line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-076,9809.99,9514.22,295.77,True,1.031,59,Data,Engineering payroll line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-067,9455.36,8749.11,706.25,True,1.081,59,Infra,Engineering payroll line,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-027,9136.87,9046.41,90.46,True,1.01,59,DevOps,Engineering payroll line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-065,8871.2,8505.62,365.58,True,1.043,59,Frontend,Engineering payroll line,24.0,0-30,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-013,8741.45,8095.28,646.17,True,1.08,59,Frontend,Engineering payroll line,,,New Hampshire,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-012,8573.77,8170.06,403.71,True,1.049,59,QA,Engineering payroll line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-049,8415.84,7657.49,758.35,True,1.099,59,Infra,Engineering payroll line,,,Oklahoma,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-055,8229.42,7384.58,844.84,True,1.114,59,Frontend,Engineering payroll line,29.0,0-30,Tennessee,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-074,8087.44,7627.45,459.99,True,1.06,59,Data,Engineering payroll line,25.0,0-30,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-033,7967.98,7635.83,332.15,True,1.043,59,DevOps,Engineering payroll line,,,Vermont,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-017,7934.5,7410.35,524.15,True,1.071,59,Mobile,Engineering payroll line,27.0,0-30,Maine,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-031,7350.58,6937.24,413.34,True,1.06,59,Data,Engineering payroll line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-024,6749.64,6335.02,414.62,True,1.065,59,Mobile,Engineering payroll line,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-052,6589.43,6476.7,112.73,True,1.017,59,Data,Engineering payroll line,,,Tennessee,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-071,6367.7,6152.4,215.3,True,1.035,59,QA,Engineering payroll line,28.0,0-30,Colorado,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-044,6229.12,5528.71,700.41,True,1.127,59,Data,Engineering payroll line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-002,6141.23,5782.67,358.56,True,1.062,59,Data,Engineering payroll line,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-059,5679.41,5510.39,169.02,True,1.031,59,Frontend,Engineering payroll line,,,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-039,5542.62,5407.7,134.92,True,1.025,59,Mobile,Engineering payroll line,,,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-035,5511.77,5197.38,314.39,True,1.06,59,Mobile,Engineering payroll line,36.0,31-60,New Mexico,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-079,5350.39,5021.85,328.54,True,1.065,59,Mobile,Engineering payroll line,,,Pennsylvania,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-032,5016.37,4842.77,173.6,True,1.036,59,DevOps,Engineering payroll line,9.0,0-30,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-034,4852.25,4620.62,231.63,True,1.05,59,Mobile,Engineering payroll line,,,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-051,4607.45,4418.77,188.68,True,1.043,59,Backend,Engineering payroll line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-008,4568.97,4474.37,94.6,True,1.021,59,Mobile,Engineering payroll line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-030,4113.5,4072.77,40.73,True,1.01,59,Infra,Engineering payroll line,,,Alaska,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-010,3872.29,3741.42,130.87,True,1.035,59,Data,Engineering payroll line,,,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-054,3674.53,3492.02,182.51,True,1.052,59,Data,Engineering payroll line,49.0,31-60,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-001,3671.73,3384.62,287.11,True,1.085,59,Data,Engineering payroll line,30.0,0-30,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-019,3318.61,3161.93,156.68,True,1.05,59,Mobile,Engineering payroll line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-056,3131.73,3052.7,79.03,True,1.026,59,QA,Engineering payroll line,38.0,31-60,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-043,3054.69,2937.08,117.61,True,1.04,59,DevOps,Engineering payroll line,20.0,0-30,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-061,2808.19,2680.04,128.15,True,1.048,59,Mobile,Engineering payroll line,13.0,0-30,Maine,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-057,2805.61,2722.7,82.91,True,1.03,59,QA,Engineering payroll line,11.0,0-30,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-081,2774.41,2619.13,155.28,True,1.059,59,Infra,Engineering payroll line,35.0,31-60,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-028,2721.06,2694.12,26.94,True,1.01,59,Infra,Engineering payroll line,,,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-014,2595.69,2565.67,30.02,True,1.012,59,Infra,Engineering payroll line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-050,2506.28,2314.5,191.78,True,1.083,59,DevOps,Engineering payroll line,28.0,0-30,Arkansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-026,2209.23,2186.97,22.26,True,1.01,59,Infra,Engineering payroll line,21.0,0-30,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-062,1815.2,1705.61,109.59,True,1.064,59,QA,Engineering payroll line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-047,1715.13,1551.75,163.38,True,1.105,59,Mobile,Engineering payroll line,24.0,0-30,Oklahoma,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-006,1592.48,1461.84,130.64,True,1.089,59,Infra,Engineering payroll line,42.0,31-60,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-041,1521.16,1498.95,22.21,True,1.015,59,Backend,Engineering payroll line,20.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-077,1269.92,1210.0,59.92,True,1.05,59,Mobile,Engineering payroll line,,,Kansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-080,1194.56,1182.73,11.83,True,1.01,59,Backend,Engineering payroll line,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-009,1167.68,1109.57,58.11,True,1.052,59,Infra,Engineering payroll line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-046,1160.55,1116.07,44.48,True,1.04,59,Infra,Engineering payroll line,,,Missouri,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Gusto,E-202507-PA-022,918.58,865.2,53.38,True,1.062,59,QA,Engineering payroll line,,,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-072,895.46,886.59,8.87,True,1.01,59,Backend,Engineering payroll line,4.0,0-30,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Rippling,E-202507-PA-011,594.76,583.81,10.95,True,1.019,59,DevOps,Engineering payroll line,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-015,411.65,397.2,14.45,True,1.036,59,Data,Engineering payroll line,27.0,0-30,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,payroll,Payroll,Workday,E-202507-PA-036,265.88,248.31,17.57,True,1.071,59,Mobile,Engineering payroll line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-137,11693.17,11577.4,115.77,True,1.01,59,N/A,Engineering software line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-066,11265.82,10226.15,1039.67,True,1.102,59,N/A,Engineering software line,25.0,0-30,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-057,9941.24,9790.6,150.64,True,1.015,59,N/A,Engineering software line,0.0,0-30,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-097,8867.54,8598.73,268.81,True,1.031,59,N/A,Engineering software line,,,Montana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-131,7436.23,7080.59,355.64,True,1.05,59,N/A,Engineering software line,35.0,31-60,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-106,7205.38,7134.04,71.34,True,1.01,59,N/A,Engineering software line,,,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-049,6191.55,6008.27,183.28,True,1.031,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-114,6018.54,5712.31,306.23,True,1.054,59,N/A,Engineering software line,,,New Hampshire,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-092,5978.87,5624.19,354.68,True,1.063,59,N/A,Engineering software line,24.0,0-30,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-013,5892.0,5348.55,543.45,True,1.102,59,N/A,Engineering software line,35.0,31-60,Kansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-040,5697.7,5547.03,150.67,True,1.027,59,N/A,Engineering software line,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-109,5665.83,5609.73,56.1,True,1.01,59,N/A,Engineering software line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-064,5639.87,5019.8,620.07,True,1.124,59,N/A,Engineering software line,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-008,5327.29,4953.31,373.98,True,1.076,59,N/A,Engineering software line,38.0,31-60,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-086,4729.91,4427.44,302.47,True,1.068,59,N/A,Engineering software line,16.0,0-30,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-073,4674.51,4278.18,396.33,True,1.093,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-083,4639.74,4390.0,249.74,True,1.057,59,N/A,Engineering software line,33.0,31-60,Pennsylvania,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-113,4494.54,4431.47,63.07,True,1.014,59,N/A,Engineering software line,,,Nevada,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-093,4432.55,4376.43,56.12,True,1.013,59,N/A,Engineering software line,20.0,0-30,Wisconsin,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-132,4401.72,4294.57,107.15,True,1.025,59,N/A,Engineering software line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-053,4396.61,4326.94,69.67,True,1.016,59,N/A,Engineering software line,44.0,31-60,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-012,4375.89,4025.56,350.33,True,1.087,59,N/A,Engineering software line,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-041,4356.0,4045.3,310.7,True,1.077,59,N/A,Engineering software line,0.0,0-30,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-098,4205.09,3914.29,290.8,True,1.074,59,N/A,Engineering software line,,,Colorado,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-072,4185.94,4009.84,176.1,True,1.044,59,N/A,Engineering software line,,,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-129,4171.34,3839.18,332.16,True,1.087,59,N/A,Engineering software line,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-080,4149.63,3991.02,158.61,True,1.04,59,N/A,Engineering software line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-123,3626.35,3520.89,105.46,True,1.03,59,N/A,Engineering software line,38.0,31-60,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-015,3386.75,3208.31,178.44,True,1.056,59,N/A,Engineering software line,,,Kansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-075,3115.72,2927.95,187.77,True,1.064,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-004,3089.02,3058.44,30.58,True,1.01,59,N/A,Engineering software line,,,Idaho,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-055,3026.23,2719.93,306.3,True,1.113,59,N/A,Engineering software line,,,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-096,3007.78,2798.6,209.18,True,1.075,59,N/A,Engineering software line,14.0,0-30,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-112,2870.32,2665.9,204.42,True,1.077,59,N/A,Engineering software line,,,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-062,2837.51,2642.07,195.44,True,1.074,59,N/A,Engineering software line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-046,2740.23,2482.5,257.73,True,1.104,59,N/A,Engineering software line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-121,2699.12,2558.61,140.51,True,1.055,59,N/A,Engineering software line,,,Delaware,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-014,2635.59,2608.42,27.17,True,1.01,59,N/A,Engineering software line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-043,2628.44,2602.42,26.02,True,1.01,59,N/A,Engineering software line,21.0,0-30,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-070,2508.93,2288.32,220.61,True,1.096,59,N/A,Engineering software line,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-082,2506.82,2446.25,60.57,True,1.025,59,N/A,Engineering software line,19.0,0-30,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-108,2480.35,2325.15,155.2,True,1.067,59,N/A,Engineering software line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-031,2424.73,2263.59,161.14,True,1.071,59,N/A,Engineering software line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-016,2277.38,2105.91,171.47,True,1.081,59,N/A,Engineering software line,,,Wisconsin,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-059,2231.24,2209.15,22.09,True,1.01,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-105,2199.23,2053.74,145.49,True,1.071,59,N/A,Engineering software line,6.0,0-30,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-018,2165.96,2080.17,85.79,True,1.041,59,N/A,Engineering software line,,,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-035,2156.73,2054.23,102.5,True,1.05,59,N/A,Engineering software line,,,Delaware,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-101,2154.25,1942.73,211.52,True,1.109,59,N/A,Engineering software line,11.0,0-30,South Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-071,2132.33,2011.93,120.4,True,1.06,59,N/A,Engineering software line,20.0,0-30,South Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-051,2129.78,2101.35,28.43,True,1.014,59,N/A,Engineering software line,,,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-042,2089.93,2046.52,43.41,True,1.021,59,N/A,Engineering software line,,,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-011,2084.85,2042.27,42.58,True,1.021,59,N/A,Engineering software line,,,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-006,2042.42,1873.61,168.81,True,1.09,59,N/A,Engineering software line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-030,2028.74,1969.02,59.72,True,1.03,59,N/A,Engineering software line,,,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-060,1988.95,1864.51,124.44,True,1.067,59,N/A,Engineering software line,0.0,0-30,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-085,1983.65,1856.89,126.76,True,1.068,59,N/A,Engineering software line,36.0,31-60,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-125,1972.28,1889.08,83.2,True,1.044,59,N/A,Engineering software line,21.0,0-30,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-136,1965.27,1755.43,209.84,True,1.12,59,N/A,Engineering software line,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-047,1955.69,1888.65,67.04,True,1.035,59,N/A,Engineering software line,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-024,1884.58,1765.1,119.48,True,1.068,59,N/A,Engineering software line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-074,1882.05,1742.95,139.1,True,1.08,59,N/A,Engineering software line,,,Nevada,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-037,1880.9,1851.64,29.26,True,1.016,59,N/A,Engineering software line,,,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-020,1871.74,1784.29,87.45,True,1.049,59,N/A,Engineering software line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-118,1635.55,1578.36,57.19,True,1.036,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-021,1567.87,1434.4,133.47,True,1.093,59,N/A,Engineering software line,50.0,31-60,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-067,1558.1,1542.67,15.43,True,1.01,59,N/A,Engineering software line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-102,1506.17,1405.85,100.32,True,1.071,59,N/A,Engineering software line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-063,1490.83,1467.64,23.19,True,1.016,59,N/A,Engineering software line,,,West Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-038,1348.93,1223.96,124.97,True,1.102,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-069,1322.91,1259.52,63.39,True,1.05,59,N/A,Engineering software line,13.0,0-30,Colorado,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-001,1310.64,1297.66,12.98,True,1.01,59,N/A,Engineering software line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-061,1309.96,1199.49,110.47,True,1.092,59,N/A,Engineering software line,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-076,1289.44,1221.56,67.88,True,1.056,59,N/A,Engineering software line,,,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-023,1287.75,1233.24,54.51,True,1.044,59,N/A,Engineering software line,,,Connecticut,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-033,1276.62,1234.14,42.48,True,1.034,59,N/A,Engineering software line,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-089,1226.41,1166.14,60.27,True,1.052,59,N/A,Engineering software line,27.0,0-30,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-039,1221.19,1173.28,47.91,True,1.041,59,N/A,Engineering software line,33.0,31-60,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-100,1218.73,1179.17,39.56,True,1.034,59,N/A,Engineering software line,0.0,0-30,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-058,1217.73,1143.16,74.57,True,1.065,59,N/A,Engineering software line,34.0,31-60,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-032,1166.35,1139.87,26.48,True,1.023,59,N/A,Engineering software line,,,Kentucky,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-111,1046.58,1010.4,36.18,True,1.036,59,N/A,Engineering software line,13.0,0-30,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-078,1039.43,1010.39,29.04,True,1.029,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-128,1026.36,948.1,78.26,True,1.083,59,N/A,Engineering software line,4.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Salesforce,E-202507-SO-087,1012.69,949.29,63.4,True,1.067,59,N/A,Engineering software line,,,Delaware,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-094,1001.17,951.94,49.23,True,1.052,59,N/A,Engineering software line,36.0,31-60,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-099,992.83,983.0,9.83,True,1.01,59,N/A,Engineering software line,0.0,0-30,Louisiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-045,932.61,890.35,42.26,True,1.047,59,N/A,Engineering software line,16.0,0-30,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-088,884.61,861.97,22.64,True,1.026,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-036,854.17,824.1,30.07,True,1.036,59,N/A,Engineering software line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-120,841.63,786.75,54.88,True,1.07,59,N/A,Engineering software line,23.0,0-30,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-026,812.26,792.68,19.58,True,1.025,59,N/A,Engineering software line,,,Delaware,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-027,798.67,769.16,29.51,True,1.038,59,N/A,Engineering software line,0.0,0-30,Pennsylvania,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-034,780.55,731.54,49.01,True,1.067,59,N/A,Engineering software line,6.0,0-30,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-003,743.23,706.62,36.61,True,1.052,59,N/A,Engineering software line,31.0,31-60,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-138,734.06,726.79,7.27,True,1.01,59,N/A,Engineering software line,24.0,0-30,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-022,709.06,699.35,9.71,True,1.014,59,N/A,Engineering software line,18.0,0-30,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-117,685.9,652.37,33.53,True,1.051,59,N/A,Engineering software line,0.0,0-30,Vermont,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-127,675.52,618.51,57.01,True,1.092,59,N/A,Engineering software line,3.0,0-30,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-104,666.4,637.97,28.43,True,1.045,59,N/A,Engineering software line,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-115,651.96,644.48,7.48,True,1.012,59,N/A,Engineering software line,35.0,31-60,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-103,644.09,620.78,23.31,True,1.038,59,N/A,Engineering software line,,,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-095,628.17,600.31,27.86,True,1.046,59,N/A,Engineering software line,,,Colorado,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-079,606.41,589.8,16.61,True,1.028,59,N/A,Engineering software line,,,Missouri,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-029,590.53,565.6,24.93,True,1.044,59,N/A,Engineering software line,15.0,0-30,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-068,588.71,566.48,22.23,True,1.039,59,N/A,Engineering software line,,,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-119,569.88,521.2,48.68,True,1.093,59,N/A,Engineering software line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-009,541.74,503.75,37.99,True,1.075,59,N/A,Engineering software line,,,Kentucky,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-010,491.46,486.59,4.87,True,1.01,59,N/A,Engineering software line,,,Arkansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-048,480.38,455.24,25.14,True,1.055,59,N/A,Engineering software line,19.0,0-30,New Hampshire,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-081,465.29,450.9,14.39,True,1.032,59,N/A,Engineering software line,45.0,31-60,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-025,448.54,418.31,30.23,True,1.072,59,N/A,Engineering software line,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-090,439.12,432.69,6.43,True,1.015,59,N/A,Engineering software line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-017,417.39,381.67,35.72,True,1.094,59,N/A,Engineering software line,51.0,31-60,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Figma,E-202507-SO-130,394.48,383.71,10.77,True,1.028,59,N/A,Engineering software line,17.0,0-30,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-091,375.56,371.84,3.72,True,1.01,59,N/A,Engineering software line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-107,369.43,356.63,12.8,True,1.036,59,N/A,Engineering software line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-056,356.15,341.24,14.91,True,1.044,59,N/A,Engineering software line,,,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-019,339.65,330.93,8.72,True,1.026,59,N/A,Engineering software line,,,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-135,336.21,323.06,13.15,True,1.041,59,N/A,Engineering software line,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-044,296.39,293.28,3.11,True,1.011,59,N/A,Engineering software line,27.0,0-30,Montana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Atlassian,E-202507-SO-084,263.07,251.01,12.06,True,1.048,59,N/A,Engineering software line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-077,234.52,219.01,15.51,True,1.071,59,N/A,Engineering software line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,AWS,E-202507-SO-028,217.07,209.69,7.38,True,1.035,59,N/A,Engineering software line,22.0,0-30,Mississippi,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-052,177.18,167.47,9.71,True,1.058,59,N/A,Engineering software line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-054,163.17,154.32,8.85,True,1.057,59,N/A,Engineering software line,,,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-133,156.7,147.73,8.97,True,1.061,59,N/A,Engineering software line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-116,151.15,144.84,6.31,True,1.044,59,N/A,Engineering software line,,,Kentucky,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-005,150.22,138.92,11.3,True,1.081,59,N/A,Engineering software line,17.0,0-30,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-065,119.79,109.36,10.43,True,1.095,59,N/A,Engineering software line,,,Connecticut,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Azure,E-202507-SO-126,114.7,107.59,7.11,True,1.066,59,N/A,Engineering software line,,,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-007,107.43,104.0,3.43,True,1.033,59,N/A,Engineering software line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-002,80.02,76.25,3.77,True,1.049,59,N/A,Engineering software line,24.0,0-30,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-050,77.81,72.8,5.01,True,1.069,59,N/A,Engineering software line,,,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GitHub,E-202507-SO-124,38.9,37.71,1.19,True,1.032,59,N/A,Engineering software line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Datadog,E-202507-SO-122,34.29,32.55,1.74,True,1.053,59,N/A,Engineering software line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,Snowflake,E-202507-SO-110,24.19,22.06,2.13,True,1.096,59,N/A,Engineering software line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,software,Software,GCP,E-202507-SO-134,17.61,16.96,0.65,True,1.038,59,N/A,Engineering software line,,,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-019,1321.59,1200.06,121.53,True,1.101,59,N/A,Engineering travel line,,,Oklahoma,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-033,1314.89,1244.27,70.62,True,1.057,59,N/A,Engineering travel line,0.0,0-30,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-049,1269.34,1217.6,51.74,True,1.042,59,N/A,Engineering travel line,10.0,0-30,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-052,1234.1,1221.88,12.22,True,1.01,59,N/A,Engineering travel line,,,Pennsylvania,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-007,1173.47,1161.85,11.62,True,1.01,59,N/A,Engineering travel line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-042,1141.06,1126.13,14.93,True,1.013,59,N/A,Engineering travel line,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-035,1096.08,1030.02,66.06,True,1.064,59,N/A,Engineering travel line,34.0,31-60,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-098,986.11,957.93,28.18,True,1.029,59,N/A,Engineering travel line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-068,949.85,918.54,31.31,True,1.034,59,N/A,Engineering travel line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-084,939.41,881.13,58.28,True,1.066,59,N/A,Engineering travel line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-006,883.17,874.43,8.74,True,1.01,59,N/A,Engineering travel line,12.0,0-30,Tennessee,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-059,840.32,791.13,49.19,True,1.062,59,N/A,Engineering travel line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-051,801.14,768.03,33.11,True,1.043,59,N/A,Engineering travel line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-013,789.52,752.88,36.64,True,1.049,59,N/A,Engineering travel line,,,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-060,767.6,704.65,62.95,True,1.089,59,N/A,Engineering travel line,23.0,0-30,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-078,751.22,722.57,28.65,True,1.04,59,N/A,Engineering travel line,8.0,0-30,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-080,735.69,728.41,7.28,True,1.01,59,N/A,Engineering travel line,,,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-057,717.38,684.1,33.28,True,1.049,59,N/A,Engineering travel line,44.0,31-60,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-032,573.04,538.01,35.03,True,1.065,59,N/A,Engineering travel line,,,Maine,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-025,563.71,535.68,28.03,True,1.052,59,N/A,Engineering travel line,,,Wyoming,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-040,558.32,541.65,16.67,True,1.031,59,N/A,Engineering travel line,,,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-009,545.37,509.91,35.46,True,1.07,59,N/A,Engineering travel line,11.0,0-30,Idaho,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-062,539.79,534.45,5.34,True,1.01,59,N/A,Engineering travel line,4.0,0-30,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-053,499.0,475.8,23.2,True,1.049,59,N/A,Engineering travel line,,,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-097,487.57,465.68,21.89,True,1.047,59,N/A,Engineering travel line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-094,482.58,446.7,35.88,True,1.08,59,N/A,Engineering travel line,,,Kansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-067,473.73,454.03,19.7,True,1.043,59,N/A,Engineering travel line,,,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-004,472.72,459.6,13.12,True,1.029,59,N/A,Engineering travel line,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-029,464.06,431.52,32.54,True,1.075,59,N/A,Engineering travel line,0.0,0-30,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-027,463.27,435.66,27.61,True,1.063,59,N/A,Engineering travel line,,,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-079,454.21,427.43,26.78,True,1.063,59,N/A,Engineering travel line,15.0,0-30,Wisconsin,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-089,447.92,432.8,15.12,True,1.035,59,N/A,Engineering travel line,,,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-044,429.92,412.99,16.93,True,1.041,59,N/A,Engineering travel line,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-082,425.41,418.99,6.42,True,1.015,59,N/A,Engineering travel line,,,Alaska,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-003,415.43,382.68,32.75,True,1.086,59,N/A,Engineering travel line,32.0,31-60,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-008,392.95,378.73,14.22,True,1.038,59,N/A,Engineering travel line,,,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-058,371.41,345.67,25.74,True,1.074,59,N/A,Engineering travel line,,,Kentucky,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-090,344.64,337.55,7.09,True,1.021,59,N/A,Engineering travel line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-031,332.5,322.61,9.89,True,1.031,59,N/A,Engineering travel line,,,South Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-073,327.33,324.09,3.24,True,1.01,59,N/A,Engineering travel line,,,Idaho,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-075,325.26,319.49,5.77,True,1.018,59,N/A,Engineering travel line,,,New Mexico,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-065,320.62,293.36,27.26,True,1.093,59,N/A,Engineering travel line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-076,315.45,312.33,3.12,True,1.01,59,N/A,Engineering travel line,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-050,314.91,296.62,18.29,True,1.062,59,N/A,Engineering travel line,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-016,312.85,295.06,17.79,True,1.06,59,N/A,Engineering travel line,6.0,0-30,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-005,312.14,304.44,7.7,True,1.025,59,N/A,Engineering travel line,,,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-095,311.53,284.26,27.27,True,1.096,59,N/A,Engineering travel line,7.0,0-30,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-086,306.94,283.6,23.34,True,1.082,59,N/A,Engineering travel line,6.0,0-30,Colorado,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-070,298.66,288.7,9.96,True,1.034,59,N/A,Engineering travel line,0.0,0-30,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-037,271.67,267.14,4.53,True,1.017,59,N/A,Engineering travel line,11.0,0-30,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-039,268.23,248.44,19.79,True,1.08,59,N/A,Engineering travel line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-012,253.18,241.8,11.38,True,1.047,59,N/A,Engineering travel line,,,South Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-026,252.19,237.79,14.4,True,1.061,59,N/A,Engineering travel line,0.0,0-30,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-024,250.7,234.23,16.47,True,1.07,59,N/A,Engineering travel line,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-020,241.06,235.32,5.74,True,1.024,59,N/A,Engineering travel line,39.0,31-60,New Hampshire,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-045,240.62,232.63,7.99,True,1.034,59,N/A,Engineering travel line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-002,234.57,223.08,11.49,True,1.051,59,N/A,Engineering travel line,,,Connecticut,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-043,232.97,213.07,19.9,True,1.093,59,N/A,Engineering travel line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-030,223.14,201.2,21.94,True,1.109,59,N/A,Engineering travel line,,,South Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-046,214.71,205.5,9.21,True,1.045,59,N/A,Engineering travel line,31.0,31-60,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-085,211.28,202.15,9.13,True,1.045,59,N/A,Engineering travel line,37.0,31-60,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-038,210.44,199.89,10.55,True,1.053,59,N/A,Engineering travel line,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-028,205.01,187.84,17.17,True,1.091,59,N/A,Engineering travel line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-100,196.08,181.83,14.25,True,1.078,59,N/A,Engineering travel line,,,Florida,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-001,194.57,181.76,12.81,True,1.071,59,N/A,Engineering travel line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-066,192.66,183.46,9.2,True,1.05,59,N/A,Engineering travel line,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-093,188.34,180.34,8.0,True,1.044,59,N/A,Engineering travel line,,,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-055,185.26,180.22,5.04,True,1.028,59,N/A,Engineering travel line,26.0,0-30,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-088,174.78,168.57,6.21,True,1.037,59,N/A,Engineering travel line,43.0,31-60,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-101,171.2,169.5,1.7,True,1.01,59,N/A,Engineering travel line,32.0,31-60,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-017,171.17,161.41,9.76,True,1.06,59,N/A,Engineering travel line,,,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-047,168.02,160.87,7.15,True,1.044,59,N/A,Engineering travel line,,,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-069,167.57,163.06,4.51,True,1.028,59,N/A,Engineering travel line,31.0,31-60,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-034,160.73,149.92,10.81,True,1.072,59,N/A,Engineering travel line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-041,158.33,151.13,7.2,True,1.048,59,N/A,Engineering travel line,,,Connecticut,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-010,157.52,150.78,6.74,True,1.045,59,N/A,Engineering travel line,,,Delaware,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-022,142.3,135.82,6.48,True,1.048,59,N/A,Engineering travel line,,,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-054,139.49,130.03,9.46,True,1.073,59,N/A,Engineering travel line,,,Georgia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-083,130.42,120.25,10.17,True,1.085,59,N/A,Engineering travel line,,,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-099,125.69,119.01,6.68,True,1.056,59,N/A,Engineering travel line,52.0,31-60,Ohio,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-015,123.24,118.25,4.99,True,1.042,59,N/A,Engineering travel line,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-102,117.18,109.23,7.95,True,1.073,59,N/A,Engineering travel line,1.0,0-30,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-087,91.64,86.28,5.36,True,1.062,59,N/A,Engineering travel line,22.0,0-30,Massachusetts,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-021,86.21,76.7,9.51,True,1.124,59,N/A,Engineering travel line,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-072,65.45,63.06,2.39,True,1.038,59,N/A,Engineering travel line,23.0,0-30,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-096,62.96,61.12,1.84,True,1.03,59,N/A,Engineering travel line,26.0,0-30,New Mexico,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Delta,E-202507-TR-081,52.26,51.61,0.65,True,1.013,59,N/A,Engineering travel line,,,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Lyft,E-202507-TR-014,44.8,41.41,3.39,True,1.082,59,N/A,Engineering travel line,,,North Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-063,44.2,43.06,1.14,True,1.026,59,N/A,Engineering travel line,,,Louisiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-011,42.15,38.77,3.38,True,1.087,59,N/A,Engineering travel line,,,Utah,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-036,36.86,33.63,3.23,True,1.096,59,N/A,Engineering travel line,2.0,0-30,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-056,31.36,28.94,2.42,True,1.084,59,N/A,Engineering travel line,,,Tennessee,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-077,28.08,26.45,1.63,True,1.062,59,N/A,Engineering travel line,,,Illinois,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-064,21.97,21.2,0.77,True,1.037,59,N/A,Engineering travel line,,,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-018,14.3,13.61,0.69,True,1.05,59,N/A,Engineering travel line,26.0,0-30,Indiana,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Hilton,E-202507-TR-061,11.91,11.37,0.54,True,1.047,59,N/A,Engineering travel line,,,Kansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Marriott,E-202507-TR-092,9.95,9.34,0.61,True,1.065,59,N/A,Engineering travel line,,,Maine,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-023,9.39,9.19,0.2,True,1.022,59,N/A,Engineering travel line,11.0,0-30,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Amex,E-202507-TR-048,7.38,7.31,0.07,True,1.01,59,N/A,Engineering travel line,26.0,0-30,Wisconsin,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,United,E-202507-TR-074,4.1,3.93,0.17,True,1.043,59,N/A,Engineering travel line,,,Maryland,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Southwest,E-202507-TR-091,4.07,3.75,0.32,True,1.087,59,N/A,Engineering travel line,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,expense,N/A,travel,Travel,Uber,E-202507-TR-071,0.85,0.84,0.01,True,1.01,59,N/A,Engineering travel line,,,South Carolina,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 321,R-202507-AD-007,15719.34,,,,,59,N/A,Allocated influenced revenue,,,Kentucky,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 338,R-202507-AD-002,11766.38,,,,,59,N/A,Allocated influenced revenue,,,Idaho,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 310,R-202507-AD-001,11015.31,,,,,59,N/A,Allocated influenced revenue,,,Kentucky,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 389,R-202507-AD-022,9187.3,,,,,59,N/A,Allocated influenced revenue,,,New Mexico,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 273,R-202507-AD-012,8078.76,,,,,59,N/A,Allocated influenced revenue,,,Michigan,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 060,R-202507-AD-005,7325.67,,,,,59,N/A,Allocated influenced revenue,,,Colorado,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 324,R-202507-AD-006,6900.14,,,,,59,N/A,Allocated influenced revenue,,,Maine,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 028,R-202507-AD-041,6662.92,,,,,59,N/A,Allocated influenced revenue,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 345,R-202507-AD-040,6381.96,,,,,59,N/A,Allocated influenced revenue,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 140,R-202507-AD-023,6191.58,,,,,59,N/A,Allocated influenced revenue,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 095,R-202507-AD-031,6169.86,,,,,59,N/A,Allocated influenced revenue,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 243,R-202507-AD-014,5906.32,,,,,59,N/A,Allocated influenced revenue,,,Oregon,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 066,R-202507-AD-011,5708.6,,,,,59,N/A,Allocated influenced revenue,,,Arkansas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 033,R-202507-AD-020,5695.9,,,,,59,N/A,Allocated influenced revenue,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 357,R-202507-AD-042,5482.45,,,,,59,N/A,Allocated influenced revenue,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 321,R-202507-AD-009,4984.41,,,,,59,N/A,Allocated influenced revenue,,,Kentucky,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 011,R-202507-AD-018,4293.87,,,,,59,N/A,Allocated influenced revenue,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 184,R-202507-AD-038,4073.04,,,,,59,N/A,Allocated influenced revenue,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 230,R-202507-AD-032,3538.63,,,,,59,N/A,Allocated influenced revenue,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 065,R-202507-AD-029,3142.7,,,,,59,N/A,Allocated influenced revenue,,,Iowa,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 226,R-202507-AD-024,3130.23,,,,,59,N/A,Allocated influenced revenue,,,Arizona,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 155,R-202507-AD-035,3116.64,,,,,59,N/A,Allocated influenced revenue,,,Washington,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 129,R-202507-AD-034,2237.82,,,,,59,N/A,Allocated influenced revenue,,,Maine,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 193,R-202507-AD-026,2176.81,,,,,59,N/A,Allocated influenced revenue,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 338,R-202507-AD-025,2097.92,,,,,59,N/A,Allocated influenced revenue,,,Idaho,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 104,R-202507-AD-019,1995.02,,,,,59,N/A,Allocated influenced revenue,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 316,R-202507-AD-030,1941.9,,,,,59,N/A,Allocated influenced revenue,,,Mississippi,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 201,R-202507-AD-013,1728.25,,,,,59,N/A,Allocated influenced revenue,,,Rhode Island,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 019,R-202507-AD-036,1535.52,,,,,59,N/A,Allocated influenced revenue,,,Hawaii,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 138,R-202507-AD-017,1510.44,,,,,59,N/A,Allocated influenced revenue,,,Alabama,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 072,R-202507-AD-037,1466.24,,,,,59,N/A,Allocated influenced revenue,,,New Mexico,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 002,R-202507-AD-039,1382.75,,,,,59,N/A,Allocated influenced revenue,,,California,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 157,R-202507-AD-003,1379.58,,,,,59,N/A,Allocated influenced revenue,,,Virginia,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 311,R-202507-AD-033,1199.08,,,,,59,N/A,Allocated influenced revenue,,,Missouri,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 114,R-202507-AD-021,1040.33,,,,,59,N/A,Allocated influenced revenue,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 070,R-202507-AD-028,860.23,,,,,59,N/A,Allocated influenced revenue,,,Texas,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 268,R-202507-AD-015,771.99,,,,,59,N/A,Allocated influenced revenue,,,Vermont,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 333,R-202507-AD-016,462.54,,,,,59,N/A,Allocated influenced revenue,,,Connecticut,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 258,R-202507-AD-004,439.96,,,,,59,N/A,Allocated influenced revenue,,,New York,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 352,R-202507-AD-027,363.49,,,,,59,N/A,Allocated influenced revenue,,,New Jersey,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 118,R-202507-AD-008,358.57,,,,,59,N/A,Allocated influenced revenue,,,Minnesota,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 222,R-202507-AD-043,352.53,,,,,59,N/A,Allocated influenced revenue,,,Pennsylvania,1216931.44,-1713488.256070122
+2025-07-01,Engineering,revenue,Add-ons,revenue,Add-ons,Customer 024,R-202507-AD-010,332.57,,,,,59,N/A,Allocated influenced revenue,,,Washington,1216931.44,-1713488.256070122

@@ -1,0 +1,392 @@
+month,department,line_type,product_line,category,subcategory,counterparty,invoice_id,amount,budget,variance,is_over_budget,spend_to_budget_ratio,headcount,role,notes,days_past_due,aging_bucket,state,dept_total_opex,company_ebitda
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-029,823.76,802.06,21.7,True,1.027,9,N/A,G&A other line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-020,805.7,737.89,67.81,True,1.092,9,N/A,G&A other line,,,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-006,787.97,749.81,38.16,True,1.051,9,N/A,G&A other line,,,Maryland,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-039,750.57,699.8,50.77,True,1.073,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-036,750.1,728.86,21.24,True,1.029,9,N/A,G&A other line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-055,616.07,560.13,55.94,True,1.1,9,N/A,G&A other line,46.0,31-60,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-085,597.58,554.96,42.62,True,1.077,9,N/A,G&A other line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-022,567.84,546.42,21.42,True,1.039,9,N/A,G&A other line,45.0,31-60,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-071,536.77,520.1,16.67,True,1.032,9,N/A,G&A other line,52.0,31-60,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-038,529.2,517.26,11.94,True,1.023,9,N/A,G&A other line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-046,527.81,503.74,24.07,True,1.048,9,N/A,G&A other line,23.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-105,509.76,499.54,10.22,True,1.02,9,N/A,G&A other line,,,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-065,501.7,481.21,20.49,True,1.043,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-047,442.15,415.26,26.89,True,1.065,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-044,413.47,398.52,14.95,True,1.038,9,N/A,G&A other line,,,Wyoming,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-067,409.12,378.04,31.08,True,1.082,9,N/A,G&A other line,,,Oregon,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-095,404.83,378.91,25.92,True,1.068,9,N/A,G&A other line,0.0,0-30,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-019,362.68,336.08,26.6,True,1.079,9,N/A,G&A other line,28.0,0-30,New Mexico,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-027,327.35,317.74,9.61,True,1.03,9,N/A,G&A other line,0.0,0-30,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-049,326.21,319.27,6.94,True,1.022,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-084,318.62,311.97,6.65,True,1.021,9,N/A,G&A other line,35.0,31-60,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-054,314.01,290.19,23.82,True,1.082,9,N/A,G&A other line,,,Oregon,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-098,313.03,309.93,3.1,True,1.01,9,N/A,G&A other line,,,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-040,297.83,282.88,14.95,True,1.053,9,N/A,G&A other line,,,Arizona,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-012,297.72,269.16,28.56,True,1.106,9,N/A,G&A other line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-016,290.85,274.64,16.21,True,1.059,9,N/A,G&A other line,12.0,0-30,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-100,283.92,264.93,18.99,True,1.072,9,N/A,G&A other line,,,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-066,280.49,271.76,8.73,True,1.032,9,N/A,G&A other line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-069,273.67,260.21,13.46,True,1.052,9,N/A,G&A other line,,,Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-014,269.19,256.41,12.78,True,1.05,9,N/A,G&A other line,,,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-081,265.63,256.68,8.95,True,1.035,9,N/A,G&A other line,,,Alabama,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-076,265.55,262.92,2.63,True,1.01,9,N/A,G&A other line,,,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-031,257.53,244.5,13.03,True,1.053,9,N/A,G&A other line,0.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-106,257.25,240.14,17.11,True,1.071,9,N/A,G&A other line,,,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-102,230.42,221.8,8.62,True,1.039,9,N/A,G&A other line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-107,227.54,218.67,8.87,True,1.041,9,N/A,G&A other line,,,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-101,218.59,201.5,17.09,True,1.085,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-109,216.17,200.21,15.96,True,1.08,9,N/A,G&A other line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-060,208.86,202.73,6.13,True,1.03,9,N/A,G&A other line,27.0,0-30,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-045,201.26,193.03,8.23,True,1.043,9,N/A,G&A other line,0.0,0-30,Maryland,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-052,195.28,193.35,1.93,True,1.01,9,N/A,G&A other line,21.0,0-30,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-077,193.76,184.46,9.3,True,1.05,9,N/A,G&A other line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-003,193.14,176.98,16.16,True,1.091,9,N/A,G&A other line,0.0,0-30,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-062,192.81,184.96,7.85,True,1.042,9,N/A,G&A other line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-037,191.34,186.41,4.93,True,1.026,9,N/A,G&A other line,,,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-082,191.23,180.34,10.89,True,1.06,9,N/A,G&A other line,,,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-063,186.93,184.61,2.32,True,1.013,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-018,185.87,181.27,4.6,True,1.025,9,N/A,G&A other line,4.0,0-30,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-073,179.94,170.27,9.67,True,1.057,9,N/A,G&A other line,40.0,31-60,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-032,164.72,156.44,8.28,True,1.053,9,N/A,G&A other line,5.0,0-30,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-024,162.14,156.53,5.61,True,1.036,9,N/A,G&A other line,22.0,0-30,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-057,161.79,153.74,8.05,True,1.052,9,N/A,G&A other line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-104,160.27,146.33,13.94,True,1.095,9,N/A,G&A other line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-011,158.89,155.69,3.2,True,1.021,9,N/A,G&A other line,,,Oregon,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-026,152.54,150.2,2.34,True,1.016,9,N/A,G&A other line,,,New Mexico,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-007,147.13,133.77,13.36,True,1.1,9,N/A,G&A other line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-013,146.63,145.18,1.45,True,1.01,9,N/A,G&A other line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-030,145.67,136.05,9.62,True,1.071,9,N/A,G&A other line,15.0,0-30,Wyoming,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-033,144.08,140.97,3.11,True,1.022,9,N/A,G&A other line,,,Kansas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-015,130.42,127.44,2.98,True,1.023,9,N/A,G&A other line,,,Maine,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-075,130.24,128.95,1.29,True,1.01,9,N/A,G&A other line,8.0,0-30,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-017,128.3,117.57,10.73,True,1.091,9,N/A,G&A other line,,,Kansas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-087,124.67,114.63,10.04,True,1.088,9,N/A,G&A other line,,,Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-042,117.72,114.36,3.36,True,1.029,9,N/A,G&A other line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-025,115.34,103.27,12.07,True,1.117,9,N/A,G&A other line,22.0,0-30,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-080,112.03,110.92,1.11,True,1.01,9,N/A,G&A other line,35.0,31-60,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-072,111.94,106.98,4.96,True,1.046,9,N/A,G&A other line,,,Wyoming,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-088,111.87,105.35,6.52,True,1.062,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-004,108.53,107.46,1.07,True,1.01,9,N/A,G&A other line,44.0,31-60,Oregon,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-053,107.83,102.03,5.8,True,1.057,9,N/A,G&A other line,20.0,0-30,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-056,106.11,100.4,5.71,True,1.057,9,N/A,G&A other line,30.0,0-30,Indiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-108,105.11,99.96,5.15,True,1.052,9,N/A,G&A other line,,,Montana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-021,104.69,99.34,5.35,True,1.054,9,N/A,G&A other line,21.0,0-30,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-099,104.4,103.37,1.03,True,1.01,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-034,101.64,95.36,6.28,True,1.066,9,N/A,G&A other line,,,Nevada,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-009,96.22,92.44,3.78,True,1.041,9,N/A,G&A other line,,,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-028,90.8,84.0,6.8,True,1.081,9,N/A,G&A other line,31.0,31-60,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-041,84.39,81.93,2.46,True,1.03,9,N/A,G&A other line,,,New Mexico,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-070,82.7,81.23,1.47,True,1.018,9,N/A,G&A other line,40.0,31-60,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-090,81.52,76.12,5.4,True,1.071,9,N/A,G&A other line,22.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-086,79.49,76.73,2.76,True,1.036,9,N/A,G&A other line,14.0,0-30,Wisconsin,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-002,76.01,73.98,2.03,True,1.028,9,N/A,G&A other line,,,Wisconsin,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-096,70.16,66.28,3.88,True,1.058,9,N/A,G&A other line,16.0,0-30,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-091,68.86,64.52,4.34,True,1.067,9,N/A,G&A other line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-089,68.54,65.78,2.76,True,1.042,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-103,67.64,65.85,1.79,True,1.027,9,N/A,G&A other line,29.0,0-30,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-074,63.33,62.7,0.63,True,1.01,9,N/A,G&A other line,,,Missouri,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-094,57.06,56.5,0.56,True,1.01,9,N/A,G&A other line,9.0,0-30,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-008,53.81,51.66,2.15,True,1.042,9,N/A,G&A other line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-097,46.94,42.34,4.6,True,1.109,9,N/A,G&A other line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-059,43.89,41.21,2.68,True,1.065,9,N/A,G&A other line,,,Pennsylvania,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-083,40.57,37.48,3.09,True,1.082,9,N/A,G&A other line,4.0,0-30,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-092,38.84,37.09,1.75,True,1.047,9,N/A,G&A other line,7.0,0-30,Idaho,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-001,28.66,26.29,2.37,True,1.09,9,N/A,G&A other line,17.0,0-30,Maryland,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-050,28.64,27.03,1.61,True,1.06,9,N/A,G&A other line,20.0,0-30,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,WeWork,E-202502-OT-068,27.4,26.19,1.21,True,1.046,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-023,19.95,19.06,0.89,True,1.047,9,N/A,G&A other line,,,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-043,18.32,17.64,0.68,True,1.039,9,N/A,G&A other line,50.0,31-60,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-064,18.22,16.81,1.41,True,1.084,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-051,12.58,12.0,0.58,True,1.048,9,N/A,G&A other line,,,Indiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,UPS,E-202502-OT-093,11.3,10.73,0.57,True,1.053,9,N/A,G&A other line,45.0,31-60,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-005,11.14,10.63,0.51,True,1.048,9,N/A,G&A other line,17.0,0-30,Alaska,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-048,7.23,7.13,0.1,True,1.014,9,N/A,G&A other line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-079,6.66,6.44,0.22,True,1.033,9,N/A,G&A other line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-010,5.64,5.21,0.43,True,1.083,9,N/A,G&A other line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,OfficeDepot,E-202502-OT-035,4.32,4.19,0.13,True,1.031,9,N/A,G&A other line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,FedEx,E-202502-OT-078,2.48,2.31,0.17,True,1.076,9,N/A,G&A other line,,,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,Staples,E-202502-OT-061,2.39,2.24,0.15,True,1.067,9,N/A,G&A other line,,,Missouri,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,other,Other,LegalCo,E-202502-OT-058,0.55,0.54,0.01,True,1.02,9,N/A,G&A other line,,,Alabama,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-058,6989.87,6737.62,252.25,True,1.037,9,Exec,G&A payroll line,11.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-049,6040.25,5846.23,194.02,True,1.033,9,Admin,G&A payroll line,33.0,31-60,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-002,4124.92,4073.77,51.15,True,1.013,9,Admin,G&A payroll line,,,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-059,2854.12,2825.86,28.26,True,1.01,9,Admin,G&A payroll line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-017,2512.01,2352.67,159.34,True,1.068,9,Legal,G&A payroll line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-007,2371.36,2347.88,23.48,True,1.01,9,Admin,G&A payroll line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-057,2264.69,2126.68,138.01,True,1.065,9,Admin,G&A payroll line,,,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-060,2195.46,2034.09,161.37,True,1.079,9,Admin,G&A payroll line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-066,2003.34,1798.83,204.51,True,1.114,9,Admin,G&A payroll line,,,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-056,1959.97,1793.05,166.92,True,1.093,9,Legal,G&A payroll line,,,Connecticut,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-036,1926.63,1872.44,54.19,True,1.029,9,Exec,G&A payroll line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-001,1847.48,1685.93,161.55,True,1.096,9,Admin,G&A payroll line,0.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-048,1842.53,1731.24,111.29,True,1.064,9,Admin,G&A payroll line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-035,1779.48,1737.74,41.74,True,1.024,9,Admin,G&A payroll line,14.0,0-30,North Dakota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-009,1777.62,1760.02,17.6,True,1.01,9,Admin,G&A payroll line,,,Kansas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-040,1731.79,1653.21,78.58,True,1.048,9,Legal,G&A payroll line,19.0,0-30,Wisconsin,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-018,1718.47,1591.33,127.14,True,1.08,9,Exec,G&A payroll line,23.0,0-30,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-039,1653.9,1603.12,50.78,True,1.032,9,Admin,G&A payroll line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-015,1641.43,1583.96,57.47,True,1.036,9,Admin,G&A payroll line,,,Maryland,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-026,1641.33,1615.11,26.22,True,1.016,9,Legal,G&A payroll line,14.0,0-30,Alabama,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-041,1604.49,1524.84,79.65,True,1.052,9,Admin,G&A payroll line,14.0,0-30,Missouri,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-055,1579.51,1528.5,51.01,True,1.033,9,Admin,G&A payroll line,12.0,0-30,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-006,1576.79,1492.0,84.79,True,1.057,9,Admin,G&A payroll line,,,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-004,1501.15,1400.58,100.57,True,1.072,9,Admin,G&A payroll line,,,Arizona,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-037,1445.19,1395.56,49.63,True,1.036,9,Exec,G&A payroll line,,,Wyoming,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-061,1431.98,1365.45,66.53,True,1.049,9,Admin,G&A payroll line,,,Kentucky,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-064,1323.96,1216.74,107.22,True,1.088,9,Legal,G&A payroll line,,,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-013,1238.4,1200.09,38.31,True,1.032,9,Admin,G&A payroll line,26.0,0-30,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-033,1208.2,1139.56,68.64,True,1.06,9,Admin,G&A payroll line,7.0,0-30,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-024,955.34,925.69,29.65,True,1.032,9,Exec,G&A payroll line,19.0,0-30,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-019,939.9,896.07,43.83,True,1.049,9,Exec,G&A payroll line,,,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-027,926.01,874.91,51.1,True,1.058,9,Exec,G&A payroll line,,,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-030,857.26,810.88,46.38,True,1.057,9,Admin,G&A payroll line,,,Nevada,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-065,805.72,775.48,30.24,True,1.039,9,Exec,G&A payroll line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-050,779.28,705.63,73.65,True,1.104,9,Exec,G&A payroll line,,,Kentucky,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-062,772.2,715.96,56.24,True,1.079,9,Exec,G&A payroll line,25.0,0-30,Oregon,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-029,658.23,629.07,29.16,True,1.046,9,Legal,G&A payroll line,25.0,0-30,Vermont,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-021,655.56,637.42,18.14,True,1.028,9,Admin,G&A payroll line,,,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-020,596.78,554.62,42.16,True,1.076,9,Legal,G&A payroll line,23.0,0-30,Indiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-014,566.97,521.46,45.51,True,1.087,9,Admin,G&A payroll line,,,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-052,561.68,513.22,48.46,True,1.094,9,Legal,G&A payroll line,44.0,31-60,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-008,545.78,522.67,23.11,True,1.044,9,Legal,G&A payroll line,,,Delaware,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-053,511.29,478.4,32.89,True,1.069,9,Exec,G&A payroll line,,,Arizona,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-025,498.09,464.66,33.43,True,1.072,9,Exec,G&A payroll line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-045,497.75,480.9,16.85,True,1.035,9,Admin,G&A payroll line,0.0,0-30,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-032,479.81,442.33,37.48,True,1.085,9,Legal,G&A payroll line,0.0,0-30,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-031,472.12,434.81,37.31,True,1.086,9,Exec,G&A payroll line,32.0,31-60,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-043,435.83,403.6,32.23,True,1.08,9,Exec,G&A payroll line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-034,430.93,399.55,31.38,True,1.079,9,Legal,G&A payroll line,0.0,0-30,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-012,426.52,401.41,25.11,True,1.063,9,Admin,G&A payroll line,15.0,0-30,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-042,396.61,375.49,21.12,True,1.056,9,Legal,G&A payroll line,33.0,31-60,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-051,377.19,371.16,6.03,True,1.016,9,Admin,G&A payroll line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-016,320.53,298.45,22.08,True,1.074,9,Admin,G&A payroll line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-028,316.4,297.51,18.89,True,1.064,9,Admin,G&A payroll line,,,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-023,246.09,241.47,4.62,True,1.019,9,Legal,G&A payroll line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-047,236.95,230.3,6.65,True,1.029,9,Exec,G&A payroll line,6.0,0-30,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-044,215.19,207.28,7.91,True,1.038,9,Exec,G&A payroll line,45.0,31-60,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-010,211.89,201.83,10.06,True,1.05,9,Exec,G&A payroll line,,,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-054,193.76,191.84,1.92,True,1.01,9,Exec,G&A payroll line,23.0,0-30,New Mexico,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-011,131.1,123.93,7.17,True,1.058,9,Exec,G&A payroll line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-022,107.34,104.49,2.85,True,1.027,9,Admin,G&A payroll line,,,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-003,105.88,103.39,2.49,True,1.024,9,Legal,G&A payroll line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-038,100.48,94.22,6.26,True,1.066,9,Legal,G&A payroll line,24.0,0-30,Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Rippling,E-202502-PA-005,99.28,97.74,1.54,True,1.016,9,Admin,G&A payroll line,,,Maryland,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Workday,E-202502-PA-063,64.19,61.52,2.67,True,1.043,9,Admin,G&A payroll line,,,Idaho,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,payroll,Payroll,Gusto,E-202502-PA-046,28.8,27.25,1.55,True,1.057,9,Exec,G&A payroll line,36.0,31-60,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-098,746.08,704.72,41.36,True,1.059,9,N/A,G&A software line,,,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-058,591.88,586.02,5.86,True,1.01,9,N/A,G&A software line,,,Oklahoma,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-016,576.15,551.93,24.22,True,1.044,9,N/A,G&A software line,34.0,31-60,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-125,517.16,477.24,39.92,True,1.084,9,N/A,G&A software line,14.0,0-30,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-096,515.64,487.2,28.44,True,1.058,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-018,512.53,502.08,10.45,True,1.021,9,N/A,G&A software line,11.0,0-30,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-072,476.59,440.36,36.23,True,1.082,9,N/A,G&A software line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-113,449.35,437.69,11.66,True,1.027,9,N/A,G&A software line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-046,434.36,427.06,7.3,True,1.017,9,N/A,G&A software line,23.0,0-30,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-014,418.15,414.01,4.14,True,1.01,9,N/A,G&A software line,,,Kentucky,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-105,409.23,400.11,9.12,True,1.023,9,N/A,G&A software line,,,Arizona,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-045,408.11,381.14,26.97,True,1.071,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-051,399.82,383.12,16.7,True,1.044,9,N/A,G&A software line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-021,390.55,359.63,30.92,True,1.086,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-107,368.53,353.75,14.78,True,1.042,9,N/A,G&A software line,33.0,31-60,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-068,357.41,344.4,13.01,True,1.038,9,N/A,G&A software line,,,Missouri,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-034,353.64,339.3,14.34,True,1.042,9,N/A,G&A software line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-112,342.04,313.99,28.05,True,1.089,9,N/A,G&A software line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-062,332.44,304.47,27.97,True,1.092,9,N/A,G&A software line,,,New Mexico,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-104,324.02,316.66,7.36,True,1.023,9,N/A,G&A software line,,,Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-101,313.09,290.78,22.31,True,1.077,9,N/A,G&A software line,,,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-093,310.82,300.68,10.14,True,1.034,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-029,298.96,293.73,5.23,True,1.018,9,N/A,G&A software line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-117,297.46,289.43,8.03,True,1.028,9,N/A,G&A software line,21.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-076,297.44,288.29,9.15,True,1.032,9,N/A,G&A software line,28.0,0-30,Indiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-074,281.72,263.69,18.03,True,1.068,9,N/A,G&A software line,16.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-005,265.71,263.08,2.63,True,1.01,9,N/A,G&A software line,,,Nevada,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-013,265.21,248.45,16.76,True,1.067,9,N/A,G&A software line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-088,255.94,237.86,18.08,True,1.076,9,N/A,G&A software line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-095,243.21,227.36,15.85,True,1.07,9,N/A,G&A software line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-040,238.26,218.66,19.6,True,1.09,9,N/A,G&A software line,,,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-001,237.95,235.43,2.52,True,1.011,9,N/A,G&A software line,16.0,0-30,Maine,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-086,236.6,229.29,7.31,True,1.032,9,N/A,G&A software line,40.0,31-60,New Hampshire,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-089,234.18,227.78,6.4,True,1.028,9,N/A,G&A software line,13.0,0-30,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-049,233.17,228.63,4.54,True,1.02,9,N/A,G&A software line,30.0,0-30,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-024,226.63,210.41,16.22,True,1.077,9,N/A,G&A software line,,,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-083,226.09,212.67,13.42,True,1.063,9,N/A,G&A software line,,,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-036,224.87,214.56,10.31,True,1.048,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-111,220.86,202.44,18.42,True,1.091,9,N/A,G&A software line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-084,198.14,184.54,13.6,True,1.074,9,N/A,G&A software line,0.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-042,194.15,192.23,1.92,True,1.01,9,N/A,G&A software line,29.0,0-30,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-063,190.4,174.55,15.85,True,1.091,9,N/A,G&A software line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-054,189.96,184.81,5.15,True,1.028,9,N/A,G&A software line,,,Missouri,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-039,188.09,178.19,9.9,True,1.056,9,N/A,G&A software line,43.0,31-60,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-052,185.34,183.5,1.84,True,1.01,9,N/A,G&A software line,,,Kansas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-044,184.92,171.98,12.94,True,1.075,9,N/A,G&A software line,15.0,0-30,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-115,171.01,158.86,12.15,True,1.076,9,N/A,G&A software line,,,Iowa,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-025,167.61,165.95,1.66,True,1.01,9,N/A,G&A software line,,,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-080,163.35,155.0,8.35,True,1.054,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-003,162.82,159.08,3.74,True,1.023,9,N/A,G&A software line,22.0,0-30,Pennsylvania,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-041,160.78,147.37,13.41,True,1.091,9,N/A,G&A software line,,,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-108,159.45,152.06,7.39,True,1.049,9,N/A,G&A software line,,,Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-071,156.21,154.66,1.55,True,1.01,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-043,154.85,141.37,13.48,True,1.095,9,N/A,G&A software line,21.0,0-30,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-085,154.21,149.27,4.94,True,1.033,9,N/A,G&A software line,,,Pennsylvania,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-082,146.55,138.31,8.24,True,1.06,9,N/A,G&A software line,20.0,0-30,Delaware,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-106,139.97,132.22,7.75,True,1.059,9,N/A,G&A software line,8.0,0-30,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-075,136.85,127.4,9.45,True,1.074,9,N/A,G&A software line,,,Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-050,133.57,128.2,5.37,True,1.042,9,N/A,G&A software line,10.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-007,131.32,127.14,4.18,True,1.033,9,N/A,G&A software line,29.0,0-30,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-031,129.15,123.16,5.99,True,1.049,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-009,128.51,124.45,4.06,True,1.033,9,N/A,G&A software line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-028,127.78,122.97,4.81,True,1.039,9,N/A,G&A software line,,,Wisconsin,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-092,121.9,112.45,9.45,True,1.084,9,N/A,G&A software line,16.0,0-30,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-070,118.17,116.49,1.68,True,1.014,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-047,115.13,113.28,1.85,True,1.016,9,N/A,G&A software line,,,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-020,113.56,112.44,1.12,True,1.01,9,N/A,G&A software line,21.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-102,108.99,105.05,3.94,True,1.038,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-081,104.61,98.96,5.65,True,1.057,9,N/A,G&A software line,40.0,31-60,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-011,102.93,90.57,12.36,True,1.137,9,N/A,G&A software line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-055,100.99,92.88,8.11,True,1.087,9,N/A,G&A software line,,,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-103,96.62,94.66,1.96,True,1.021,9,N/A,G&A software line,26.0,0-30,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-015,93.31,87.94,5.37,True,1.061,9,N/A,G&A software line,13.0,0-30,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-035,91.57,84.07,7.5,True,1.089,9,N/A,G&A software line,,,New Mexico,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-116,91.21,88.79,2.42,True,1.027,9,N/A,G&A software line,52.0,31-60,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-123,87.81,82.15,5.66,True,1.069,9,N/A,G&A software line,,,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-008,85.54,79.41,6.13,True,1.077,9,N/A,G&A software line,45.0,31-60,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-109,83.03,75.97,7.06,True,1.093,9,N/A,G&A software line,12.0,0-30,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-010,82.68,81.09,1.59,True,1.02,9,N/A,G&A software line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-027,77.3,76.53,0.77,True,1.01,9,N/A,G&A software line,18.0,0-30,West Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-006,76.13,74.18,1.95,True,1.026,9,N/A,G&A software line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-061,74.24,69.9,4.34,True,1.062,9,N/A,G&A software line,,,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-066,72.29,66.72,5.57,True,1.084,9,N/A,G&A software line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-122,70.63,64.73,5.9,True,1.091,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-059,69.91,65.45,4.46,True,1.068,9,N/A,G&A software line,,,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-120,67.13,62.27,4.86,True,1.078,9,N/A,G&A software line,25.0,0-30,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-090,65.55,64.43,1.12,True,1.017,9,N/A,G&A software line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-019,65.48,62.16,3.32,True,1.053,9,N/A,G&A software line,5.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-097,64.55,60.4,4.15,True,1.069,9,N/A,G&A software line,30.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-032,59.17,52.63,6.54,True,1.124,9,N/A,G&A software line,,,Alaska,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-094,58.31,57.58,0.73,True,1.013,9,N/A,G&A software line,,,Kentucky,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-030,58.29,52.7,5.59,True,1.106,9,N/A,G&A software line,35.0,31-60,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-077,57.59,56.99,0.6,True,1.01,9,N/A,G&A software line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-037,54.15,50.85,3.3,True,1.065,9,N/A,G&A software line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-078,52.63,51.23,1.4,True,1.027,9,N/A,G&A software line,0.0,0-30,New Mexico,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-114,52.44,50.92,1.52,True,1.03,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-033,49.96,48.0,1.96,True,1.041,9,N/A,G&A software line,,,Oklahoma,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-057,49.61,48.42,1.19,True,1.025,9,N/A,G&A software line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-073,45.56,44.48,1.08,True,1.024,9,N/A,G&A software line,29.0,0-30,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-004,44.41,40.6,3.81,True,1.094,9,N/A,G&A software line,11.0,0-30,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-026,43.8,43.02,0.78,True,1.018,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-110,43.54,41.56,1.98,True,1.048,9,N/A,G&A software line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-060,42.36,38.22,4.14,True,1.108,9,N/A,G&A software line,,,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-079,42.19,38.31,3.88,True,1.101,9,N/A,G&A software line,25.0,0-30,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-002,39.84,37.36,2.48,True,1.066,9,N/A,G&A software line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-091,38.76,35.94,2.82,True,1.079,9,N/A,G&A software line,,,Alabama,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-118,38.32,37.94,0.38,True,1.01,9,N/A,G&A software line,0.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Datadog,E-202502-SO-023,33.72,31.92,1.8,True,1.056,9,N/A,G&A software line,28.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-064,31.0,29.82,1.18,True,1.039,9,N/A,G&A software line,11.0,0-30,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-017,27.87,26.42,1.45,True,1.055,9,N/A,G&A software line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-038,27.02,26.75,0.27,True,1.01,9,N/A,G&A software line,,,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-067,26.57,25.86,0.71,True,1.028,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GCP,E-202502-SO-053,24.05,22.95,1.1,True,1.048,9,N/A,G&A software line,16.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-022,19.97,19.71,0.26,True,1.013,9,N/A,G&A software line,59.0,31-60,Indiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-056,19.6,18.75,0.85,True,1.045,9,N/A,G&A software line,29.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-069,19.38,18.72,0.66,True,1.035,9,N/A,G&A software line,9.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,GitHub,E-202502-SO-124,18.46,16.95,1.51,True,1.089,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-048,14.87,14.06,0.81,True,1.058,9,N/A,G&A software line,,,Massachusetts,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Figma,E-202502-SO-121,11.65,10.52,1.13,True,1.108,9,N/A,G&A software line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Azure,E-202502-SO-099,10.6,10.5,0.1,True,1.01,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-119,10.09,9.94,0.15,True,1.015,9,N/A,G&A software line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,AWS,E-202502-SO-100,6.27,5.68,0.59,True,1.104,9,N/A,G&A software line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Salesforce,E-202502-SO-087,5.76,5.63,0.13,True,1.024,9,N/A,G&A software line,,,Indiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Atlassian,E-202502-SO-012,4.87,4.5,0.37,True,1.082,9,N/A,G&A software line,,,Nevada,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,software,Software,Snowflake,E-202502-SO-065,1.41,1.31,0.1,True,1.079,9,N/A,G&A software line,,,Colorado,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-027,1468.2,1372.22,95.98,True,1.07,9,N/A,G&A travel line,,,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-053,1024.41,988.72,35.69,True,1.036,9,N/A,G&A travel line,,,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-021,957.84,948.36,9.48,True,1.01,9,N/A,G&A travel line,30.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-066,800.81,737.6,63.21,True,1.086,9,N/A,G&A travel line,9.0,0-30,Pennsylvania,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-061,781.41,746.78,34.63,True,1.046,9,N/A,G&A travel line,27.0,0-30,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-064,721.99,683.29,38.7,True,1.057,9,N/A,G&A travel line,,,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-004,703.08,684.01,19.07,True,1.028,9,N/A,G&A travel line,,,Oregon,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-071,611.24,564.86,46.38,True,1.082,9,N/A,G&A travel line,49.0,31-60,Maryland,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-080,564.98,505.2,59.78,True,1.118,9,N/A,G&A travel line,,,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-003,555.39,524.6,30.79,True,1.059,9,N/A,G&A travel line,,,Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-019,544.06,504.9,39.16,True,1.078,9,N/A,G&A travel line,,,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-022,519.7,511.82,7.88,True,1.015,9,N/A,G&A travel line,,,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-041,513.9,476.21,37.69,True,1.079,9,N/A,G&A travel line,,,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-040,498.46,474.54,23.92,True,1.05,9,N/A,G&A travel line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-033,496.32,466.88,29.44,True,1.063,9,N/A,G&A travel line,,,Oklahoma,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-034,464.06,441.61,22.45,True,1.051,9,N/A,G&A travel line,,,New Hampshire,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-032,463.93,424.77,39.16,True,1.092,9,N/A,G&A travel line,,,Indiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-059,463.57,425.65,37.92,True,1.089,9,N/A,G&A travel line,,,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-013,442.51,438.13,4.38,True,1.01,9,N/A,G&A travel line,29.0,0-30,Maine,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-031,394.86,367.78,27.08,True,1.074,9,N/A,G&A travel line,33.0,31-60,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-035,387.48,362.36,25.12,True,1.069,9,N/A,G&A travel line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-046,371.35,343.44,27.91,True,1.081,9,N/A,G&A travel line,17.0,0-30,Maine,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-011,368.08,344.23,23.85,True,1.069,9,N/A,G&A travel line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-062,367.15,352.3,14.85,True,1.042,9,N/A,G&A travel line,13.0,0-30,Wisconsin,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-058,341.07,337.69,3.38,True,1.01,9,N/A,G&A travel line,34.0,31-60,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-002,321.64,318.46,3.18,True,1.01,9,N/A,G&A travel line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-051,319.23,304.1,15.13,True,1.05,9,N/A,G&A travel line,,,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-029,313.02,299.14,13.88,True,1.046,9,N/A,G&A travel line,,,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-048,299.4,287.34,12.06,True,1.042,9,N/A,G&A travel line,,,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-081,291.73,288.84,2.89,True,1.01,9,N/A,G&A travel line,,,Maryland,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-042,284.47,279.35,5.12,True,1.018,9,N/A,G&A travel line,25.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-044,277.4,254.84,22.56,True,1.089,9,N/A,G&A travel line,,,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-082,267.86,262.21,5.65,True,1.022,9,N/A,G&A travel line,0.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-069,266.53,258.81,7.72,True,1.03,9,N/A,G&A travel line,14.0,0-30,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-079,255.22,244.33,10.89,True,1.045,9,N/A,G&A travel line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-084,233.29,214.8,18.49,True,1.086,9,N/A,G&A travel line,,,Florida,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-015,229.8,218.39,11.41,True,1.052,9,N/A,G&A travel line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-026,214.31,203.89,10.42,True,1.051,9,N/A,G&A travel line,,,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-060,208.93,202.05,6.88,True,1.034,9,N/A,G&A travel line,20.0,0-30,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-037,203.81,200.29,3.52,True,1.018,9,N/A,G&A travel line,0.0,0-30,Texas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-008,195.87,187.23,8.64,True,1.046,9,N/A,G&A travel line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-085,190.82,181.6,9.22,True,1.051,9,N/A,G&A travel line,,,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-057,177.73,165.09,12.64,True,1.077,9,N/A,G&A travel line,5.0,0-30,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-054,170.67,167.44,3.23,True,1.019,9,N/A,G&A travel line,,,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-083,147.7,137.36,10.34,True,1.075,9,N/A,G&A travel line,,,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-018,135.37,119.99,15.38,True,1.128,9,N/A,G&A travel line,,,New York,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-001,130.1,127.01,3.09,True,1.024,9,N/A,G&A travel line,7.0,0-30,Arkansas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-049,124.41,120.23,4.18,True,1.035,9,N/A,G&A travel line,,,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-039,116.03,109.43,6.6,True,1.06,9,N/A,G&A travel line,,,Wyoming,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-068,112.05,107.94,4.11,True,1.038,9,N/A,G&A travel line,55.0,31-60,Georgia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-090,110.33,105.57,4.76,True,1.045,9,N/A,G&A travel line,,,Alabama,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-072,109.94,105.55,4.39,True,1.042,9,N/A,G&A travel line,,,Kentucky,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-010,105.1,101.48,3.62,True,1.036,9,N/A,G&A travel line,,,Pennsylvania,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-038,102.66,99.23,3.43,True,1.035,9,N/A,G&A travel line,20.0,0-30,Alabama,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-065,100.87,94.8,6.07,True,1.064,9,N/A,G&A travel line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-078,91.51,85.74,5.77,True,1.067,9,N/A,G&A travel line,,,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-077,87.64,86.47,1.17,True,1.014,9,N/A,G&A travel line,,,Louisiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-055,84.06,80.68,3.38,True,1.042,9,N/A,G&A travel line,,,Connecticut,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-005,79.48,73.9,5.58,True,1.076,9,N/A,G&A travel line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-067,79.4,75.15,4.25,True,1.057,9,N/A,G&A travel line,,,Arizona,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-017,79.14,73.45,5.69,True,1.078,9,N/A,G&A travel line,,,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-007,77.91,69.8,8.11,True,1.116,9,N/A,G&A travel line,,,Kansas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-028,77.42,74.52,2.9,True,1.039,9,N/A,G&A travel line,14.0,0-30,North Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-009,72.42,67.74,4.68,True,1.069,9,N/A,G&A travel line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Hilton,E-202502-TR-045,70.77,69.26,1.51,True,1.022,9,N/A,G&A travel line,,,South Carolina,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-073,62.2,55.37,6.83,True,1.123,9,N/A,G&A travel line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-087,61.69,60.47,1.22,True,1.02,9,N/A,G&A travel line,36.0,31-60,Idaho,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-043,60.63,56.53,4.1,True,1.072,9,N/A,G&A travel line,51.0,31-60,New Jersey,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-088,58.85,54.81,4.04,True,1.074,9,N/A,G&A travel line,,,Maryland,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-020,55.08,53.55,1.53,True,1.029,9,N/A,G&A travel line,52.0,31-60,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-056,51.79,49.23,2.56,True,1.052,9,N/A,G&A travel line,43.0,31-60,Alabama,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-047,45.22,42.91,2.31,True,1.054,9,N/A,G&A travel line,18.0,0-30,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-063,44.17,43.21,0.96,True,1.022,9,N/A,G&A travel line,33.0,31-60,Minnesota,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-025,43.02,41.15,1.87,True,1.045,9,N/A,G&A travel line,,,Utah,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-052,32.78,32.46,0.32,True,1.01,9,N/A,G&A travel line,,,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-036,23.01,22.19,0.82,True,1.037,9,N/A,G&A travel line,17.0,0-30,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-050,21.76,20.96,0.8,True,1.038,9,N/A,G&A travel line,,,Rhode Island,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-030,21.69,20.12,1.57,True,1.078,9,N/A,G&A travel line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Uber,E-202502-TR-023,19.61,18.16,1.45,True,1.08,9,N/A,G&A travel line,,,Idaho,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-006,17.99,17.07,0.92,True,1.054,9,N/A,G&A travel line,,,California,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Delta,E-202502-TR-089,17.78,17.36,0.42,True,1.024,9,N/A,G&A travel line,19.0,0-30,New Mexico,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-070,16.33,15.94,0.39,True,1.025,9,N/A,G&A travel line,,,Tennessee,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-091,14.6,13.78,0.82,True,1.059,9,N/A,G&A travel line,,,Illinois,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,United,E-202502-TR-074,14.51,13.69,0.82,True,1.06,9,N/A,G&A travel line,,,Washington,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-016,13.74,12.4,1.34,True,1.108,9,N/A,G&A travel line,,,Connecticut,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-086,12.51,11.54,0.97,True,1.084,9,N/A,G&A travel line,,,Indiana,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-076,7.13,6.89,0.24,True,1.035,9,N/A,G&A travel line,,,Michigan,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Southwest,E-202502-TR-075,6.12,5.76,0.36,True,1.062,9,N/A,G&A travel line,22.0,0-30,Kansas,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Lyft,E-202502-TR-014,5.1,4.83,0.27,True,1.055,9,N/A,G&A travel line,,,Ohio,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Marriott,E-202502-TR-012,4.27,4.07,0.2,True,1.048,9,N/A,G&A travel line,,,Virginia,146406.61,-1587739.4384401243
+2025-02-01,G&A,expense,N/A,travel,Travel,Amex,E-202502-TR-024,2.13,2.09,0.04,True,1.018,9,N/A,G&A travel line,,,Delaware,146406.61,-1587739.4384401243
