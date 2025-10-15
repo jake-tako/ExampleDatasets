@@ -1,0 +1,13 @@
+AssetID,AssetType,DealName,IssueDate,IssueAmount,IssuePrice,Maturity Date,Yield To Maturity,Rate Type,Floating Spread Type,Floating Spread,Floating Spread Floor,Discount To Maturity,Current Global Outstanding,IssuerID,IssuerName
+AST-0001,Bond,Aurora Bond 2024,2023-10-23,489000000,96.248,2030-10-23,0.0598,Fixed,,,,0.0421,381371908,ISS-0001,Aurora Packaging LLC
+AST-0002,Bond,Aurora Bond 2024,2021-09-27,370000000,95.531,2027-09-27,0.0867,Floating,LIBOR (Legacy),0.0331,0.0039,0.027,308839172,ISS-0001,Aurora Packaging LLC
+AST-0003,Term Loan,BlueRidge Term Loan 2024,2021-07-07,479000000,96.656,2025-07-07,0.1092,Fixed,,,,0.0008,368523723,ISS-0002,"BlueRidge Software, Inc."
+AST-0004,Term Loan,BlueRidge Term Loan 2024,2022-10-10,571000000,95.084,2028-10-10,0.1015,Fixed,,,,0.0395,481001258,ISS-0002,"BlueRidge Software, Inc."
+AST-0005,Bond,Canyon Bond B,2021-02-10,127000000,100.179,2028-02-10,0.081,Fixed,,,,0.0032,91997901,ISS-0003,Canyon Healthcare Holdings
+AST-0006,Bond,Canyon Bond TLB,2021-04-09,783000000,98.825,2027-04-09,0.0899,Fixed,,,,0.006,693188267,ISS-0003,Canyon Healthcare Holdings
+AST-0007,Term Loan,Deltamax Term Loan TLB,2024-05-26,602000000,99.626,2030-05-26,0.0482,Fixed,,,,0.0214,367320925,ISS-0004,Deltamax Manufacturing Co.
+AST-0008,Term Loan,Deltamax Term Loan 2025,2025-05-18,340000000,96.886,2032-05-18,0.1006,Fixed,,,,0.0125,259812077,ISS-0004,Deltamax Manufacturing Co.
+AST-0009,Term Loan,Evergreen Term Loan TLB,2023-11-26,624000000,95.462,2029-11-26,0.1006,Floating,SOFR,0.0482,0.0081,0.0053,488351028,ISS-0005,Evergreen Foods Group
+AST-0010,Bond,Evergreen Bond 2024,2024-09-25,430000000,96.946,2030-09-25,0.1167,Fixed,,,,0.0453,304806746,ISS-0005,Evergreen Foods Group
+AST-0011,Term Loan,Frontier Term Loan A,2022-09-20,358000000,95.042,2029-09-20,0.0877,Floating,Prime,0.0306,0.0012,0.0084,246127036,ISS-0006,Frontier Logistics Partners
+AST-0012,Bond,Frontier Bond A,2025-09-12,212000000,95.389,2030-09-12,0.122,Floating,SOFR,0.0424,0.0071,0.0142,130328013,ISS-0006,Frontier Logistics Partners

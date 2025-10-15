@@ -1,0 +1,13 @@
+AVClientID,ID,CreditName,IssuerID,WorkflowStep,LaunchDate,DealType,IsActive,AssetID
+AV-CLIENT-01,CR-0001,Aurora Bond 2024,ISS-0001,Launched,2023-10-23,Revolver,True,AST-0001
+AV-CLIENT-01,CR-0002,Aurora Bond 2024,ISS-0001,Active,2021-09-27,Revolver,True,AST-0002
+AV-CLIENT-01,CR-0003,BlueRidge Term Loan 2024,ISS-0002,Monitoring,2021-07-07,Term Loan,True,AST-0003
+AV-CLIENT-01,CR-0004,BlueRidge Term Loan 2024,ISS-0002,Launched,2022-10-10,Term Loan,True,AST-0004
+AV-CLIENT-01,CR-0005,Canyon Bond B,ISS-0003,Monitoring,2021-02-10,Revolver,True,AST-0005
+AV-CLIENT-01,CR-0006,Canyon Bond TLB,ISS-0003,Active,2021-04-09,Term Loan,True,AST-0006
+AV-CLIENT-01,CR-0007,Deltamax Term Loan TLB,ISS-0004,Active,2024-05-26,Revolver,True,AST-0007
+AV-CLIENT-01,CR-0008,Deltamax Term Loan 2025,ISS-0004,Monitoring,2025-05-18,Bond,True,AST-0008
+AV-CLIENT-01,CR-0009,Evergreen Term Loan TLB,ISS-0005,Monitoring,2023-11-26,Bond,True,AST-0009
+AV-CLIENT-01,CR-0010,Evergreen Bond 2024,ISS-0005,Launched,2024-09-25,Bond,True,AST-0010
+AV-CLIENT-01,CR-0011,Frontier Term Loan A,ISS-0006,Active,2022-09-20,Term Loan,True,AST-0011
+AV-CLIENT-01,CR-0012,Frontier Bond A,ISS-0006,Active,2025-09-12,Revolver,True,AST-0012
